@@ -1,0 +1,4391 @@
+Emoji_ID,Emoji,Description
+1,😀,grinning face
+2,😃,grinning face with big eyes
+3,😄,grinning face with smiling eyes
+4,😁,beaming face with smiling eyes
+5,😆,grinning squinting face
+6,😅,grinning face with sweat
+7,🤣,rolling on the floor laughing
+8,😂,face with tears of joy
+9,🙂,slightly smiling face
+10,🙃,upside-down face
+11,😉,winking face
+12,😊,smiling face with smiling eyes
+13,😇,smiling face with halo
+14,🥰,smiling face with hearts
+15,😍,smiling face with heart-eyes
+16,🤩,star-struck
+17,😘,face blowing a kiss
+18,😗,kissing face
+19,☺️,smiling face
+20,☺,smiling face
+21,😚,kissing face with closed eyes
+22,😙,kissing face with smiling eyes
+23,🥲,smiling face with tear
+24,😋,face savoring food
+25,😛,face with tongue
+26,😜,winking face with tongue
+27,🤪,zany face
+28,😝,squinting face with tongue
+29,🤑,money-mouth face
+30,🤗,hugging face
+31,🤭,face with hand over mouth
+32,🤫,shushing face
+33,🤔,thinking face
+34,🤐,zipper-mouth face
+35,🤨,face with raised eyebrow
+36,😐,neutral face
+37,😑,expressionless face
+38,😶,face without mouth
+39,😏,smirking face
+40,😒,unamused face
+41,🙄,face with rolling eyes
+42,😬,grimacing face
+43,🤥,lying face
+44,😌,relieved face
+45,😔,pensive face
+46,😪,sleepy face
+47,🤤,drooling face
+48,😴,sleeping face
+49,😷,face with medical mask
+50,🤒,face with thermometer
+51,🤕,face with head-bandage
+52,🤢,nauseated face
+53,🤮,face vomiting
+54,🤧,sneezing face
+55,🥵,hot face
+56,🥶,cold face
+57,🥴,woozy face
+58,😵,dizzy face
+59,🤯,exploding head
+60,🤠,cowboy hat face
+61,🥳,partying face
+62,🥸,disguised face
+63,😎,smiling face with sunglasses
+64,🤓,nerd face
+65,🧐,face with monocle
+66,😕,confused face
+67,😟,worried face
+68,🙁,slightly frowning face
+69,☹️,frowning face
+70,☹,frowning face
+71,😮,face with open mouth
+72,😯,hushed face
+73,😲,astonished face
+74,😳,flushed face
+75,🥺,pleading face
+76,😦,frowning face with open mouth
+77,😧,anguished face
+78,😨,fearful face
+79,😰,anxious face with sweat
+80,😥,sad but relieved face
+81,😢,crying face
+82,😭,loudly crying face
+83,😱,face screaming in fear
+84,😖,confounded face
+85,😣,persevering face
+86,😞,disappointed face
+87,😓,downcast face with sweat
+88,😩,weary face
+89,😫,tired face
+90,🥱,yawning face
+91,😤,face with steam from nose
+92,😡,pouting face
+93,😠,angry face
+94,🤬,face with symbols on mouth
+95,😈,smiling face with horns
+96,👿,angry face with horns
+97,💀,skull
+98,☠️,skull and crossbones
+99,☠,skull and crossbones
+100,💩,pile of poo
+101,🤡,clown face
+102,👹,ogre
+103,👺,goblin
+104,👻,ghost
+105,👽,alien
+106,👾,alien monster
+107,🤖,robot
+108,😺,grinning cat
+109,😸,grinning cat with smiling eyes
+110,😹,cat with tears of joy
+111,😻,smiling cat with heart-eyes
+112,😼,cat with wry smile
+113,😽,kissing cat
+114,🙀,weary cat
+115,😿,crying cat
+116,😾,pouting cat
+117,🙈,see-no-evil monkey
+118,🙉,hear-no-evil monkey
+119,🙊,speak-no-evil monkey
+120,💋,kiss mark
+121,💌,love letter
+122,💘,heart with arrow
+123,💝,heart with ribbon
+124,💖,sparkling heart
+125,💗,growing heart
+126,💓,beating heart
+127,💞,revolving hearts
+128,💕,two hearts
+129,💟,heart decoration
+130,❣️,heart exclamation
+131,❣,heart exclamation
+132,💔,broken heart
+133,❤️,red heart
+134,❤,red heart
+135,🧡,orange heart
+136,💛,yellow heart
+137,💚,green heart
+138,💙,blue heart
+139,💜,purple heart
+140,🤎,brown heart
+141,🖤,black heart
+142,🤍,white heart
+143,💯,hundred points
+144,💢,anger symbol
+145,💥,collision
+146,💫,dizzy
+147,💦,sweat droplets
+148,💨,dashing away
+149,🕳️,hole
+150,🕳,hole
+151,💣,bomb
+152,💬,speech balloon
+153,👁️🗨️,eye in speech bubble
+154,👁🗨️,eye in speech bubble
+155,👁️🗨,eye in speech bubble
+156,👁🗨,eye in speech bubble
+157,🗨️,left speech bubble
+158,🗨,left speech bubble
+159,🗯️,right anger bubble
+160,🗯,right anger bubble
+161,💭,thought balloon
+162,💤,zzz
+163,👋,waving hand
+164,👋🏻,waving hand: light skin tone
+165,👋🏼,waving hand: medium-light skin tone
+166,👋🏽,waving hand: medium skin tone
+167,👋🏾,waving hand: medium-dark skin tone
+168,👋🏿,waving hand: dark skin tone
+169,🤚,raised back of hand
+170,🤚🏻,raised back of hand: light skin tone
+171,🤚🏼,raised back of hand: medium-light skin tone
+172,🤚🏽,raised back of hand: medium skin tone
+173,🤚🏾,raised back of hand: medium-dark skin tone
+174,🤚🏿,raised back of hand: dark skin tone
+175,🖐️,hand with fingers splayed
+176,🖐,hand with fingers splayed
+177,🖐🏻,hand with fingers splayed: light skin tone
+178,🖐🏼,hand with fingers splayed: medium-light skin tone
+179,🖐🏽,hand with fingers splayed: medium skin tone
+180,🖐🏾,hand with fingers splayed: medium-dark skin tone
+181,🖐🏿,hand with fingers splayed: dark skin tone
+182,✋,raised hand
+183,✋🏻,raised hand: light skin tone
+184,✋🏼,raised hand: medium-light skin tone
+185,✋🏽,raised hand: medium skin tone
+186,✋🏾,raised hand: medium-dark skin tone
+187,✋🏿,raised hand: dark skin tone
+188,🖖,vulcan salute
+189,🖖🏻,vulcan salute: light skin tone
+190,🖖🏼,vulcan salute: medium-light skin tone
+191,🖖🏽,vulcan salute: medium skin tone
+192,🖖🏾,vulcan salute: medium-dark skin tone
+193,🖖🏿,vulcan salute: dark skin tone
+194,👌,OK hand
+195,👌🏻,OK hand: light skin tone
+196,👌🏼,OK hand: medium-light skin tone
+197,👌🏽,OK hand: medium skin tone
+198,👌🏾,OK hand: medium-dark skin tone
+199,👌🏿,OK hand: dark skin tone
+200,🤏,pinching hand
+201,🤏🏻,pinching hand: light skin tone
+202,🤏🏼,pinching hand: medium-light skin tone
+203,🤏🏽,pinching hand: medium skin tone
+204,🤏🏾,pinching hand: medium-dark skin tone
+205,🤏🏿,pinching hand: dark skin tone
+206,✌️,victory hand
+207,✌,victory hand
+208,✌🏻,victory hand: light skin tone
+209,✌🏼,victory hand: medium-light skin tone
+210,✌🏽,victory hand: medium skin tone
+211,✌🏾,victory hand: medium-dark skin tone
+212,✌🏿,victory hand: dark skin tone
+213,🤞,crossed fingers
+214,🤞🏻,crossed fingers: light skin tone
+215,🤞🏼,crossed fingers: medium-light skin tone
+216,🤞🏽,crossed fingers: medium skin tone
+217,🤞🏾,crossed fingers: medium-dark skin tone
+218,🤞🏿,crossed fingers: dark skin tone
+219,🤟,love-you gesture
+220,🤟🏻,love-you gesture: light skin tone
+221,🤟🏼,love-you gesture: medium-light skin tone
+222,🤟🏽,love-you gesture: medium skin tone
+223,🤟🏾,love-you gesture: medium-dark skin tone
+224,🤟🏿,love-you gesture: dark skin tone
+225,🤘,sign of the horns
+226,🤘🏻,sign of the horns: light skin tone
+227,🤘🏼,sign of the horns: medium-light skin tone
+228,🤘🏽,sign of the horns: medium skin tone
+229,🤘🏾,sign of the horns: medium-dark skin tone
+230,🤘🏿,sign of the horns: dark skin tone
+231,🤙,call me hand
+232,🤙🏻,call me hand: light skin tone
+233,🤙🏼,call me hand: medium-light skin tone
+234,🤙🏽,call me hand: medium skin tone
+235,🤙🏾,call me hand: medium-dark skin tone
+236,🤙🏿,call me hand: dark skin tone
+237,👈,backhand index pointing left
+238,👈🏻,backhand index pointing left: light skin tone
+239,👈🏼,backhand index pointing left: medium-light skin tone
+240,👈🏽,backhand index pointing left: medium skin tone
+241,👈🏾,backhand index pointing left: medium-dark skin tone
+242,👈🏿,backhand index pointing left: dark skin tone
+243,👉,backhand index pointing right
+244,👉🏻,backhand index pointing right: light skin tone
+245,👉🏼,backhand index pointing right: medium-light skin tone
+246,👉🏽,backhand index pointing right: medium skin tone
+247,👉🏾,backhand index pointing right: medium-dark skin tone
+248,👉🏿,backhand index pointing right: dark skin tone
+249,👆,backhand index pointing up
+250,👆🏻,backhand index pointing up: light skin tone
+251,👆🏼,backhand index pointing up: medium-light skin tone
+252,👆🏽,backhand index pointing up: medium skin tone
+253,👆🏾,backhand index pointing up: medium-dark skin tone
+254,👆🏿,backhand index pointing up: dark skin tone
+255,🖕,middle finger
+256,🖕🏻,middle finger: light skin tone
+257,🖕🏼,middle finger: medium-light skin tone
+258,🖕🏽,middle finger: medium skin tone
+259,🖕🏾,middle finger: medium-dark skin tone
+260,🖕🏿,middle finger: dark skin tone
+261,👇,backhand index pointing down
+262,👇🏻,backhand index pointing down: light skin tone
+263,👇🏼,backhand index pointing down: medium-light skin tone
+264,👇🏽,backhand index pointing down: medium skin tone
+265,👇🏾,backhand index pointing down: medium-dark skin tone
+266,👇🏿,backhand index pointing down: dark skin tone
+267,☝️,index pointing up
+268,☝,index pointing up
+269,☝🏻,index pointing up: light skin tone
+270,☝🏼,index pointing up: medium-light skin tone
+271,☝🏽,index pointing up: medium skin tone
+272,☝🏾,index pointing up: medium-dark skin tone
+273,☝🏿,index pointing up: dark skin tone
+274,👍,thumbs up
+275,👍🏻,thumbs up: light skin tone
+276,👍🏼,thumbs up: medium-light skin tone
+277,👍🏽,thumbs up: medium skin tone
+278,👍🏾,thumbs up: medium-dark skin tone
+279,👍🏿,thumbs up: dark skin tone
+280,👎,thumbs down
+281,👎🏻,thumbs down: light skin tone
+282,👎🏼,thumbs down: medium-light skin tone
+283,👎🏽,thumbs down: medium skin tone
+284,👎🏾,thumbs down: medium-dark skin tone
+285,👎🏿,thumbs down: dark skin tone
+286,✊,raised fist
+287,✊🏻,raised fist: light skin tone
+288,✊🏼,raised fist: medium-light skin tone
+289,✊🏽,raised fist: medium skin tone
+290,✊🏾,raised fist: medium-dark skin tone
+291,✊🏿,raised fist: dark skin tone
+292,👊,oncoming fist
+293,👊🏻,oncoming fist: light skin tone
+294,👊🏼,oncoming fist: medium-light skin tone
+295,👊🏽,oncoming fist: medium skin tone
+296,👊🏾,oncoming fist: medium-dark skin tone
+297,👊🏿,oncoming fist: dark skin tone
+298,🤛,left-facing fist
+299,🤛🏻,left-facing fist: light skin tone
+300,🤛🏼,left-facing fist: medium-light skin tone
+301,🤛🏽,left-facing fist: medium skin tone
+302,🤛🏾,left-facing fist: medium-dark skin tone
+303,🤛🏿,left-facing fist: dark skin tone
+304,🤜,right-facing fist
+305,🤜🏻,right-facing fist: light skin tone
+306,🤜🏼,right-facing fist: medium-light skin tone
+307,🤜🏽,right-facing fist: medium skin tone
+308,🤜🏾,right-facing fist: medium-dark skin tone
+309,🤜🏿,right-facing fist: dark skin tone
+310,👏,clapping hands
+311,👏🏻,clapping hands: light skin tone
+312,👏🏼,clapping hands: medium-light skin tone
+313,👏🏽,clapping hands: medium skin tone
+314,👏🏾,clapping hands: medium-dark skin tone
+315,👏🏿,clapping hands: dark skin tone
+316,🙌,raising hands
+317,🙌🏻,raising hands: light skin tone
+318,🙌🏼,raising hands: medium-light skin tone
+319,🙌🏽,raising hands: medium skin tone
+320,🙌🏾,raising hands: medium-dark skin tone
+321,🙌🏿,raising hands: dark skin tone
+322,👐,open hands
+323,👐🏻,open hands: light skin tone
+324,👐🏼,open hands: medium-light skin tone
+325,👐🏽,open hands: medium skin tone
+326,👐🏾,open hands: medium-dark skin tone
+327,👐🏿,open hands: dark skin tone
+328,🤲,palms up together
+329,🤲🏻,palms up together: light skin tone
+330,🤲🏼,palms up together: medium-light skin tone
+331,🤲🏽,palms up together: medium skin tone
+332,🤲🏾,palms up together: medium-dark skin tone
+333,🤲🏿,palms up together: dark skin tone
+334,🤝,handshake
+335,🙏,folded hands
+336,🙏🏻,folded hands: light skin tone
+337,🙏🏼,folded hands: medium-light skin tone
+338,🙏🏽,folded hands: medium skin tone
+339,🙏🏾,folded hands: medium-dark skin tone
+340,🙏🏿,folded hands: dark skin tone
+341,✍️,writing hand
+342,✍,writing hand
+343,✍🏻,writing hand: light skin tone
+344,✍🏼,writing hand: medium-light skin tone
+345,✍🏽,writing hand: medium skin tone
+346,✍🏾,writing hand: medium-dark skin tone
+347,✍🏿,writing hand: dark skin tone
+348,💅,nail polish
+349,💅🏻,nail polish: light skin tone
+350,💅🏼,nail polish: medium-light skin tone
+351,💅🏽,nail polish: medium skin tone
+352,💅🏾,nail polish: medium-dark skin tone
+353,💅🏿,nail polish: dark skin tone
+354,🤳,selfie
+355,🤳🏻,selfie: light skin tone
+356,🤳🏼,selfie: medium-light skin tone
+357,🤳🏽,selfie: medium skin tone
+358,🤳🏾,selfie: medium-dark skin tone
+359,🤳🏿,selfie: dark skin tone
+360,💪,flexed biceps
+361,💪🏻,flexed biceps: light skin tone
+362,💪🏼,flexed biceps: medium-light skin tone
+363,💪🏽,flexed biceps: medium skin tone
+364,💪🏾,flexed biceps: medium-dark skin tone
+365,💪🏿,flexed biceps: dark skin tone
+366,🦵,leg
+367,🦵🏻,leg: light skin tone
+368,🦵🏼,leg: medium-light skin tone
+369,🦵🏽,leg: medium skin tone
+370,🦵🏾,leg: medium-dark skin tone
+371,🦵🏿,leg: dark skin tone
+372,🦶,foot
+373,🦶🏻,foot: light skin tone
+374,🦶🏼,foot: medium-light skin tone
+375,🦶🏽,foot: medium skin tone
+376,🦶🏾,foot: medium-dark skin tone
+377,🦶🏿,foot: dark skin tone
+378,👂,ear
+379,👂🏻,ear: light skin tone
+380,👂🏼,ear: medium-light skin tone
+381,👂🏽,ear: medium skin tone
+382,👂🏾,ear: medium-dark skin tone
+383,👂🏿,ear: dark skin tone
+384,🦻,ear with hearing aid
+385,🦻🏻,ear with hearing aid: light skin tone
+386,🦻🏼,ear with hearing aid: medium-light skin tone
+387,🦻🏽,ear with hearing aid: medium skin tone
+388,🦻🏾,ear with hearing aid: medium-dark skin tone
+389,🦻🏿,ear with hearing aid: dark skin tone
+390,👃,nose
+391,👃🏻,nose: light skin tone
+392,👃🏼,nose: medium-light skin tone
+393,👃🏽,nose: medium skin tone
+394,👃🏾,nose: medium-dark skin tone
+395,👃🏿,nose: dark skin tone
+396,🧠,brain
+397,🦷,tooth
+398,🦴,bone
+399,👀,eyes
+400,👁️,eye
+401,👁,eye
+402,👅,tongue
+403,👄,mouth
+404,👶,baby
+405,👶🏻,baby: light skin tone
+406,👶🏼,baby: medium-light skin tone
+407,👶🏽,baby: medium skin tone
+408,👶🏾,baby: medium-dark skin tone
+409,👶🏿,baby: dark skin tone
+410,🧒,child
+411,🧒🏻,child: light skin tone
+412,🧒🏼,child: medium-light skin tone
+413,🧒🏽,child: medium skin tone
+414,🧒🏾,child: medium-dark skin tone
+415,🧒🏿,child: dark skin tone
+416,👦,boy
+417,👦🏻,boy: light skin tone
+418,👦🏼,boy: medium-light skin tone
+419,👦🏽,boy: medium skin tone
+420,👦🏾,boy: medium-dark skin tone
+421,👦🏿,boy: dark skin tone
+422,👧,girl
+423,👧🏻,girl: light skin tone
+424,👧🏼,girl: medium-light skin tone
+425,👧🏽,girl: medium skin tone
+426,👧🏾,girl: medium-dark skin tone
+427,👧🏿,girl: dark skin tone
+428,🧑,person
+429,🧑🏻,person: light skin tone
+430,🧑🏼,person: medium-light skin tone
+431,🧑🏽,person: medium skin tone
+432,🧑🏾,person: medium-dark skin tone
+433,🧑🏿,person: dark skin tone
+434,👱,person: blond hair
+435,👱🏻,"person: light skin tone, blond hair"
+436,👱🏼,"person: medium-light skin tone, blond hair"
+437,👱🏽,"person: medium skin tone, blond hair"
+438,👱🏾,"person: medium-dark skin tone, blond hair"
+439,👱🏿,"person: dark skin tone, blond hair"
+440,👨,man
+441,👨🏻,man: light skin tone
+442,👨🏼,man: medium-light skin tone
+443,👨🏽,man: medium skin tone
+444,👨🏾,man: medium-dark skin tone
+445,👨🏿,man: dark skin tone
+446,🧔,man: beard
+447,🧔🏻,"man: light skin tone, beard"
+448,🧔🏼,"man: medium-light skin tone, beard"
+449,🧔🏽,"man: medium skin tone, beard"
+450,🧔🏾,"man: medium-dark skin tone, beard"
+451,🧔🏿,"man: dark skin tone, beard"
+452,👩,woman
+453,👩🏻,woman: light skin tone
+454,👩🏼,woman: medium-light skin tone
+455,👩🏽,woman: medium skin tone
+456,👩🏾,woman: medium-dark skin tone
+457,👩🏿,woman: dark skin tone
+458,👩,woman: red hair
+459,👱♀️,woman: blond hair
+460,👱♀,woman: blond hair
+461,👱🏻♀️,"woman: light skin tone, blond hair"
+462,👱🏻♀,"woman: light skin tone, blond hair"
+463,👱🏼♀️,"woman: medium-light skin tone, blond hair"
+464,👱🏼♀,"woman: medium-light skin tone, blond hair"
+465,👱🏽♀️,"woman: medium skin tone, blond hair"
+466,👱🏽♀,"woman: medium skin tone, blond hair"
+467,👱🏾♀️,"woman: medium-dark skin tone, blond hair"
+468,👱🏾♀,"woman: medium-dark skin tone, blond hair"
+469,👱🏿♀️,"woman: dark skin tone, blond hair"
+470,👱🏿♀,"woman: dark skin tone, blond hair"
+471,👱♂️,man: blond hair
+472,👱♂,man: blond hair
+473,👱🏻♂️,"man: light skin tone, blond hair"
+474,👱🏻♂,"man: light skin tone, blond hair"
+475,👱🏼♂️,"man: medium-light skin tone, blond hair"
+476,👱🏼♂,"man: medium-light skin tone, blond hair"
+477,👱🏽♂️,"man: medium skin tone, blond hair"
+478,👱🏽♂,"man: medium skin tone, blond hair"
+479,👱🏾♂️,"man: medium-dark skin tone, blond hair"
+480,👱🏾♂,"man: medium-dark skin tone, blond hair"
+481,👱🏿♂️,"man: dark skin tone, blond hair"
+482,👱🏿♂,"man: dark skin tone, blond hair"
+483,🧓,older person
+484,🧓🏻,older person: light skin tone
+485,🧓🏼,older person: medium-light skin tone
+486,🧓🏽,older person: medium skin tone
+487,🧓🏾,older person: medium-dark skin tone
+488,🧓🏿,older person: dark skin tone
+489,👴,old man
+490,👴🏻,old man: light skin tone
+491,👴🏼,old man: medium-light skin tone
+492,👴🏽,old man: medium skin tone
+493,👴🏾,old man: medium-dark skin tone
+494,👴🏿,old man: dark skin tone
+495,👵,old woman
+496,👵🏻,old woman: light skin tone
+497,👵🏼,old woman: medium-light skin tone
+498,👵🏽,old woman: medium skin tone
+499,👵🏾,old woman: medium-dark skin tone
+500,👵🏿,old woman: dark skin tone
+501,🙍,person frowning
+502,🙍🏻,person frowning: light skin tone
+503,🙍🏼,person frowning: medium-light skin tone
+504,🙍🏽,person frowning: medium skin tone
+505,🙍🏾,person frowning: medium-dark skin tone
+506,🙍🏿,person frowning: dark skin tone
+507,🙍♂️,man frowning
+508,🙍♂,man frowning
+509,🙍🏻♂️,man frowning: light skin tone
+510,🙍🏻♂,man frowning: light skin tone
+511,🙍🏼♂️,man frowning: medium-light skin tone
+512,🙍🏼♂,man frowning: medium-light skin tone
+513,🙍🏽♂️,man frowning: medium skin tone
+514,🙍🏽♂,man frowning: medium skin tone
+515,🙍🏾♂️,man frowning: medium-dark skin tone
+516,🙍🏾♂,man frowning: medium-dark skin tone
+517,🙍🏿♂️,man frowning: dark skin tone
+518,🙍🏿♂,man frowning: dark skin tone
+519,🙍♀️,woman frowning
+520,🙍♀,woman frowning
+521,🙍🏻♀️,woman frowning: light skin tone
+522,🙍🏻♀,woman frowning: light skin tone
+523,🙍🏼♀️,woman frowning: medium-light skin tone
+524,🙍🏼♀,woman frowning: medium-light skin tone
+525,🙍🏽♀️,woman frowning: medium skin tone
+526,🙍🏽♀,woman frowning: medium skin tone
+527,🙍🏾♀️,woman frowning: medium-dark skin tone
+528,🙍🏾♀,woman frowning: medium-dark skin tone
+529,🙍🏿♀️,woman frowning: dark skin tone
+530,🙍🏿♀,woman frowning: dark skin tone
+531,🙎,person pouting
+532,🙎🏻,person pouting: light skin tone
+533,🙎🏼,person pouting: medium-light skin tone
+534,🙎🏽,person pouting: medium skin tone
+535,🙎🏾,person pouting: medium-dark skin tone
+536,🙎🏿,person pouting: dark skin tone
+537,🙎♂️,man pouting
+538,🙎♂,man pouting
+539,🙎🏻♂️,man pouting: light skin tone
+540,🙎🏻♂,man pouting: light skin tone
+541,🙎🏼♂️,man pouting: medium-light skin tone
+542,🙎🏼♂,man pouting: medium-light skin tone
+543,🙎🏽♂️,man pouting: medium skin tone
+544,🙎🏽♂,man pouting: medium skin tone
+545,🙎🏾♂️,man pouting: medium-dark skin tone
+546,🙎🏾♂,man pouting: medium-dark skin tone
+547,🙎🏿♂️,man pouting: dark skin tone
+548,🙎🏿♂,man pouting: dark skin tone
+549,🙎♀️,woman pouting
+550,🙎♀,woman pouting
+551,🙎🏻♀️,woman pouting: light skin tone
+552,🙎🏻♀,woman pouting: light skin tone
+553,🙎🏼♀️,woman pouting: medium-light skin tone
+554,🙎🏼♀,woman pouting: medium-light skin tone
+555,🙎🏽♀️,woman pouting: medium skin tone
+556,🙎🏽♀,woman pouting: medium skin tone
+557,🙎🏾♀️,woman pouting: medium-dark skin tone
+558,🙎🏾♀,woman pouting: medium-dark skin tone
+559,🙎🏿♀️,woman pouting: dark skin tone
+560,🙎🏿♀,woman pouting: dark skin tone
+561,🙅,person gesturing NO
+562,🙅🏻,person gesturing NO: light skin tone
+563,🙅🏼,person gesturing NO: medium-light skin tone
+564,🙅🏽,person gesturing NO: medium skin tone
+565,🙅🏾,person gesturing NO: medium-dark skin tone
+566,🙅🏿,person gesturing NO: dark skin tone
+567,🙅♂️,man gesturing NO
+568,🙅♂,man gesturing NO
+569,🙅🏻♂️,man gesturing NO: light skin tone
+570,🙅🏻♂,man gesturing NO: light skin tone
+571,🙅🏼♂️,man gesturing NO: medium-light skin tone
+572,🙅🏼♂,man gesturing NO: medium-light skin tone
+573,🙅🏽♂️,man gesturing NO: medium skin tone
+574,🙅🏽♂,man gesturing NO: medium skin tone
+575,🙅🏾♂️,man gesturing NO: medium-dark skin tone
+576,🙅🏾♂,man gesturing NO: medium-dark skin tone
+577,🙅🏿♂️,man gesturing NO: dark skin tone
+578,🙅🏿♂,man gesturing NO: dark skin tone
+579,🙅♀️,woman gesturing NO
+580,🙅♀,woman gesturing NO
+581,🙅🏻♀️,woman gesturing NO: light skin tone
+582,🙅🏻♀,woman gesturing NO: light skin tone
+583,🙅🏼♀️,woman gesturing NO: medium-light skin tone
+584,🙅🏼♀,woman gesturing NO: medium-light skin tone
+585,🙅🏽♀️,woman gesturing NO: medium skin tone
+586,🙅🏽♀,woman gesturing NO: medium skin tone
+587,🙅🏾♀️,woman gesturing NO: medium-dark skin tone
+588,🙅🏾♀,woman gesturing NO: medium-dark skin tone
+589,🙅🏿♀️,woman gesturing NO: dark skin tone
+590,🙅🏿♀,woman gesturing NO: dark skin tone
+591,🙆,person gesturing OK
+592,🙆🏻,person gesturing OK: light skin tone
+593,🙆🏼,person gesturing OK: medium-light skin tone
+594,🙆🏽,person gesturing OK: medium skin tone
+595,🙆🏾,person gesturing OK: medium-dark skin tone
+596,🙆🏿,person gesturing OK: dark skin tone
+597,🙆♂️,man gesturing OK
+598,🙆♂,man gesturing OK
+599,🙆🏻♂️,man gesturing OK: light skin tone
+600,🙆🏻♂,man gesturing OK: light skin tone
+601,🙆🏼♂️,man gesturing OK: medium-light skin tone
+602,🙆🏼♂,man gesturing OK: medium-light skin tone
+603,🙆🏽♂️,man gesturing OK: medium skin tone
+604,🙆🏽♂,man gesturing OK: medium skin tone
+605,🙆🏾♂️,man gesturing OK: medium-dark skin tone
+606,🙆🏾♂,man gesturing OK: medium-dark skin tone
+607,🙆🏿♂️,man gesturing OK: dark skin tone
+608,🙆🏿♂,man gesturing OK: dark skin tone
+609,🙆♀️,woman gesturing OK
+610,🙆♀,woman gesturing OK
+611,🙆🏻♀️,woman gesturing OK: light skin tone
+612,🙆🏻♀,woman gesturing OK: light skin tone
+613,🙆🏼♀️,woman gesturing OK: medium-light skin tone
+614,🙆🏼♀,woman gesturing OK: medium-light skin tone
+615,🙆🏽♀️,woman gesturing OK: medium skin tone
+616,🙆🏽♀,woman gesturing OK: medium skin tone
+617,🙆🏾♀️,woman gesturing OK: medium-dark skin tone
+618,🙆🏾♀,woman gesturing OK: medium-dark skin tone
+619,🙆🏿♀️,woman gesturing OK: dark skin tone
+620,🙆🏿♀,woman gesturing OK: dark skin tone
+621,💁,person tipping hand
+622,💁🏻,person tipping hand: light skin tone
+623,💁🏼,person tipping hand: medium-light skin tone
+624,💁🏽,person tipping hand: medium skin tone
+625,💁🏾,person tipping hand: medium-dark skin tone
+626,💁🏿,person tipping hand: dark skin tone
+627,💁♂️,man tipping hand
+628,💁♂,man tipping hand
+629,💁🏻♂️,man tipping hand: light skin tone
+630,💁🏻♂,man tipping hand: light skin tone
+631,💁🏼♂️,man tipping hand: medium-light skin tone
+632,💁🏼♂,man tipping hand: medium-light skin tone
+633,💁🏽♂️,man tipping hand: medium skin tone
+634,💁🏽♂,man tipping hand: medium skin tone
+635,💁🏾♂️,man tipping hand: medium-dark skin tone
+636,💁🏾♂,man tipping hand: medium-dark skin tone
+637,💁🏿♂️,man tipping hand: dark skin tone
+638,💁🏿♂,man tipping hand: dark skin tone
+639,💁♀️,woman tipping hand
+640,💁♀,woman tipping hand
+641,💁🏻♀️,woman tipping hand: light skin tone
+642,💁🏻♀,woman tipping hand: light skin tone
+643,💁🏼♀️,woman tipping hand: medium-light skin tone
+644,💁🏼♀,woman tipping hand: medium-light skin tone
+645,💁🏽♀️,woman tipping hand: medium skin tone
+646,💁🏽♀,woman tipping hand: medium skin tone
+647,💁🏾♀️,woman tipping hand: medium-dark skin tone
+648,💁🏾♀,woman tipping hand: medium-dark skin tone
+649,💁🏿♀️,woman tipping hand: dark skin tone
+650,💁🏿♀,woman tipping hand: dark skin tone
+651,🙋,person raising hand
+652,🙋🏻,person raising hand: light skin tone
+653,🙋🏼,person raising hand: medium-light skin tone
+654,🙋🏽,person raising hand: medium skin tone
+655,🙋🏾,person raising hand: medium-dark skin tone
+656,🙋🏿,person raising hand: dark skin tone
+657,🙋♂️,man raising hand
+658,🙋♂,man raising hand
+659,🙋🏻♂️,man raising hand: light skin tone
+660,🙋🏻♂,man raising hand: light skin tone
+661,🙋🏼♂️,man raising hand: medium-light skin tone
+662,🙋🏼♂,man raising hand: medium-light skin tone
+663,🙋🏽♂️,man raising hand: medium skin tone
+664,🙋🏽♂,man raising hand: medium skin tone
+665,🙋🏾♂️,man raising hand: medium-dark skin tone
+666,🙋🏾♂,man raising hand: medium-dark skin tone
+667,🙋🏿♂️,man raising hand: dark skin tone
+668,🙋🏿♂,man raising hand: dark skin tone
+669,🙋♀️,woman raising hand
+670,🙋♀,woman raising hand
+671,🙋🏻♀️,woman raising hand: light skin tone
+672,🙋🏻♀,woman raising hand: light skin tone
+673,🙋🏼♀️,woman raising hand: medium-light skin tone
+674,🙋🏼♀,woman raising hand: medium-light skin tone
+675,🙋🏽♀️,woman raising hand: medium skin tone
+676,🙋🏽♀,woman raising hand: medium skin tone
+677,🙋🏾♀️,woman raising hand: medium-dark skin tone
+678,🙋🏾♀,woman raising hand: medium-dark skin tone
+679,🙋🏿♀️,woman raising hand: dark skin tone
+680,🙋🏿♀,woman raising hand: dark skin tone
+681,🧏,deaf person
+682,🧏🏻,deaf person: light skin tone
+683,🧏🏼,deaf person: medium-light skin tone
+684,🧏🏽,deaf person: medium skin tone
+685,🧏🏾,deaf person: medium-dark skin tone
+686,🧏🏿,deaf person: dark skin tone
+687,🧏♂️,deaf man
+688,🧏♂,deaf man
+689,🧏🏻♂️,deaf man: light skin tone
+690,🧏🏻♂,deaf man: light skin tone
+691,🧏🏼♂️,deaf man: medium-light skin tone
+692,🧏🏼♂,deaf man: medium-light skin tone
+693,🧏🏽♂️,deaf man: medium skin tone
+694,🧏🏽♂,deaf man: medium skin tone
+695,🧏🏾♂️,deaf man: medium-dark skin tone
+696,🧏🏾♂,deaf man: medium-dark skin tone
+697,🧏🏿♂️,deaf man: dark skin tone
+698,🧏🏿♂,deaf man: dark skin tone
+699,🧏♀️,deaf woman
+700,🧏♀,deaf woman
+701,🧏🏻♀️,deaf woman: light skin tone
+702,🧏🏻♀,deaf woman: light skin tone
+703,🧏🏼♀️,deaf woman: medium-light skin tone
+704,🧏🏼♀,deaf woman: medium-light skin tone
+705,🧏🏽♀️,deaf woman: medium skin tone
+706,🧏🏽♀,deaf woman: medium skin tone
+707,🧏🏾♀️,deaf woman: medium-dark skin tone
+708,🧏🏾♀,deaf woman: medium-dark skin tone
+709,🧏🏿♀️,deaf woman: dark skin tone
+710,🧏🏿♀,deaf woman: dark skin tone
+711,🙇,person bowing
+712,🙇🏻,person bowing: light skin tone
+713,🙇🏼,person bowing: medium-light skin tone
+714,🙇🏽,person bowing: medium skin tone
+715,🙇🏾,person bowing: medium-dark skin tone
+716,🙇🏿,person bowing: dark skin tone
+717,🙇♂️,man bowing
+718,🙇♂,man bowing
+719,🙇🏻♂️,man bowing: light skin tone
+720,🙇🏻♂,man bowing: light skin tone
+721,🙇🏼♂️,man bowing: medium-light skin tone
+722,🙇🏼♂,man bowing: medium-light skin tone
+723,🙇🏽♂️,man bowing: medium skin tone
+724,🙇🏽♂,man bowing: medium skin tone
+725,🙇🏾♂️,man bowing: medium-dark skin tone
+726,🙇🏾♂,man bowing: medium-dark skin tone
+727,🙇🏿♂️,man bowing: dark skin tone
+728,🙇🏿♂,man bowing: dark skin tone
+729,🙇♀️,woman bowing
+730,🙇♀,woman bowing
+731,🙇🏻♀️,woman bowing: light skin tone
+732,🙇🏻♀,woman bowing: light skin tone
+733,🙇🏼♀️,woman bowing: medium-light skin tone
+734,🙇🏼♀,woman bowing: medium-light skin tone
+735,🙇🏽♀️,woman bowing: medium skin tone
+736,🙇🏽♀,woman bowing: medium skin tone
+737,🙇🏾♀️,woman bowing: medium-dark skin tone
+738,🙇🏾♀,woman bowing: medium-dark skin tone
+739,🙇🏿♀️,woman bowing: dark skin tone
+740,🙇🏿♀,woman bowing: dark skin tone
+741,🤦,person facepalming
+742,🤦🏻,person facepalming: light skin tone
+743,🤦🏼,person facepalming: medium-light skin tone
+744,🤦🏽,person facepalming: medium skin tone
+745,🤦🏾,person facepalming: medium-dark skin tone
+746,🤦🏿,person facepalming: dark skin tone
+747,🤦♂️,man facepalming
+748,🤦♂,man facepalming
+749,🤦🏻♂️,man facepalming: light skin tone
+750,🤦🏻♂,man facepalming: light skin tone
+751,🤦🏼♂️,man facepalming: medium-light skin tone
+752,🤦🏼♂,man facepalming: medium-light skin tone
+753,🤦🏽♂️,man facepalming: medium skin tone
+754,🤦🏽♂,man facepalming: medium skin tone
+755,🤦🏾♂️,man facepalming: medium-dark skin tone
+756,🤦🏾♂,man facepalming: medium-dark skin tone
+757,🤦🏿♂️,man facepalming: dark skin tone
+758,🤦🏿♂,man facepalming: dark skin tone
+759,🤦♀️,woman facepalming
+760,🤦♀,woman facepalming
+761,🤦🏻♀️,woman facepalming: light skin tone
+762,🤦🏻♀,woman facepalming: light skin tone
+763,🤦🏼♀️,woman facepalming: medium-light skin tone
+764,🤦🏼♀,woman facepalming: medium-light skin tone
+765,🤦🏽♀️,woman facepalming: medium skin tone
+766,🤦🏽♀,woman facepalming: medium skin tone
+767,🤦🏾♀️,woman facepalming: medium-dark skin tone
+768,🤦🏾♀,woman facepalming: medium-dark skin tone
+769,🤦🏿♀️,woman facepalming: dark skin tone
+770,🤦🏿♀,woman facepalming: dark skin tone
+771,🤷,person shrugging
+772,🤷🏻,person shrugging: light skin tone
+773,🤷🏼,person shrugging: medium-light skin tone
+774,🤷🏽,person shrugging: medium skin tone
+775,🤷🏾,person shrugging: medium-dark skin tone
+776,🤷🏿,person shrugging: dark skin tone
+777,🤷♂️,man shrugging
+778,🤷♂,man shrugging
+779,🤷🏻♂️,man shrugging: light skin tone
+780,🤷🏻♂,man shrugging: light skin tone
+781,🤷🏼♂️,man shrugging: medium-light skin tone
+782,🤷🏼♂,man shrugging: medium-light skin tone
+783,🤷🏽♂️,man shrugging: medium skin tone
+784,🤷🏽♂,man shrugging: medium skin tone
+785,🤷🏾♂️,man shrugging: medium-dark skin tone
+786,🤷🏾♂,man shrugging: medium-dark skin tone
+787,🤷🏿♂️,man shrugging: dark skin tone
+788,🤷🏿♂,man shrugging: dark skin tone
+789,🤷♀️,woman shrugging
+790,🤷♀,woman shrugging
+791,🤷🏻♀️,woman shrugging: light skin tone
+792,🤷🏻♀,woman shrugging: light skin tone
+793,🤷🏼♀️,woman shrugging: medium-light skin tone
+794,🤷🏼♀,woman shrugging: medium-light skin tone
+795,🤷🏽♀️,woman shrugging: medium skin tone
+796,🤷🏽♀,woman shrugging: medium skin tone
+797,🤷🏾♀️,woman shrugging: medium-dark skin tone
+798,🤷🏾♀,woman shrugging: medium-dark skin tone
+799,🤷🏿♀️,woman shrugging: dark skin tone
+800,🤷🏿♀,woman shrugging: dark skin tone
+801,🧑⚕️,health worker
+802,🧑⚕,health worker
+803,🧑🏻⚕️,health worker: light skin tone
+804,🧑🏻⚕,health worker: light skin tone
+805,🧑🏼⚕️,health worker: medium-light skin tone
+806,🧑🏼⚕,health worker: medium-light skin tone
+807,🧑🏽⚕️,health worker: medium skin tone
+808,🧑🏽⚕,health worker: medium skin tone
+809,🧑🏾⚕️,health worker: medium-dark skin tone
+810,🧑🏾⚕,health worker: medium-dark skin tone
+811,🧑🏿⚕️,health worker: dark skin tone
+812,🧑🏿⚕,health worker: dark skin tone
+813,👨⚕️,man health worker
+814,👨⚕,man health worker
+815,👨🏻⚕️,man health worker: light skin tone
+816,👨🏻⚕,man health worker: light skin tone
+817,👨🏼⚕️,man health worker: medium-light skin tone
+818,👨🏼⚕,man health worker: medium-light skin tone
+819,👨🏽⚕️,man health worker: medium skin tone
+820,👨🏽⚕,man health worker: medium skin tone
+821,👨🏾⚕️,man health worker: medium-dark skin tone
+822,👨🏾⚕,man health worker: medium-dark skin tone
+823,👨🏿⚕️,man health worker: dark skin tone
+824,👨🏿⚕,man health worker: dark skin tone
+825,👩⚕️,woman health worker
+826,👩⚕,woman health worker
+827,👩🏻⚕️,woman health worker: light skin tone
+828,👩🏻⚕,woman health worker: light skin tone
+829,👩🏼⚕️,woman health worker: medium-light skin tone
+830,👩🏼⚕,woman health worker: medium-light skin tone
+831,👩🏽⚕️,woman health worker: medium skin tone
+832,👩🏽⚕,woman health worker: medium skin tone
+833,👩🏾⚕️,woman health worker: medium-dark skin tone
+834,👩🏾⚕,woman health worker: medium-dark skin tone
+835,👩🏿⚕️,woman health worker: dark skin tone
+836,👩🏿⚕,woman health worker: dark skin tone
+837,🧑🎓,student
+838,🧑🏻🎓,student: light skin tone
+839,🧑🏼🎓,student: medium-light skin tone
+840,🧑🏽🎓,student: medium skin tone
+841,🧑🏾🎓,student: medium-dark skin tone
+842,🧑🏿🎓,student: dark skin tone
+843,👨🎓,man student
+844,👨🏻🎓,man student: light skin tone
+845,👨🏼🎓,man student: medium-light skin tone
+846,👨🏽🎓,man student: medium skin tone
+847,👨🏾🎓,man student: medium-dark skin tone
+848,👨🏿🎓,man student: dark skin tone
+849,👩🎓,woman student
+850,👩🏻🎓,woman student: light skin tone
+851,👩🏼🎓,woman student: medium-light skin tone
+852,👩🏽🎓,woman student: medium skin tone
+853,👩🏾🎓,woman student: medium-dark skin tone
+854,👩🏿🎓,woman student: dark skin tone
+855,🧑🏫,teacher
+856,🧑🏻🏫,teacher: light skin tone
+857,🧑🏼🏫,teacher: medium-light skin tone
+858,🧑🏽🏫,teacher: medium skin tone
+859,🧑🏾🏫,teacher: medium-dark skin tone
+860,🧑🏿🏫,teacher: dark skin tone
+861,👨🏫,man teacher
+862,👨🏻🏫,man teacher: light skin tone
+863,👨🏼🏫,man teacher: medium-light skin tone
+864,👨🏽🏫,man teacher: medium skin tone
+865,👨🏾🏫,man teacher: medium-dark skin tone
+866,👨🏿🏫,man teacher: dark skin tone
+867,👩🏫,woman teacher
+868,👩🏻🏫,woman teacher: light skin tone
+869,👩🏼🏫,woman teacher: medium-light skin tone
+870,👩🏽🏫,woman teacher: medium skin tone
+871,👩🏾🏫,woman teacher: medium-dark skin tone
+872,👩🏿🏫,woman teacher: dark skin tone
+873,🧑⚖️,judge
+874,🧑⚖,judge
+875,🧑🏻⚖️,judge: light skin tone
+876,🧑🏻⚖,judge: light skin tone
+877,🧑🏼⚖️,judge: medium-light skin tone
+878,🧑🏼⚖,judge: medium-light skin tone
+879,🧑🏽⚖️,judge: medium skin tone
+880,🧑🏽⚖,judge: medium skin tone
+881,🧑🏾⚖️,judge: medium-dark skin tone
+882,🧑🏾⚖,judge: medium-dark skin tone
+883,🧑🏿⚖️,judge: dark skin tone
+884,🧑🏿⚖,judge: dark skin tone
+885,👨⚖️,man judge
+886,👨⚖,man judge
+887,👨🏻⚖️,man judge: light skin tone
+888,👨🏻⚖,man judge: light skin tone
+889,👨🏼⚖️,man judge: medium-light skin tone
+890,👨🏼⚖,man judge: medium-light skin tone
+891,👨🏽⚖️,man judge: medium skin tone
+892,👨🏽⚖,man judge: medium skin tone
+893,👨🏾⚖️,man judge: medium-dark skin tone
+894,👨🏾⚖,man judge: medium-dark skin tone
+895,👨🏿⚖️,man judge: dark skin tone
+896,👨🏿⚖,man judge: dark skin tone
+897,👩⚖️,woman judge
+898,👩⚖,woman judge
+899,👩🏻⚖️,woman judge: light skin tone
+900,👩🏻⚖,woman judge: light skin tone
+901,👩🏼⚖️,woman judge: medium-light skin tone
+902,👩🏼⚖,woman judge: medium-light skin tone
+903,👩🏽⚖️,woman judge: medium skin tone
+904,👩🏽⚖,woman judge: medium skin tone
+905,👩🏾⚖️,woman judge: medium-dark skin tone
+906,👩🏾⚖,woman judge: medium-dark skin tone
+907,👩🏿⚖️,woman judge: dark skin tone
+908,👩🏿⚖,woman judge: dark skin tone
+909,🧑🌾,farmer
+910,🧑🏻🌾,farmer: light skin tone
+911,🧑🏼🌾,farmer: medium-light skin tone
+912,🧑🏽🌾,farmer: medium skin tone
+913,🧑🏾🌾,farmer: medium-dark skin tone
+914,🧑🏿🌾,farmer: dark skin tone
+915,👨🌾,man farmer
+916,👨🏻🌾,man farmer: light skin tone
+917,👨🏼🌾,man farmer: medium-light skin tone
+918,👨🏽🌾,man farmer: medium skin tone
+919,👨🏾🌾,man farmer: medium-dark skin tone
+920,👨🏿🌾,man farmer: dark skin tone
+921,👩🌾,woman farmer
+922,👩🏻🌾,woman farmer: light skin tone
+923,👩🏼🌾,woman farmer: medium-light skin tone
+924,👩🏽🌾,woman farmer: medium skin tone
+925,👩🏾🌾,woman farmer: medium-dark skin tone
+926,👩🏿🌾,woman farmer: dark skin tone
+927,🧑🍳,cook
+928,🧑🏻🍳,cook: light skin tone
+929,🧑🏼🍳,cook: medium-light skin tone
+930,🧑🏽🍳,cook: medium skin tone
+931,🧑🏾🍳,cook: medium-dark skin tone
+932,🧑🏿🍳,cook: dark skin tone
+933,👨🍳,man cook
+934,👨🏻🍳,man cook: light skin tone
+935,👨🏼🍳,man cook: medium-light skin tone
+936,👨🏽🍳,man cook: medium skin tone
+937,👨🏾🍳,man cook: medium-dark skin tone
+938,👨🏿🍳,man cook: dark skin tone
+939,👩🍳,woman cook
+940,👩🏻🍳,woman cook: light skin tone
+941,👩🏼🍳,woman cook: medium-light skin tone
+942,👩🏽🍳,woman cook: medium skin tone
+943,👩🏾🍳,woman cook: medium-dark skin tone
+944,👩🏿🍳,woman cook: dark skin tone
+945,🧑🔧,mechanic
+946,🧑🏻🔧,mechanic: light skin tone
+947,🧑🏼🔧,mechanic: medium-light skin tone
+948,🧑🏽🔧,mechanic: medium skin tone
+949,🧑🏾🔧,mechanic: medium-dark skin tone
+950,🧑🏿🔧,mechanic: dark skin tone
+951,👨🔧,man mechanic
+952,👨🏻🔧,man mechanic: light skin tone
+953,👨🏼🔧,man mechanic: medium-light skin tone
+954,👨🏽🔧,man mechanic: medium skin tone
+955,👨🏾🔧,man mechanic: medium-dark skin tone
+956,👨🏿🔧,man mechanic: dark skin tone
+957,👩🔧,woman mechanic
+958,👩🏻🔧,woman mechanic: light skin tone
+959,👩🏼🔧,woman mechanic: medium-light skin tone
+960,👩🏽🔧,woman mechanic: medium skin tone
+961,👩🏾🔧,woman mechanic: medium-dark skin tone
+962,👩🏿🔧,woman mechanic: dark skin tone
+963,🧑🏭,factory worker
+964,🧑🏻🏭,factory worker: light skin tone
+965,🧑🏼🏭,factory worker: medium-light skin tone
+966,🧑🏽🏭,factory worker: medium skin tone
+967,🧑🏾🏭,factory worker: medium-dark skin tone
+968,🧑🏿🏭,factory worker: dark skin tone
+969,👨🏭,man factory worker
+970,👨🏻🏭,man factory worker: light skin tone
+971,👨🏼🏭,man factory worker: medium-light skin tone
+972,👨🏽🏭,man factory worker: medium skin tone
+973,👨🏾🏭,man factory worker: medium-dark skin tone
+974,👨🏿🏭,man factory worker: dark skin tone
+975,👩🏭,woman factory worker
+976,👩🏻🏭,woman factory worker: light skin tone
+977,👩🏼🏭,woman factory worker: medium-light skin tone
+978,👩🏽🏭,woman factory worker: medium skin tone
+979,👩🏾🏭,woman factory worker: medium-dark skin tone
+980,👩🏿🏭,woman factory worker: dark skin tone
+981,🧑💼,office worker
+982,🧑🏻💼,office worker: light skin tone
+983,🧑🏼💼,office worker: medium-light skin tone
+984,🧑🏽💼,office worker: medium skin tone
+985,🧑🏾💼,office worker: medium-dark skin tone
+986,🧑🏿💼,office worker: dark skin tone
+987,👨💼,man office worker
+988,👨🏻💼,man office worker: light skin tone
+989,👨🏼💼,man office worker: medium-light skin tone
+990,👨🏽💼,man office worker: medium skin tone
+991,👨🏾💼,man office worker: medium-dark skin tone
+992,👨🏿💼,man office worker: dark skin tone
+993,👩💼,woman office worker
+994,👩🏻💼,woman office worker: light skin tone
+995,👩🏼💼,woman office worker: medium-light skin tone
+996,👩🏽💼,woman office worker: medium skin tone
+997,👩🏾💼,woman office worker: medium-dark skin tone
+998,👩🏿💼,woman office worker: dark skin tone
+999,🧑🔬,scientist
+1000,🧑🏻🔬,scientist: light skin tone
+1001,🧑🏼🔬,scientist: medium-light skin tone
+1002,🧑🏽🔬,scientist: medium skin tone
+1003,🧑🏾🔬,scientist: medium-dark skin tone
+1004,🧑🏿🔬,scientist: dark skin tone
+1005,👨🔬,man scientist
+1006,👨🏻🔬,man scientist: light skin tone
+1007,👨🏼🔬,man scientist: medium-light skin tone
+1008,👨🏽🔬,man scientist: medium skin tone
+1009,👨🏾🔬,man scientist: medium-dark skin tone
+1010,👨🏿🔬,man scientist: dark skin tone
+1011,👩🔬,woman scientist
+1012,👩🏻🔬,woman scientist: light skin tone
+1013,👩🏼🔬,woman scientist: medium-light skin tone
+1014,👩🏽🔬,woman scientist: medium skin tone
+1015,👩🏾🔬,woman scientist: medium-dark skin tone
+1016,👩🏿🔬,woman scientist: dark skin tone
+1017,🧑💻,technologist
+1018,🧑🏻💻,technologist: light skin tone
+1019,🧑🏼💻,technologist: medium-light skin tone
+1020,🧑🏽💻,technologist: medium skin tone
+1021,🧑🏾💻,technologist: medium-dark skin tone
+1022,🧑🏿💻,technologist: dark skin tone
+1023,👨💻,man technologist
+1024,👨🏻💻,man technologist: light skin tone
+1025,👨🏼💻,man technologist: medium-light skin tone
+1026,👨🏽💻,man technologist: medium skin tone
+1027,👨🏾💻,man technologist: medium-dark skin tone
+1028,👨🏿💻,man technologist: dark skin tone
+1029,👩💻,woman technologist
+1030,👩🏻💻,woman technologist: light skin tone
+1031,👩🏼💻,woman technologist: medium-light skin tone
+1032,👩🏽💻,woman technologist: medium skin tone
+1033,👩🏾💻,woman technologist: medium-dark skin tone
+1034,👩🏿💻,woman technologist: dark skin tone
+1035,🧑🎤,singer
+1036,🧑🏻🎤,singer: light skin tone
+1037,🧑🏼🎤,singer: medium-light skin tone
+1038,🧑🏽🎤,singer: medium skin tone
+1039,🧑🏾🎤,singer: medium-dark skin tone
+1040,🧑🏿🎤,singer: dark skin tone
+1041,👨🎤,man singer
+1042,👨🏻🎤,man singer: light skin tone
+1043,👨🏼🎤,man singer: medium-light skin tone
+1044,👨🏽🎤,man singer: medium skin tone
+1045,👨🏾🎤,man singer: medium-dark skin tone
+1046,👨🏿🎤,man singer: dark skin tone
+1047,👩🎤,woman singer
+1048,👩🏻🎤,woman singer: light skin tone
+1049,👩🏼🎤,woman singer: medium-light skin tone
+1050,👩🏽🎤,woman singer: medium skin tone
+1051,👩🏾🎤,woman singer: medium-dark skin tone
+1052,👩🏿🎤,woman singer: dark skin tone
+1053,🧑🎨,artist
+1054,🧑🏻🎨,artist: light skin tone
+1055,🧑🏼🎨,artist: medium-light skin tone
+1056,🧑🏽🎨,artist: medium skin tone
+1057,🧑🏾🎨,artist: medium-dark skin tone
+1058,🧑🏿🎨,artist: dark skin tone
+1059,👨🎨,man artist
+1060,👨🏻🎨,man artist: light skin tone
+1061,👨🏼🎨,man artist: medium-light skin tone
+1062,👨🏽🎨,man artist: medium skin tone
+1063,👨🏾🎨,man artist: medium-dark skin tone
+1064,👨🏿🎨,man artist: dark skin tone
+1065,👩🎨,woman artist
+1066,👩🏻🎨,woman artist: light skin tone
+1067,👩🏼🎨,woman artist: medium-light skin tone
+1068,👩🏽🎨,woman artist: medium skin tone
+1069,👩🏾🎨,woman artist: medium-dark skin tone
+1070,👩🏿🎨,woman artist: dark skin tone
+1071,🧑✈️,pilot
+1072,🧑✈,pilot
+1073,🧑🏻✈️,pilot: light skin tone
+1074,🧑🏻✈,pilot: light skin tone
+1075,🧑🏼✈️,pilot: medium-light skin tone
+1076,🧑🏼✈,pilot: medium-light skin tone
+1077,🧑🏽✈️,pilot: medium skin tone
+1078,🧑🏽✈,pilot: medium skin tone
+1079,🧑🏾✈️,pilot: medium-dark skin tone
+1080,🧑🏾✈,pilot: medium-dark skin tone
+1081,🧑🏿✈️,pilot: dark skin tone
+1082,🧑🏿✈,pilot: dark skin tone
+1083,👨✈️,man pilot
+1084,👨✈,man pilot
+1085,👨🏻✈️,man pilot: light skin tone
+1086,👨🏻✈,man pilot: light skin tone
+1087,👨🏼✈️,man pilot: medium-light skin tone
+1088,👨🏼✈,man pilot: medium-light skin tone
+1089,👨🏽✈️,man pilot: medium skin tone
+1090,👨🏽✈,man pilot: medium skin tone
+1091,👨🏾✈️,man pilot: medium-dark skin tone
+1092,👨🏾✈,man pilot: medium-dark skin tone
+1093,👨🏿✈️,man pilot: dark skin tone
+1094,👨🏿✈,man pilot: dark skin tone
+1095,👩✈️,woman pilot
+1096,👩✈,woman pilot
+1097,👩🏻✈️,woman pilot: light skin tone
+1098,👩🏻✈,woman pilot: light skin tone
+1099,👩🏼✈️,woman pilot: medium-light skin tone
+1100,👩🏼✈,woman pilot: medium-light skin tone
+1101,👩🏽✈️,woman pilot: medium skin tone
+1102,👩🏽✈,woman pilot: medium skin tone
+1103,👩🏾✈️,woman pilot: medium-dark skin tone
+1104,👩🏾✈,woman pilot: medium-dark skin tone
+1105,👩🏿✈️,woman pilot: dark skin tone
+1106,👩🏿✈,woman pilot: dark skin tone
+1107,🧑🚀,astronaut
+1108,🧑🏻🚀,astronaut: light skin tone
+1109,🧑🏼🚀,astronaut: medium-light skin tone
+1110,🧑🏽🚀,astronaut: medium skin tone
+1111,🧑🏾🚀,astronaut: medium-dark skin tone
+1112,🧑🏿🚀,astronaut: dark skin tone
+1113,👨🚀,man astronaut
+1114,👨🏻🚀,man astronaut: light skin tone
+1115,👨🏼🚀,man astronaut: medium-light skin tone
+1116,👨🏽🚀,man astronaut: medium skin tone
+1117,👨🏾🚀,man astronaut: medium-dark skin tone
+1118,👨🏿🚀,man astronaut: dark skin tone
+1119,👩🚀,woman astronaut
+1120,👩🏻🚀,woman astronaut: light skin tone
+1121,👩🏼🚀,woman astronaut: medium-light skin tone
+1122,👩🏽🚀,woman astronaut: medium skin tone
+1123,👩🏾🚀,woman astronaut: medium-dark skin tone
+1124,👩🏿🚀,woman astronaut: dark skin tone
+1125,🧑🚒,firefighter
+1126,🧑🏻🚒,firefighter: light skin tone
+1127,🧑🏼🚒,firefighter: medium-light skin tone
+1128,🧑🏽🚒,firefighter: medium skin tone
+1129,🧑🏾🚒,firefighter: medium-dark skin tone
+1130,🧑🏿🚒,firefighter: dark skin tone
+1131,👨🚒,man firefighter
+1132,👨🏻🚒,man firefighter: light skin tone
+1133,👨🏼🚒,man firefighter: medium-light skin tone
+1134,👨🏽🚒,man firefighter: medium skin tone
+1135,👨🏾🚒,man firefighter: medium-dark skin tone
+1136,👨🏿🚒,man firefighter: dark skin tone
+1137,👩🚒,woman firefighter
+1138,👩🏻🚒,woman firefighter: light skin tone
+1139,👩🏼🚒,woman firefighter: medium-light skin tone
+1140,👩🏽🚒,woman firefighter: medium skin tone
+1141,👩🏾🚒,woman firefighter: medium-dark skin tone
+1142,👩🏿🚒,woman firefighter: dark skin tone
+1143,👮,police officer
+1144,👮🏻,police officer: light skin tone
+1145,👮🏼,police officer: medium-light skin tone
+1146,👮🏽,police officer: medium skin tone
+1147,👮🏾,police officer: medium-dark skin tone
+1148,👮🏿,police officer: dark skin tone
+1149,👮♂️,man police officer
+1150,👮♂,man police officer
+1151,👮🏻♂️,man police officer: light skin tone
+1152,👮🏻♂,man police officer: light skin tone
+1153,👮🏼♂️,man police officer: medium-light skin tone
+1154,👮🏼♂,man police officer: medium-light skin tone
+1155,👮🏽♂️,man police officer: medium skin tone
+1156,👮🏽♂,man police officer: medium skin tone
+1157,👮🏾♂️,man police officer: medium-dark skin tone
+1158,👮🏾♂,man police officer: medium-dark skin tone
+1159,👮🏿♂️,man police officer: dark skin tone
+1160,👮🏿♂,man police officer: dark skin tone
+1161,👮♀️,woman police officer
+1162,👮♀,woman police officer
+1163,👮🏻♀️,woman police officer: light skin tone
+1164,👮🏻♀,woman police officer: light skin tone
+1165,👮🏼♀️,woman police officer: medium-light skin tone
+1166,👮🏼♀,woman police officer: medium-light skin tone
+1167,👮🏽♀️,woman police officer: medium skin tone
+1168,👮🏽♀,woman police officer: medium skin tone
+1169,👮🏾♀️,woman police officer: medium-dark skin tone
+1170,👮🏾♀,woman police officer: medium-dark skin tone
+1171,👮🏿♀️,woman police officer: dark skin tone
+1172,👮🏿♀,woman police officer: dark skin tone
+1173,🕵️,detective
+1174,🕵,detective
+1175,🕵🏻,detective: light skin tone
+1176,🕵🏼,detective: medium-light skin tone
+1177,🕵🏽,detective: medium skin tone
+1178,🕵🏾,detective: medium-dark skin tone
+1179,🕵🏿,detective: dark skin tone
+1180,🕵️♂️,man detective
+1181,🕵♂️,man detective
+1182,🕵️♂,man detective
+1183,🕵♂,man detective
+1184,🕵🏻♂️,man detective: light skin tone
+1185,🕵🏻♂,man detective: light skin tone
+1186,🕵🏼♂️,man detective: medium-light skin tone
+1187,🕵🏼♂,man detective: medium-light skin tone
+1188,🕵🏽♂️,man detective: medium skin tone
+1189,🕵🏽♂,man detective: medium skin tone
+1190,🕵🏾♂️,man detective: medium-dark skin tone
+1191,🕵🏾♂,man detective: medium-dark skin tone
+1192,🕵🏿♂️,man detective: dark skin tone
+1193,🕵🏿♂,man detective: dark skin tone
+1194,🕵️♀️,woman detective
+1195,🕵♀️,woman detective
+1196,🕵️♀,woman detective
+1197,🕵♀,woman detective
+1198,🕵🏻♀️,woman detective: light skin tone
+1199,🕵🏻♀,woman detective: light skin tone
+1200,🕵🏼♀️,woman detective: medium-light skin tone
+1201,🕵🏼♀,woman detective: medium-light skin tone
+1202,🕵🏽♀️,woman detective: medium skin tone
+1203,🕵🏽♀,woman detective: medium skin tone
+1204,🕵🏾♀️,woman detective: medium-dark skin tone
+1205,🕵🏾♀,woman detective: medium-dark skin tone
+1206,🕵🏿♀️,woman detective: dark skin tone
+1207,🕵🏿♀,woman detective: dark skin tone
+1208,💂,guard
+1209,💂🏻,guard: light skin tone
+1210,💂🏼,guard: medium-light skin tone
+1211,💂🏽,guard: medium skin tone
+1212,💂🏾,guard: medium-dark skin tone
+1213,💂🏿,guard: dark skin tone
+1214,💂♂️,man guard
+1215,💂♂,man guard
+1216,💂🏻♂️,man guard: light skin tone
+1217,💂🏻♂,man guard: light skin tone
+1218,💂🏼♂️,man guard: medium-light skin tone
+1219,💂🏼♂,man guard: medium-light skin tone
+1220,💂🏽♂️,man guard: medium skin tone
+1221,💂🏽♂,man guard: medium skin tone
+1222,💂🏾♂️,man guard: medium-dark skin tone
+1223,💂🏾♂,man guard: medium-dark skin tone
+1224,💂🏿♂️,man guard: dark skin tone
+1225,💂🏿♂,man guard: dark skin tone
+1226,💂♀️,woman guard
+1227,💂♀,woman guard
+1228,💂🏻♀️,woman guard: light skin tone
+1229,💂🏻♀,woman guard: light skin tone
+1230,💂🏼♀️,woman guard: medium-light skin tone
+1231,💂🏼♀,woman guard: medium-light skin tone
+1232,💂🏽♀️,woman guard: medium skin tone
+1233,💂🏽♀,woman guard: medium skin tone
+1234,💂🏾♀️,woman guard: medium-dark skin tone
+1235,💂🏾♀,woman guard: medium-dark skin tone
+1236,💂🏿♀️,woman guard: dark skin tone
+1237,💂🏿♀,woman guard: dark skin tone
+1238,🥷,ninja
+1239,🥷🏻,ninja: light skin tone
+1240,🥷🏼,ninja: medium-light skin tone
+1241,🥷🏽,ninja: medium skin tone
+1242,🥷🏾,ninja: medium-dark skin tone
+1243,🥷🏿,ninja: dark skin tone
+1244,👷,construction worker
+1245,👷🏻,construction worker: light skin tone
+1246,👷🏼,construction worker: medium-light skin tone
+1247,👷🏽,construction worker: medium skin tone
+1248,👷🏾,construction worker: medium-dark skin tone
+1249,👷🏿,construction worker: dark skin tone
+1250,👷♂️,man construction worker
+1251,👷♂,man construction worker
+1252,👷🏻♂️,man construction worker: light skin tone
+1253,👷🏻♂,man construction worker: light skin tone
+1254,👷🏼♂️,man construction worker: medium-light skin tone
+1255,👷🏼♂,man construction worker: medium-light skin tone
+1256,👷🏽♂️,man construction worker: medium skin tone
+1257,👷🏽♂,man construction worker: medium skin tone
+1258,👷🏾♂️,man construction worker: medium-dark skin tone
+1259,👷🏾♂,man construction worker: medium-dark skin tone
+1260,👷🏿♂️,man construction worker: dark skin tone
+1261,👷🏿♂,man construction worker: dark skin tone
+1262,👷♀️,woman construction worker
+1263,👷♀,woman construction worker
+1264,👷🏻♀️,woman construction worker: light skin tone
+1265,👷🏻♀,woman construction worker: light skin tone
+1266,👷🏼♀️,woman construction worker: medium-light skin tone
+1267,👷🏼♀,woman construction worker: medium-light skin tone
+1268,👷🏽♀️,woman construction worker: medium skin tone
+1269,👷🏽♀,woman construction worker: medium skin tone
+1270,👷🏾♀️,woman construction worker: medium-dark skin tone
+1271,👷🏾♀,woman construction worker: medium-dark skin tone
+1272,👷🏿♀️,woman construction worker: dark skin tone
+1273,👷🏿♀,woman construction worker: dark skin tone
+1274,🤴,prince
+1275,🤴🏻,prince: light skin tone
+1276,🤴🏼,prince: medium-light skin tone
+1277,🤴🏽,prince: medium skin tone
+1278,🤴🏾,prince: medium-dark skin tone
+1279,🤴🏿,prince: dark skin tone
+1280,👸,princess
+1281,👸🏻,princess: light skin tone
+1282,👸🏼,princess: medium-light skin tone
+1283,👸🏽,princess: medium skin tone
+1284,👸🏾,princess: medium-dark skin tone
+1285,👸🏿,princess: dark skin tone
+1286,👳,person wearing turban
+1287,👳🏻,person wearing turban: light skin tone
+1288,👳🏼,person wearing turban: medium-light skin tone
+1289,👳🏽,person wearing turban: medium skin tone
+1290,👳🏾,person wearing turban: medium-dark skin tone
+1291,👳🏿,person wearing turban: dark skin tone
+1292,👳♂️,man wearing turban
+1293,👳♂,man wearing turban
+1294,👳🏻♂️,man wearing turban: light skin tone
+1295,👳🏻♂,man wearing turban: light skin tone
+1296,👳🏼♂️,man wearing turban: medium-light skin tone
+1297,👳🏼♂,man wearing turban: medium-light skin tone
+1298,👳🏽♂️,man wearing turban: medium skin tone
+1299,👳🏽♂,man wearing turban: medium skin tone
+1300,👳🏾♂️,man wearing turban: medium-dark skin tone
+1301,👳🏾♂,man wearing turban: medium-dark skin tone
+1302,👳🏿♂️,man wearing turban: dark skin tone
+1303,👳🏿♂,man wearing turban: dark skin tone
+1304,👳♀️,woman wearing turban
+1305,👳♀,woman wearing turban
+1306,👳🏻♀️,woman wearing turban: light skin tone
+1307,👳🏻♀,woman wearing turban: light skin tone
+1308,👳🏼♀️,woman wearing turban: medium-light skin tone
+1309,👳🏼♀,woman wearing turban: medium-light skin tone
+1310,👳🏽♀️,woman wearing turban: medium skin tone
+1311,👳🏽♀,woman wearing turban: medium skin tone
+1312,👳🏾♀️,woman wearing turban: medium-dark skin tone
+1313,👳🏾♀,woman wearing turban: medium-dark skin tone
+1314,👳🏿♀️,woman wearing turban: dark skin tone
+1315,👳🏿♀,woman wearing turban: dark skin tone
+1316,👲,person with skullcap
+1317,👲🏻,person with skullcap: light skin tone
+1318,👲🏼,person with skullcap: medium-light skin tone
+1319,👲🏽,person with skullcap: medium skin tone
+1320,👲🏾,person with skullcap: medium-dark skin tone
+1321,👲🏿,person with skullcap: dark skin tone
+1322,🧕,woman with headscarf
+1323,🧕🏻,woman with headscarf: light skin tone
+1324,🧕🏼,woman with headscarf: medium-light skin tone
+1325,🧕🏽,woman with headscarf: medium skin tone
+1326,🧕🏾,woman with headscarf: medium-dark skin tone
+1327,🧕🏿,woman with headscarf: dark skin tone
+1328,🤵,person in tuxedo
+1329,🤵🏻,person in tuxedo: light skin tone
+1330,🤵🏼,person in tuxedo: medium-light skin tone
+1331,🤵🏽,person in tuxedo: medium skin tone
+1332,🤵🏾,person in tuxedo: medium-dark skin tone
+1333,🤵🏿,person in tuxedo: dark skin tone
+1334,🤵♂️,man in tuxedo
+1335,🤵♂,man in tuxedo
+1336,🤵🏻♂️,man in tuxedo: light skin tone
+1337,🤵🏻♂,man in tuxedo: light skin tone
+1338,🤵🏼♂️,man in tuxedo: medium-light skin tone
+1339,🤵🏼♂,man in tuxedo: medium-light skin tone
+1340,🤵🏽♂️,man in tuxedo: medium skin tone
+1341,🤵🏽♂,man in tuxedo: medium skin tone
+1342,🤵🏾♂️,man in tuxedo: medium-dark skin tone
+1343,🤵🏾♂,man in tuxedo: medium-dark skin tone
+1344,🤵🏿♂️,man in tuxedo: dark skin tone
+1345,🤵🏿♂,man in tuxedo: dark skin tone
+1346,🤵♀️,woman in tuxedo
+1347,🤵♀,woman in tuxedo
+1348,🤵🏻♀️,woman in tuxedo: light skin tone
+1349,🤵🏻♀,woman in tuxedo: light skin tone
+1350,🤵🏼♀️,woman in tuxedo: medium-light skin tone
+1351,🤵🏼♀,woman in tuxedo: medium-light skin tone
+1352,🤵🏽♀️,woman in tuxedo: medium skin tone
+1353,🤵🏽♀,woman in tuxedo: medium skin tone
+1354,🤵🏾♀️,woman in tuxedo: medium-dark skin tone
+1355,🤵🏾♀,woman in tuxedo: medium-dark skin tone
+1356,🤵🏿♀️,woman in tuxedo: dark skin tone
+1357,🤵🏿♀,woman in tuxedo: dark skin tone
+1358,👰,person with veil
+1359,👰🏻,person with veil: light skin tone
+1360,👰🏼,person with veil: medium-light skin tone
+1361,👰🏽,person with veil: medium skin tone
+1362,👰🏾,person with veil: medium-dark skin tone
+1363,👰🏿,person with veil: dark skin tone
+1364,👰♂️,man with veil
+1365,👰♂,man with veil
+1366,👰🏻♂️,man with veil: light skin tone
+1367,👰🏻♂,man with veil: light skin tone
+1368,👰🏼♂️,man with veil: medium-light skin tone
+1369,👰🏼♂,man with veil: medium-light skin tone
+1370,👰🏽♂️,man with veil: medium skin tone
+1371,👰🏽♂,man with veil: medium skin tone
+1372,👰🏾♂️,man with veil: medium-dark skin tone
+1373,👰🏾♂,man with veil: medium-dark skin tone
+1374,👰🏿♂️,man with veil: dark skin tone
+1375,👰🏿♂,man with veil: dark skin tone
+1376,👰♀️,woman with veil
+1377,👰♀,woman with veil
+1378,👰🏻♀️,woman with veil: light skin tone
+1379,👰🏻♀,woman with veil: light skin tone
+1380,👰🏼♀️,woman with veil: medium-light skin tone
+1381,👰🏼♀,woman with veil: medium-light skin tone
+1382,👰🏽♀️,woman with veil: medium skin tone
+1383,👰🏽♀,woman with veil: medium skin tone
+1384,👰🏾♀️,woman with veil: medium-dark skin tone
+1385,👰🏾♀,woman with veil: medium-dark skin tone
+1386,👰🏿♀️,woman with veil: dark skin tone
+1387,👰🏿♀,woman with veil: dark skin tone
+1388,🤰,pregnant woman
+1389,🤰🏻,pregnant woman: light skin tone
+1390,🤰🏼,pregnant woman: medium-light skin tone
+1391,🤰🏽,pregnant woman: medium skin tone
+1392,🤰🏾,pregnant woman: medium-dark skin tone
+1393,🤰🏿,pregnant woman: dark skin tone
+1394,🤱,breast-feeding
+1395,🤱🏻,breast-feeding: light skin tone
+1396,🤱🏼,breast-feeding: medium-light skin tone
+1397,🤱🏽,breast-feeding: medium skin tone
+1398,🤱🏾,breast-feeding: medium-dark skin tone
+1399,🤱🏿,breast-feeding: dark skin tone
+1400,👩🍼,woman feeding baby
+1401,👩🏻🍼,woman feeding baby: light skin tone
+1402,👩🏼🍼,woman feeding baby: medium-light skin tone
+1403,👩🏽🍼,woman feeding baby: medium skin tone
+1404,👩🏾🍼,woman feeding baby: medium-dark skin tone
+1405,👩🏿🍼,woman feeding baby: dark skin tone
+1406,👨🍼,man feeding baby
+1407,👨🏻🍼,man feeding baby: light skin tone
+1408,👨🏼🍼,man feeding baby: medium-light skin tone
+1409,👨🏽🍼,man feeding baby: medium skin tone
+1410,👨🏾🍼,man feeding baby: medium-dark skin tone
+1411,👨🏿🍼,man feeding baby: dark skin tone
+1412,🧑🍼,person feeding baby
+1413,🧑🏻🍼,person feeding baby: light skin tone
+1414,🧑🏼🍼,person feeding baby: medium-light skin tone
+1415,🧑🏽🍼,person feeding baby: medium skin tone
+1416,🧑🏾🍼,person feeding baby: medium-dark skin tone
+1417,🧑🏿🍼,person feeding baby: dark skin tone
+1418,👼,baby angel
+1419,👼🏻,baby angel: light skin tone
+1420,👼🏼,baby angel: medium-light skin tone
+1421,👼🏽,baby angel: medium skin tone
+1422,👼🏾,baby angel: medium-dark skin tone
+1423,👼🏿,baby angel: dark skin tone
+1424,🎅,Santa Claus
+1425,🎅🏻,Santa Claus: light skin tone
+1426,🎅🏼,Santa Claus: medium-light skin tone
+1427,🎅🏽,Santa Claus: medium skin tone
+1428,🎅🏾,Santa Claus: medium-dark skin tone
+1429,🎅🏿,Santa Claus: dark skin tone
+1430,🤶,Mrs. Claus
+1431,🤶🏻,Mrs. Claus: light skin tone
+1432,🤶🏼,Mrs. Claus: medium-light skin tone
+1433,🤶🏽,Mrs. Claus: medium skin tone
+1434,🤶🏾,Mrs. Claus: medium-dark skin tone
+1435,🤶🏿,Mrs. Claus: dark skin tone
+1436,🧑🎄,mx claus
+1437,🧑🏻🎄,mx claus: light skin tone
+1438,🧑🏼🎄,mx claus: medium-light skin tone
+1439,🧑🏽🎄,mx claus: medium skin tone
+1440,🧑🏾🎄,mx claus: medium-dark skin tone
+1441,🧑🏿🎄,mx claus: dark skin tone
+1442,🦸,superhero
+1443,🦸🏻,superhero: light skin tone
+1444,🦸🏼,superhero: medium-light skin tone
+1445,🦸🏽,superhero: medium skin tone
+1446,🦸🏾,superhero: medium-dark skin tone
+1447,🦸🏿,superhero: dark skin tone
+1448,🦸♂️,man superhero
+1449,🦸♂,man superhero
+1450,🦸🏻♂️,man superhero: light skin tone
+1451,🦸🏻♂,man superhero: light skin tone
+1452,🦸🏼♂️,man superhero: medium-light skin tone
+1453,🦸🏼♂,man superhero: medium-light skin tone
+1454,🦸🏽♂️,man superhero: medium skin tone
+1455,🦸🏽♂,man superhero: medium skin tone
+1456,🦸🏾♂️,man superhero: medium-dark skin tone
+1457,🦸🏾♂,man superhero: medium-dark skin tone
+1458,🦸🏿♂️,man superhero: dark skin tone
+1459,🦸🏿♂,man superhero: dark skin tone
+1460,🦸♀️,woman superhero
+1461,🦸♀,woman superhero
+1462,🦸🏻♀️,woman superhero: light skin tone
+1463,🦸🏻♀,woman superhero: light skin tone
+1464,🦸🏼♀️,woman superhero: medium-light skin tone
+1465,🦸🏼♀,woman superhero: medium-light skin tone
+1466,🦸🏽♀️,woman superhero: medium skin tone
+1467,🦸🏽♀,woman superhero: medium skin tone
+1468,🦸🏾♀️,woman superhero: medium-dark skin tone
+1469,🦸🏾♀,woman superhero: medium-dark skin tone
+1470,🦸🏿♀️,woman superhero: dark skin tone
+1471,🦸🏿♀,woman superhero: dark skin tone
+1472,🦹,supervillain
+1473,🦹🏻,supervillain: light skin tone
+1474,🦹🏼,supervillain: medium-light skin tone
+1475,🦹🏽,supervillain: medium skin tone
+1476,🦹🏾,supervillain: medium-dark skin tone
+1477,🦹🏿,supervillain: dark skin tone
+1478,🦹♂️,man supervillain
+1479,🦹♂,man supervillain
+1480,🦹🏻♂️,man supervillain: light skin tone
+1481,🦹🏻♂,man supervillain: light skin tone
+1482,🦹🏼♂️,man supervillain: medium-light skin tone
+1483,🦹🏼♂,man supervillain: medium-light skin tone
+1484,🦹🏽♂️,man supervillain: medium skin tone
+1485,🦹🏽♂,man supervillain: medium skin tone
+1486,🦹🏾♂️,man supervillain: medium-dark skin tone
+1487,🦹🏾♂,man supervillain: medium-dark skin tone
+1488,🦹🏿♂️,man supervillain: dark skin tone
+1489,🦹🏿♂,man supervillain: dark skin tone
+1490,🦹♀️,woman supervillain
+1491,🦹♀,woman supervillain
+1492,🦹🏻♀️,woman supervillain: light skin tone
+1493,🦹🏻♀,woman supervillain: light skin tone
+1494,🦹🏼♀️,woman supervillain: medium-light skin tone
+1495,🦹🏼♀,woman supervillain: medium-light skin tone
+1496,🦹🏽♀️,woman supervillain: medium skin tone
+1497,🦹🏽♀,woman supervillain: medium skin tone
+1498,🦹🏾♀️,woman supervillain: medium-dark skin tone
+1499,🦹🏾♀,woman supervillain: medium-dark skin tone
+1500,🦹🏿♀️,woman supervillain: dark skin tone
+1501,🦹🏿♀,woman supervillain: dark skin tone
+1502,🧙,mage
+1503,🧙🏻,mage: light skin tone
+1504,🧙🏼,mage: medium-light skin tone
+1505,🧙🏽,mage: medium skin tone
+1506,🧙🏾,mage: medium-dark skin tone
+1507,🧙🏿,mage: dark skin tone
+1508,🧙♂️,man mage
+1509,🧙♂,man mage
+1510,🧙🏻♂️,man mage: light skin tone
+1511,🧙🏻♂,man mage: light skin tone
+1512,🧙🏼♂️,man mage: medium-light skin tone
+1513,🧙🏼♂,man mage: medium-light skin tone
+1514,🧙🏽♂️,man mage: medium skin tone
+1515,🧙🏽♂,man mage: medium skin tone
+1516,🧙🏾♂️,man mage: medium-dark skin tone
+1517,🧙🏾♂,man mage: medium-dark skin tone
+1518,🧙🏿♂️,man mage: dark skin tone
+1519,🧙🏿♂,man mage: dark skin tone
+1520,🧙♀️,woman mage
+1521,🧙♀,woman mage
+1522,🧙🏻♀️,woman mage: light skin tone
+1523,🧙🏻♀,woman mage: light skin tone
+1524,🧙🏼♀️,woman mage: medium-light skin tone
+1525,🧙🏼♀,woman mage: medium-light skin tone
+1526,🧙🏽♀️,woman mage: medium skin tone
+1527,🧙🏽♀,woman mage: medium skin tone
+1528,🧙🏾♀️,woman mage: medium-dark skin tone
+1529,🧙🏾♀,woman mage: medium-dark skin tone
+1530,🧙🏿♀️,woman mage: dark skin tone
+1531,🧙🏿♀,woman mage: dark skin tone
+1532,🧚,fairy
+1533,🧚🏻,fairy: light skin tone
+1534,🧚🏼,fairy: medium-light skin tone
+1535,🧚🏽,fairy: medium skin tone
+1536,🧚🏾,fairy: medium-dark skin tone
+1537,🧚🏿,fairy: dark skin tone
+1538,🧚♂️,man fairy
+1539,🧚♂,man fairy
+1540,🧚🏻♂️,man fairy: light skin tone
+1541,🧚🏻♂,man fairy: light skin tone
+1542,🧚🏼♂️,man fairy: medium-light skin tone
+1543,🧚🏼♂,man fairy: medium-light skin tone
+1544,🧚🏽♂️,man fairy: medium skin tone
+1545,🧚🏽♂,man fairy: medium skin tone
+1546,🧚🏾♂️,man fairy: medium-dark skin tone
+1547,🧚🏾♂,man fairy: medium-dark skin tone
+1548,🧚🏿♂️,man fairy: dark skin tone
+1549,🧚🏿♂,man fairy: dark skin tone
+1550,🧚♀️,woman fairy
+1551,🧚♀,woman fairy
+1552,🧚🏻♀️,woman fairy: light skin tone
+1553,🧚🏻♀,woman fairy: light skin tone
+1554,🧚🏼♀️,woman fairy: medium-light skin tone
+1555,🧚🏼♀,woman fairy: medium-light skin tone
+1556,🧚🏽♀️,woman fairy: medium skin tone
+1557,🧚🏽♀,woman fairy: medium skin tone
+1558,🧚🏾♀️,woman fairy: medium-dark skin tone
+1559,🧚🏾♀,woman fairy: medium-dark skin tone
+1560,🧚🏿♀️,woman fairy: dark skin tone
+1561,🧚🏿♀,woman fairy: dark skin tone
+1562,🧛,vampire
+1563,🧛🏻,vampire: light skin tone
+1564,🧛🏼,vampire: medium-light skin tone
+1565,🧛🏽,vampire: medium skin tone
+1566,🧛🏾,vampire: medium-dark skin tone
+1567,🧛🏿,vampire: dark skin tone
+1568,🧛♂️,man vampire
+1569,🧛♂,man vampire
+1570,🧛🏻♂️,man vampire: light skin tone
+1571,🧛🏻♂,man vampire: light skin tone
+1572,🧛🏼♂️,man vampire: medium-light skin tone
+1573,🧛🏼♂,man vampire: medium-light skin tone
+1574,🧛🏽♂️,man vampire: medium skin tone
+1575,🧛🏽♂,man vampire: medium skin tone
+1576,🧛🏾♂️,man vampire: medium-dark skin tone
+1577,🧛🏾♂,man vampire: medium-dark skin tone
+1578,🧛🏿♂️,man vampire: dark skin tone
+1579,🧛🏿♂,man vampire: dark skin tone
+1580,🧛♀️,woman vampire
+1581,🧛♀,woman vampire
+1582,🧛🏻♀️,woman vampire: light skin tone
+1583,🧛🏻♀,woman vampire: light skin tone
+1584,🧛🏼♀️,woman vampire: medium-light skin tone
+1585,🧛🏼♀,woman vampire: medium-light skin tone
+1586,🧛🏽♀️,woman vampire: medium skin tone
+1587,🧛🏽♀,woman vampire: medium skin tone
+1588,🧛🏾♀️,woman vampire: medium-dark skin tone
+1589,🧛🏾♀,woman vampire: medium-dark skin tone
+1590,🧛🏿♀️,woman vampire: dark skin tone
+1591,🧛🏿♀,woman vampire: dark skin tone
+1592,🧜,merperson
+1593,🧜🏻,merperson: light skin tone
+1594,🧜🏼,merperson: medium-light skin tone
+1595,🧜🏽,merperson: medium skin tone
+1596,🧜🏾,merperson: medium-dark skin tone
+1597,🧜🏿,merperson: dark skin tone
+1598,🧜♂️,merman
+1599,🧜♂,merman
+1600,🧜🏻♂️,merman: light skin tone
+1601,🧜🏻♂,merman: light skin tone
+1602,🧜🏼♂️,merman: medium-light skin tone
+1603,🧜🏼♂,merman: medium-light skin tone
+1604,🧜🏽♂️,merman: medium skin tone
+1605,🧜🏽♂,merman: medium skin tone
+1606,🧜🏾♂️,merman: medium-dark skin tone
+1607,🧜🏾♂,merman: medium-dark skin tone
+1608,🧜🏿♂️,merman: dark skin tone
+1609,🧜🏿♂,merman: dark skin tone
+1610,🧜♀️,mermaid
+1611,🧜♀,mermaid
+1612,🧜🏻♀️,mermaid: light skin tone
+1613,🧜🏻♀,mermaid: light skin tone
+1614,🧜🏼♀️,mermaid: medium-light skin tone
+1615,🧜🏼♀,mermaid: medium-light skin tone
+1616,🧜🏽♀️,mermaid: medium skin tone
+1617,🧜🏽♀,mermaid: medium skin tone
+1618,🧜🏾♀️,mermaid: medium-dark skin tone
+1619,🧜🏾♀,mermaid: medium-dark skin tone
+1620,🧜🏿♀️,mermaid: dark skin tone
+1621,🧜🏿♀,mermaid: dark skin tone
+1622,🧝,elf
+1623,🧝🏻,elf: light skin tone
+1624,🧝🏼,elf: medium-light skin tone
+1625,🧝🏽,elf: medium skin tone
+1626,🧝🏾,elf: medium-dark skin tone
+1627,🧝🏿,elf: dark skin tone
+1628,🧝♂️,man elf
+1629,🧝♂,man elf
+1630,🧝🏻♂️,man elf: light skin tone
+1631,🧝🏻♂,man elf: light skin tone
+1632,🧝🏼♂️,man elf: medium-light skin tone
+1633,🧝🏼♂,man elf: medium-light skin tone
+1634,🧝🏽♂️,man elf: medium skin tone
+1635,🧝🏽♂,man elf: medium skin tone
+1636,🧝🏾♂️,man elf: medium-dark skin tone
+1637,🧝🏾♂,man elf: medium-dark skin tone
+1638,🧝🏿♂️,man elf: dark skin tone
+1639,🧝🏿♂,man elf: dark skin tone
+1640,🧝♀️,woman elf
+1641,🧝♀,woman elf
+1642,🧝🏻♀️,woman elf: light skin tone
+1643,🧝🏻♀,woman elf: light skin tone
+1644,🧝🏼♀️,woman elf: medium-light skin tone
+1645,🧝🏼♀,woman elf: medium-light skin tone
+1646,🧝🏽♀️,woman elf: medium skin tone
+1647,🧝🏽♀,woman elf: medium skin tone
+1648,🧝🏾♀️,woman elf: medium-dark skin tone
+1649,🧝🏾♀,woman elf: medium-dark skin tone
+1650,🧝🏿♀️,woman elf: dark skin tone
+1651,🧝🏿♀,woman elf: dark skin tone
+1652,🧞,genie
+1653,🧞♂️,man genie
+1654,🧞♂,man genie
+1655,🧞♀️,woman genie
+1656,🧞♀,woman genie
+1657,🧟,zombie
+1658,🧟♂️,man zombie
+1659,🧟♂,man zombie
+1660,🧟♀️,woman zombie
+1661,🧟♀,woman zombie
+1662,💆,person getting massage
+1663,💆🏻,person getting massage: light skin tone
+1664,💆🏼,person getting massage: medium-light skin tone
+1665,💆🏽,person getting massage: medium skin tone
+1666,💆🏾,person getting massage: medium-dark skin tone
+1667,💆🏿,person getting massage: dark skin tone
+1668,💆♂️,man getting massage
+1669,💆♂,man getting massage
+1670,💆🏻♂️,man getting massage: light skin tone
+1671,💆🏻♂,man getting massage: light skin tone
+1672,💆🏼♂️,man getting massage: medium-light skin tone
+1673,💆🏼♂,man getting massage: medium-light skin tone
+1674,💆🏽♂️,man getting massage: medium skin tone
+1675,💆🏽♂,man getting massage: medium skin tone
+1676,💆🏾♂️,man getting massage: medium-dark skin tone
+1677,💆🏾♂,man getting massage: medium-dark skin tone
+1678,💆🏿♂️,man getting massage: dark skin tone
+1679,💆🏿♂,man getting massage: dark skin tone
+1680,💆♀️,woman getting massage
+1681,💆♀,woman getting massage
+1682,💆🏻♀️,woman getting massage: light skin tone
+1683,💆🏻♀,woman getting massage: light skin tone
+1684,💆🏼♀️,woman getting massage: medium-light skin tone
+1685,💆🏼♀,woman getting massage: medium-light skin tone
+1686,💆🏽♀️,woman getting massage: medium skin tone
+1687,💆🏽♀,woman getting massage: medium skin tone
+1688,💆🏾♀️,woman getting massage: medium-dark skin tone
+1689,💆🏾♀,woman getting massage: medium-dark skin tone
+1690,💆🏿♀️,woman getting massage: dark skin tone
+1691,💆🏿♀,woman getting massage: dark skin tone
+1692,💇,person getting haircut
+1693,💇🏻,person getting haircut: light skin tone
+1694,💇🏼,person getting haircut: medium-light skin tone
+1695,💇🏽,person getting haircut: medium skin tone
+1696,💇🏾,person getting haircut: medium-dark skin tone
+1697,💇🏿,person getting haircut: dark skin tone
+1698,💇♂️,man getting haircut
+1699,💇♂,man getting haircut
+1700,💇🏻♂️,man getting haircut: light skin tone
+1701,💇🏻♂,man getting haircut: light skin tone
+1702,💇🏼♂️,man getting haircut: medium-light skin tone
+1703,💇🏼♂,man getting haircut: medium-light skin tone
+1704,💇🏽♂️,man getting haircut: medium skin tone
+1705,💇🏽♂,man getting haircut: medium skin tone
+1706,💇🏾♂️,man getting haircut: medium-dark skin tone
+1707,💇🏾♂,man getting haircut: medium-dark skin tone
+1708,💇🏿♂️,man getting haircut: dark skin tone
+1709,💇🏿♂,man getting haircut: dark skin tone
+1710,💇♀️,woman getting haircut
+1711,💇♀,woman getting haircut
+1712,💇🏻♀️,woman getting haircut: light skin tone
+1713,💇🏻♀,woman getting haircut: light skin tone
+1714,💇🏼♀️,woman getting haircut: medium-light skin tone
+1715,💇🏼♀,woman getting haircut: medium-light skin tone
+1716,💇🏽♀️,woman getting haircut: medium skin tone
+1717,💇🏽♀,woman getting haircut: medium skin tone
+1718,💇🏾♀️,woman getting haircut: medium-dark skin tone
+1719,💇🏾♀,woman getting haircut: medium-dark skin tone
+1720,💇🏿♀️,woman getting haircut: dark skin tone
+1721,💇🏿♀,woman getting haircut: dark skin tone
+1722,🚶,person walking
+1723,🚶🏻,person walking: light skin tone
+1724,🚶🏼,person walking: medium-light skin tone
+1725,🚶🏽,person walking: medium skin tone
+1726,🚶🏾,person walking: medium-dark skin tone
+1727,🚶🏿,person walking: dark skin tone
+1728,🚶♂️,man walking
+1729,🚶♂,man walking
+1730,🚶🏻♂️,man walking: light skin tone
+1731,🚶🏻♂,man walking: light skin tone
+1732,🚶🏼♂️,man walking: medium-light skin tone
+1733,🚶🏼♂,man walking: medium-light skin tone
+1734,🚶🏽♂️,man walking: medium skin tone
+1735,🚶🏽♂,man walking: medium skin tone
+1736,🚶🏾♂️,man walking: medium-dark skin tone
+1737,🚶🏾♂,man walking: medium-dark skin tone
+1738,🚶🏿♂️,man walking: dark skin tone
+1739,🚶🏿♂,man walking: dark skin tone
+1740,🚶♀️,woman walking
+1741,🚶♀,woman walking
+1742,🚶🏻♀️,woman walking: light skin tone
+1743,🚶🏻♀,woman walking: light skin tone
+1744,🚶🏼♀️,woman walking: medium-light skin tone
+1745,🚶🏼♀,woman walking: medium-light skin tone
+1746,🚶🏽♀️,woman walking: medium skin tone
+1747,🚶🏽♀,woman walking: medium skin tone
+1748,🚶🏾♀️,woman walking: medium-dark skin tone
+1749,🚶🏾♀,woman walking: medium-dark skin tone
+1750,🚶🏿♀️,woman walking: dark skin tone
+1751,🚶🏿♀,woman walking: dark skin tone
+1752,🧍,person standing
+1753,🧍🏻,person standing: light skin tone
+1754,🧍🏼,person standing: medium-light skin tone
+1755,🧍🏽,person standing: medium skin tone
+1756,🧍🏾,person standing: medium-dark skin tone
+1757,🧍🏿,person standing: dark skin tone
+1758,🧍♂️,man standing
+1759,🧍♂,man standing
+1760,🧍🏻♂️,man standing: light skin tone
+1761,🧍🏻♂,man standing: light skin tone
+1762,🧍🏼♂️,man standing: medium-light skin tone
+1763,🧍🏼♂,man standing: medium-light skin tone
+1764,🧍🏽♂️,man standing: medium skin tone
+1765,🧍🏽♂,man standing: medium skin tone
+1766,🧍🏾♂️,man standing: medium-dark skin tone
+1767,🧍🏾♂,man standing: medium-dark skin tone
+1768,🧍🏿♂️,man standing: dark skin tone
+1769,🧍🏿♂,man standing: dark skin tone
+1770,🧍♀️,woman standing
+1771,🧍♀,woman standing
+1772,🧍🏻♀️,woman standing: light skin tone
+1773,🧍🏻♀,woman standing: light skin tone
+1774,🧍🏼♀️,woman standing: medium-light skin tone
+1775,🧍🏼♀,woman standing: medium-light skin tone
+1776,🧍🏽♀️,woman standing: medium skin tone
+1777,🧍🏽♀,woman standing: medium skin tone
+1778,🧍🏾♀️,woman standing: medium-dark skin tone
+1779,🧍🏾♀,woman standing: medium-dark skin tone
+1780,🧍🏿♀️,woman standing: dark skin tone
+1781,🧍🏿♀,woman standing: dark skin tone
+1782,🧎,person kneeling
+1783,🧎🏻,person kneeling: light skin tone
+1784,🧎🏼,person kneeling: medium-light skin tone
+1785,🧎🏽,person kneeling: medium skin tone
+1786,🧎🏾,person kneeling: medium-dark skin tone
+1787,🧎🏿,person kneeling: dark skin tone
+1788,🧎♂️,man kneeling
+1789,🧎♂,man kneeling
+1790,🧎🏻♂️,man kneeling: light skin tone
+1791,🧎🏻♂,man kneeling: light skin tone
+1792,🧎🏼♂️,man kneeling: medium-light skin tone
+1793,🧎🏼♂,man kneeling: medium-light skin tone
+1794,🧎🏽♂️,man kneeling: medium skin tone
+1795,🧎🏽♂,man kneeling: medium skin tone
+1796,🧎🏾♂️,man kneeling: medium-dark skin tone
+1797,🧎🏾♂,man kneeling: medium-dark skin tone
+1798,🧎🏿♂️,man kneeling: dark skin tone
+1799,🧎🏿♂,man kneeling: dark skin tone
+1800,🧎♀️,woman kneeling
+1801,🧎♀,woman kneeling
+1802,🧎🏻♀️,woman kneeling: light skin tone
+1803,🧎🏻♀,woman kneeling: light skin tone
+1804,🧎🏼♀️,woman kneeling: medium-light skin tone
+1805,🧎🏼♀,woman kneeling: medium-light skin tone
+1806,🧎🏽♀️,woman kneeling: medium skin tone
+1807,🧎🏽♀,woman kneeling: medium skin tone
+1808,🧎🏾♀️,woman kneeling: medium-dark skin tone
+1809,🧎🏾♀,woman kneeling: medium-dark skin tone
+1810,🧎🏿♀️,woman kneeling: dark skin tone
+1811,🧎🏿♀,woman kneeling: dark skin tone
+1812,🧑🦯,person with white cane
+1813,🧑🏻🦯,person with white cane: light skin tone
+1814,🧑🏼🦯,person with white cane: medium-light skin tone
+1815,🧑🏽🦯,person with white cane: medium skin tone
+1816,🧑🏾🦯,person with white cane: medium-dark skin tone
+1817,🧑🏿🦯,person with white cane: dark skin tone
+1818,👨🦯,man with white cane
+1819,👨🏻🦯,man with white cane: light skin tone
+1820,👨🏼🦯,man with white cane: medium-light skin tone
+1821,👨🏽🦯,man with white cane: medium skin tone
+1822,👨🏾🦯,man with white cane: medium-dark skin tone
+1823,👨🏿🦯,man with white cane: dark skin tone
+1824,👩🦯,woman with white cane
+1825,👩🏻🦯,woman with white cane: light skin tone
+1826,👩🏼🦯,woman with white cane: medium-light skin tone
+1827,👩🏽🦯,woman with white cane: medium skin tone
+1828,👩🏾🦯,woman with white cane: medium-dark skin tone
+1829,👩🏿🦯,woman with white cane: dark skin tone
+1830,🧑🦼,person in motorized wheelchair
+1831,🧑🏻🦼,person in motorized wheelchair: light skin tone
+1832,🧑🏼🦼,person in motorized wheelchair: medium-light skin tone
+1833,🧑🏽🦼,person in motorized wheelchair: medium skin tone
+1834,🧑🏾🦼,person in motorized wheelchair: medium-dark skin tone
+1835,🧑🏿🦼,person in motorized wheelchair: dark skin tone
+1836,👨🦼,man in motorized wheelchair
+1837,👨🏻🦼,man in motorized wheelchair: light skin tone
+1838,👨🏼🦼,man in motorized wheelchair: medium-light skin tone
+1839,👨🏽🦼,man in motorized wheelchair: medium skin tone
+1840,👨🏾🦼,man in motorized wheelchair: medium-dark skin tone
+1841,👨🏿🦼,man in motorized wheelchair: dark skin tone
+1842,👩🦼,woman in motorized wheelchair
+1843,👩🏻🦼,woman in motorized wheelchair: light skin tone
+1844,👩🏼🦼,woman in motorized wheelchair: medium-light skin tone
+1845,👩🏽🦼,woman in motorized wheelchair: medium skin tone
+1846,👩🏾🦼,woman in motorized wheelchair: medium-dark skin tone
+1847,👩🏿🦼,woman in motorized wheelchair: dark skin tone
+1848,🧑🦽,person in manual wheelchair
+1849,🧑🏻🦽,person in manual wheelchair: light skin tone
+1850,🧑🏼🦽,person in manual wheelchair: medium-light skin tone
+1851,🧑🏽🦽,person in manual wheelchair: medium skin tone
+1852,🧑🏾🦽,person in manual wheelchair: medium-dark skin tone
+1853,🧑🏿🦽,person in manual wheelchair: dark skin tone
+1854,👨🦽,man in manual wheelchair
+1855,👨🏻🦽,man in manual wheelchair: light skin tone
+1856,👨🏼🦽,man in manual wheelchair: medium-light skin tone
+1857,👨🏽🦽,man in manual wheelchair: medium skin tone
+1858,👨🏾🦽,man in manual wheelchair: medium-dark skin tone
+1859,👨🏿🦽,man in manual wheelchair: dark skin tone
+1860,👩🦽,woman in manual wheelchair
+1861,👩🏻🦽,woman in manual wheelchair: light skin tone
+1862,👩🏼🦽,woman in manual wheelchair: medium-light skin tone
+1863,👩🏽🦽,woman in manual wheelchair: medium skin tone
+1864,👩🏾🦽,woman in manual wheelchair: medium-dark skin tone
+1865,👩🏿🦽,woman in manual wheelchair: dark skin tone
+1866,🏃,person running
+1867,🏃🏻,person running: light skin tone
+1868,🏃🏼,person running: medium-light skin tone
+1869,🏃🏽,person running: medium skin tone
+1870,🏃🏾,person running: medium-dark skin tone
+1871,🏃🏿,person running: dark skin tone
+1872,🏃♂️,man running
+1873,🏃♂,man running
+1874,🏃🏻♂️,man running: light skin tone
+1875,🏃🏻♂,man running: light skin tone
+1876,🏃🏼♂️,man running: medium-light skin tone
+1877,🏃🏼♂,man running: medium-light skin tone
+1878,🏃🏽♂️,man running: medium skin tone
+1879,🏃🏽♂,man running: medium skin tone
+1880,🏃🏾♂️,man running: medium-dark skin tone
+1881,🏃🏾♂,man running: medium-dark skin tone
+1882,🏃🏿♂️,man running: dark skin tone
+1883,🏃🏿♂,man running: dark skin tone
+1884,🏃♀️,woman running
+1885,🏃♀,woman running
+1886,🏃🏻♀️,woman running: light skin tone
+1887,🏃🏻♀,woman running: light skin tone
+1888,🏃🏼♀️,woman running: medium-light skin tone
+1889,🏃🏼♀,woman running: medium-light skin tone
+1890,🏃🏽♀️,woman running: medium skin tone
+1891,🏃🏽♀,woman running: medium skin tone
+1892,🏃🏾♀️,woman running: medium-dark skin tone
+1893,🏃🏾♀,woman running: medium-dark skin tone
+1894,🏃🏿♀️,woman running: dark skin tone
+1895,🏃🏿♀,woman running: dark skin tone
+1896,💃,woman dancing
+1897,💃🏻,woman dancing: light skin tone
+1898,💃🏼,woman dancing: medium-light skin tone
+1899,💃🏽,woman dancing: medium skin tone
+1900,💃🏾,woman dancing: medium-dark skin tone
+1901,💃🏿,woman dancing: dark skin tone
+1902,🕺,man dancing
+1903,🕺🏻,man dancing: light skin tone
+1904,🕺🏼,man dancing: medium-light skin tone
+1905,🕺🏽,man dancing: medium skin tone
+1906,🕺🏾,man dancing: medium-dark skin tone
+1907,🕺🏿,man dancing: dark skin tone
+1908,🕴️,person in suit levitating
+1909,🕴,person in suit levitating
+1910,🕴🏻,person in suit levitating: light skin tone
+1911,🕴🏼,person in suit levitating: medium-light skin tone
+1912,🕴🏽,person in suit levitating: medium skin tone
+1913,🕴🏾,person in suit levitating: medium-dark skin tone
+1914,🕴🏿,person in suit levitating: dark skin tone
+1915,👯,people with bunny ears
+1916,👯♂️,men with bunny ears
+1917,👯♂,men with bunny ears
+1918,👯♀️,women with bunny ears
+1919,👯♀,women with bunny ears
+1920,🧖,person in steamy room
+1921,🧖🏻,person in steamy room: light skin tone
+1922,🧖🏼,person in steamy room: medium-light skin tone
+1923,🧖🏽,person in steamy room: medium skin tone
+1924,🧖🏾,person in steamy room: medium-dark skin tone
+1925,🧖🏿,person in steamy room: dark skin tone
+1926,🧖♂️,man in steamy room
+1927,🧖♂,man in steamy room
+1928,🧖🏻♂️,man in steamy room: light skin tone
+1929,🧖🏻♂,man in steamy room: light skin tone
+1930,🧖🏼♂️,man in steamy room: medium-light skin tone
+1931,🧖🏼♂,man in steamy room: medium-light skin tone
+1932,🧖🏽♂️,man in steamy room: medium skin tone
+1933,🧖🏽♂,man in steamy room: medium skin tone
+1934,🧖🏾♂️,man in steamy room: medium-dark skin tone
+1935,🧖🏾♂,man in steamy room: medium-dark skin tone
+1936,🧖🏿♂️,man in steamy room: dark skin tone
+1937,🧖🏿♂,man in steamy room: dark skin tone
+1938,🧖♀️,woman in steamy room
+1939,🧖♀,woman in steamy room
+1940,🧖🏻♀️,woman in steamy room: light skin tone
+1941,🧖🏻♀,woman in steamy room: light skin tone
+1942,🧖🏼♀️,woman in steamy room: medium-light skin tone
+1943,🧖🏼♀,woman in steamy room: medium-light skin tone
+1944,🧖🏽♀️,woman in steamy room: medium skin tone
+1945,🧖🏽♀,woman in steamy room: medium skin tone
+1946,🧖🏾♀️,woman in steamy room: medium-dark skin tone
+1947,🧖🏾♀,woman in steamy room: medium-dark skin tone
+1948,🧖🏿♀️,woman in steamy room: dark skin tone
+1949,🧖🏿♀,woman in steamy room: dark skin tone
+1950,🧗,person climbing
+1951,🧗🏻,person climbing: light skin tone
+1952,🧗🏼,person climbing: medium-light skin tone
+1953,🧗🏽,person climbing: medium skin tone
+1954,🧗🏾,person climbing: medium-dark skin tone
+1955,🧗🏿,person climbing: dark skin tone
+1956,🧗♂️,man climbing
+1957,🧗♂,man climbing
+1958,🧗🏻♂️,man climbing: light skin tone
+1959,🧗🏻♂,man climbing: light skin tone
+1960,🧗🏼♂️,man climbing: medium-light skin tone
+1961,🧗🏼♂,man climbing: medium-light skin tone
+1962,🧗🏽♂️,man climbing: medium skin tone
+1963,🧗🏽♂,man climbing: medium skin tone
+1964,🧗🏾♂️,man climbing: medium-dark skin tone
+1965,🧗🏾♂,man climbing: medium-dark skin tone
+1966,🧗🏿♂️,man climbing: dark skin tone
+1967,🧗🏿♂,man climbing: dark skin tone
+1968,🧗♀️,woman climbing
+1969,🧗♀,woman climbing
+1970,🧗🏻♀️,woman climbing: light skin tone
+1971,🧗🏻♀,woman climbing: light skin tone
+1972,🧗🏼♀️,woman climbing: medium-light skin tone
+1973,🧗🏼♀,woman climbing: medium-light skin tone
+1974,🧗🏽♀️,woman climbing: medium skin tone
+1975,🧗🏽♀,woman climbing: medium skin tone
+1976,🧗🏾♀️,woman climbing: medium-dark skin tone
+1977,🧗🏾♀,woman climbing: medium-dark skin tone
+1978,🧗🏿♀️,woman climbing: dark skin tone
+1979,🧗🏿♀,woman climbing: dark skin tone
+1980,🤺,person fencing
+1981,🏇,horse racing
+1982,🏇🏻,horse racing: light skin tone
+1983,🏇🏼,horse racing: medium-light skin tone
+1984,🏇🏽,horse racing: medium skin tone
+1985,🏇🏾,horse racing: medium-dark skin tone
+1986,🏇🏿,horse racing: dark skin tone
+1987,⛷️,skier
+1988,⛷,skier
+1989,🏂,snowboarder
+1990,🏂🏻,snowboarder: light skin tone
+1991,🏂🏼,snowboarder: medium-light skin tone
+1992,🏂🏽,snowboarder: medium skin tone
+1993,🏂🏾,snowboarder: medium-dark skin tone
+1994,🏂🏿,snowboarder: dark skin tone
+1995,🏌️,person golfing
+1996,🏌,person golfing
+1997,🏌🏻,person golfing: light skin tone
+1998,🏌🏼,person golfing: medium-light skin tone
+1999,🏌🏽,person golfing: medium skin tone
+2000,🏌🏾,person golfing: medium-dark skin tone
+2001,🏌🏿,person golfing: dark skin tone
+2002,🏌️♂️,man golfing
+2003,🏌♂️,man golfing
+2004,🏌️♂,man golfing
+2005,🏌♂,man golfing
+2006,🏌🏻♂️,man golfing: light skin tone
+2007,🏌🏻♂,man golfing: light skin tone
+2008,🏌🏼♂️,man golfing: medium-light skin tone
+2009,🏌🏼♂,man golfing: medium-light skin tone
+2010,🏌🏽♂️,man golfing: medium skin tone
+2011,🏌🏽♂,man golfing: medium skin tone
+2012,🏌🏾♂️,man golfing: medium-dark skin tone
+2013,🏌🏾♂,man golfing: medium-dark skin tone
+2014,🏌🏿♂️,man golfing: dark skin tone
+2015,🏌🏿♂,man golfing: dark skin tone
+2016,🏌️♀️,woman golfing
+2017,🏌♀️,woman golfing
+2018,🏌️♀,woman golfing
+2019,🏌♀,woman golfing
+2020,🏌🏻♀️,woman golfing: light skin tone
+2021,🏌🏻♀,woman golfing: light skin tone
+2022,🏌🏼♀️,woman golfing: medium-light skin tone
+2023,🏌🏼♀,woman golfing: medium-light skin tone
+2024,🏌🏽♀️,woman golfing: medium skin tone
+2025,🏌🏽♀,woman golfing: medium skin tone
+2026,🏌🏾♀️,woman golfing: medium-dark skin tone
+2027,🏌🏾♀,woman golfing: medium-dark skin tone
+2028,🏌🏿♀️,woman golfing: dark skin tone
+2029,🏌🏿♀,woman golfing: dark skin tone
+2030,🏄,person surfing
+2031,🏄🏻,person surfing: light skin tone
+2032,🏄🏼,person surfing: medium-light skin tone
+2033,🏄🏽,person surfing: medium skin tone
+2034,🏄🏾,person surfing: medium-dark skin tone
+2035,🏄🏿,person surfing: dark skin tone
+2036,🏄♂️,man surfing
+2037,🏄♂,man surfing
+2038,🏄🏻♂️,man surfing: light skin tone
+2039,🏄🏻♂,man surfing: light skin tone
+2040,🏄🏼♂️,man surfing: medium-light skin tone
+2041,🏄🏼♂,man surfing: medium-light skin tone
+2042,🏄🏽♂️,man surfing: medium skin tone
+2043,🏄🏽♂,man surfing: medium skin tone
+2044,🏄🏾♂️,man surfing: medium-dark skin tone
+2045,🏄🏾♂,man surfing: medium-dark skin tone
+2046,🏄🏿♂️,man surfing: dark skin tone
+2047,🏄🏿♂,man surfing: dark skin tone
+2048,🏄♀️,woman surfing
+2049,🏄♀,woman surfing
+2050,🏄🏻♀️,woman surfing: light skin tone
+2051,🏄🏻♀,woman surfing: light skin tone
+2052,🏄🏼♀️,woman surfing: medium-light skin tone
+2053,🏄🏼♀,woman surfing: medium-light skin tone
+2054,🏄🏽♀️,woman surfing: medium skin tone
+2055,🏄🏽♀,woman surfing: medium skin tone
+2056,🏄🏾♀️,woman surfing: medium-dark skin tone
+2057,🏄🏾♀,woman surfing: medium-dark skin tone
+2058,🏄🏿♀️,woman surfing: dark skin tone
+2059,🏄🏿♀,woman surfing: dark skin tone
+2060,🚣,person rowing boat
+2061,🚣🏻,person rowing boat: light skin tone
+2062,🚣🏼,person rowing boat: medium-light skin tone
+2063,🚣🏽,person rowing boat: medium skin tone
+2064,🚣🏾,person rowing boat: medium-dark skin tone
+2065,🚣🏿,person rowing boat: dark skin tone
+2066,🚣♂️,man rowing boat
+2067,🚣♂,man rowing boat
+2068,🚣🏻♂️,man rowing boat: light skin tone
+2069,🚣🏻♂,man rowing boat: light skin tone
+2070,🚣🏼♂️,man rowing boat: medium-light skin tone
+2071,🚣🏼♂,man rowing boat: medium-light skin tone
+2072,🚣🏽♂️,man rowing boat: medium skin tone
+2073,🚣🏽♂,man rowing boat: medium skin tone
+2074,🚣🏾♂️,man rowing boat: medium-dark skin tone
+2075,🚣🏾♂,man rowing boat: medium-dark skin tone
+2076,🚣🏿♂️,man rowing boat: dark skin tone
+2077,🚣🏿♂,man rowing boat: dark skin tone
+2078,🚣♀️,woman rowing boat
+2079,🚣♀,woman rowing boat
+2080,🚣🏻♀️,woman rowing boat: light skin tone
+2081,🚣🏻♀,woman rowing boat: light skin tone
+2082,🚣🏼♀️,woman rowing boat: medium-light skin tone
+2083,🚣🏼♀,woman rowing boat: medium-light skin tone
+2084,🚣🏽♀️,woman rowing boat: medium skin tone
+2085,🚣🏽♀,woman rowing boat: medium skin tone
+2086,🚣🏾♀️,woman rowing boat: medium-dark skin tone
+2087,🚣🏾♀,woman rowing boat: medium-dark skin tone
+2088,🚣🏿♀️,woman rowing boat: dark skin tone
+2089,🚣🏿♀,woman rowing boat: dark skin tone
+2090,🏊,person swimming
+2091,🏊🏻,person swimming: light skin tone
+2092,🏊🏼,person swimming: medium-light skin tone
+2093,🏊🏽,person swimming: medium skin tone
+2094,🏊🏾,person swimming: medium-dark skin tone
+2095,🏊🏿,person swimming: dark skin tone
+2096,🏊♂️,man swimming
+2097,🏊♂,man swimming
+2098,🏊🏻♂️,man swimming: light skin tone
+2099,🏊🏻♂,man swimming: light skin tone
+2100,🏊🏼♂️,man swimming: medium-light skin tone
+2101,🏊🏼♂,man swimming: medium-light skin tone
+2102,🏊🏽♂️,man swimming: medium skin tone
+2103,🏊🏽♂,man swimming: medium skin tone
+2104,🏊🏾♂️,man swimming: medium-dark skin tone
+2105,🏊🏾♂,man swimming: medium-dark skin tone
+2106,🏊🏿♂️,man swimming: dark skin tone
+2107,🏊🏿♂,man swimming: dark skin tone
+2108,🏊♀️,woman swimming
+2109,🏊♀,woman swimming
+2110,🏊🏻♀️,woman swimming: light skin tone
+2111,🏊🏻♀,woman swimming: light skin tone
+2112,🏊🏼♀️,woman swimming: medium-light skin tone
+2113,🏊🏼♀,woman swimming: medium-light skin tone
+2114,🏊🏽♀️,woman swimming: medium skin tone
+2115,🏊🏽♀,woman swimming: medium skin tone
+2116,🏊🏾♀️,woman swimming: medium-dark skin tone
+2117,🏊🏾♀,woman swimming: medium-dark skin tone
+2118,🏊🏿♀️,woman swimming: dark skin tone
+2119,🏊🏿♀,woman swimming: dark skin tone
+2120,⛹️,person bouncing ball
+2121,⛹,person bouncing ball
+2122,⛹🏻,person bouncing ball: light skin tone
+2123,⛹🏼,person bouncing ball: medium-light skin tone
+2124,⛹🏽,person bouncing ball: medium skin tone
+2125,⛹🏾,person bouncing ball: medium-dark skin tone
+2126,⛹🏿,person bouncing ball: dark skin tone
+2127,⛹️♂️,man bouncing ball
+2128,⛹♂️,man bouncing ball
+2129,⛹️♂,man bouncing ball
+2130,⛹♂,man bouncing ball
+2131,⛹🏻♂️,man bouncing ball: light skin tone
+2132,⛹🏻♂,man bouncing ball: light skin tone
+2133,⛹🏼♂️,man bouncing ball: medium-light skin tone
+2134,⛹🏼♂,man bouncing ball: medium-light skin tone
+2135,⛹🏽♂️,man bouncing ball: medium skin tone
+2136,⛹🏽♂,man bouncing ball: medium skin tone
+2137,⛹🏾♂️,man bouncing ball: medium-dark skin tone
+2138,⛹🏾♂,man bouncing ball: medium-dark skin tone
+2139,⛹🏿♂️,man bouncing ball: dark skin tone
+2140,⛹🏿♂,man bouncing ball: dark skin tone
+2141,⛹️♀️,woman bouncing ball
+2142,⛹♀️,woman bouncing ball
+2143,⛹️♀,woman bouncing ball
+2144,⛹♀,woman bouncing ball
+2145,⛹🏻♀️,woman bouncing ball: light skin tone
+2146,⛹🏻♀,woman bouncing ball: light skin tone
+2147,⛹🏼♀️,woman bouncing ball: medium-light skin tone
+2148,⛹🏼♀,woman bouncing ball: medium-light skin tone
+2149,⛹🏽♀️,woman bouncing ball: medium skin tone
+2150,⛹🏽♀,woman bouncing ball: medium skin tone
+2151,⛹🏾♀️,woman bouncing ball: medium-dark skin tone
+2152,⛹🏾♀,woman bouncing ball: medium-dark skin tone
+2153,⛹🏿♀️,woman bouncing ball: dark skin tone
+2154,⛹🏿♀,woman bouncing ball: dark skin tone
+2155,🏋️,person lifting weights
+2156,🏋,person lifting weights
+2157,🏋🏻,person lifting weights: light skin tone
+2158,🏋🏼,person lifting weights: medium-light skin tone
+2159,🏋🏽,person lifting weights: medium skin tone
+2160,🏋🏾,person lifting weights: medium-dark skin tone
+2161,🏋🏿,person lifting weights: dark skin tone
+2162,🏋️♂️,man lifting weights
+2163,🏋♂️,man lifting weights
+2164,🏋️♂,man lifting weights
+2165,🏋♂,man lifting weights
+2166,🏋🏻♂️,man lifting weights: light skin tone
+2167,🏋🏻♂,man lifting weights: light skin tone
+2168,🏋🏼♂️,man lifting weights: medium-light skin tone
+2169,🏋🏼♂,man lifting weights: medium-light skin tone
+2170,🏋🏽♂️,man lifting weights: medium skin tone
+2171,🏋🏽♂,man lifting weights: medium skin tone
+2172,🏋🏾♂️,man lifting weights: medium-dark skin tone
+2173,🏋🏾♂,man lifting weights: medium-dark skin tone
+2174,🏋🏿♂️,man lifting weights: dark skin tone
+2175,🏋🏿♂,man lifting weights: dark skin tone
+2176,🏋️♀️,woman lifting weights
+2177,🏋♀️,woman lifting weights
+2178,🏋️♀,woman lifting weights
+2179,🏋♀,woman lifting weights
+2180,🏋🏻♀️,woman lifting weights: light skin tone
+2181,🏋🏻♀,woman lifting weights: light skin tone
+2182,🏋🏼♀️,woman lifting weights: medium-light skin tone
+2183,🏋🏼♀,woman lifting weights: medium-light skin tone
+2184,🏋🏽♀️,woman lifting weights: medium skin tone
+2185,🏋🏽♀,woman lifting weights: medium skin tone
+2186,🏋🏾♀️,woman lifting weights: medium-dark skin tone
+2187,🏋🏾♀,woman lifting weights: medium-dark skin tone
+2188,🏋🏿♀️,woman lifting weights: dark skin tone
+2189,🏋🏿♀,woman lifting weights: dark skin tone
+2190,🚴,person biking
+2191,🚴🏻,person biking: light skin tone
+2192,🚴🏼,person biking: medium-light skin tone
+2193,🚴🏽,person biking: medium skin tone
+2194,🚴🏾,person biking: medium-dark skin tone
+2195,🚴🏿,person biking: dark skin tone
+2196,🚴♂️,man biking
+2197,🚴♂,man biking
+2198,🚴🏻♂️,man biking: light skin tone
+2199,🚴🏻♂,man biking: light skin tone
+2200,🚴🏼♂️,man biking: medium-light skin tone
+2201,🚴🏼♂,man biking: medium-light skin tone
+2202,🚴🏽♂️,man biking: medium skin tone
+2203,🚴🏽♂,man biking: medium skin tone
+2204,🚴🏾♂️,man biking: medium-dark skin tone
+2205,🚴🏾♂,man biking: medium-dark skin tone
+2206,🚴🏿♂️,man biking: dark skin tone
+2207,🚴🏿♂,man biking: dark skin tone
+2208,🚴♀️,woman biking
+2209,🚴♀,woman biking
+2210,🚴🏻♀️,woman biking: light skin tone
+2211,🚴🏻♀,woman biking: light skin tone
+2212,🚴🏼♀️,woman biking: medium-light skin tone
+2213,🚴🏼♀,woman biking: medium-light skin tone
+2214,🚴🏽♀️,woman biking: medium skin tone
+2215,🚴🏽♀,woman biking: medium skin tone
+2216,🚴🏾♀️,woman biking: medium-dark skin tone
+2217,🚴🏾♀,woman biking: medium-dark skin tone
+2218,🚴🏿♀️,woman biking: dark skin tone
+2219,🚴🏿♀,woman biking: dark skin tone
+2220,🚵,person mountain biking
+2221,🚵🏻,person mountain biking: light skin tone
+2222,🚵🏼,person mountain biking: medium-light skin tone
+2223,🚵🏽,person mountain biking: medium skin tone
+2224,🚵🏾,person mountain biking: medium-dark skin tone
+2225,🚵🏿,person mountain biking: dark skin tone
+2226,🚵♂️,man mountain biking
+2227,🚵♂,man mountain biking
+2228,🚵🏻♂️,man mountain biking: light skin tone
+2229,🚵🏻♂,man mountain biking: light skin tone
+2230,🚵🏼♂️,man mountain biking: medium-light skin tone
+2231,🚵🏼♂,man mountain biking: medium-light skin tone
+2232,🚵🏽♂️,man mountain biking: medium skin tone
+2233,🚵🏽♂,man mountain biking: medium skin tone
+2234,🚵🏾♂️,man mountain biking: medium-dark skin tone
+2235,🚵🏾♂,man mountain biking: medium-dark skin tone
+2236,🚵🏿♂️,man mountain biking: dark skin tone
+2237,🚵🏿♂,man mountain biking: dark skin tone
+2238,🚵♀️,woman mountain biking
+2239,🚵♀,woman mountain biking
+2240,🚵🏻♀️,woman mountain biking: light skin tone
+2241,🚵🏻♀,woman mountain biking: light skin tone
+2242,🚵🏼♀️,woman mountain biking: medium-light skin tone
+2243,🚵🏼♀,woman mountain biking: medium-light skin tone
+2244,🚵🏽♀️,woman mountain biking: medium skin tone
+2245,🚵🏽♀,woman mountain biking: medium skin tone
+2246,🚵🏾♀️,woman mountain biking: medium-dark skin tone
+2247,🚵🏾♀,woman mountain biking: medium-dark skin tone
+2248,🚵🏿♀️,woman mountain biking: dark skin tone
+2249,🚵🏿♀,woman mountain biking: dark skin tone
+2250,🤸,person cartwheeling
+2251,🤸🏻,person cartwheeling: light skin tone
+2252,🤸🏼,person cartwheeling: medium-light skin tone
+2253,🤸🏽,person cartwheeling: medium skin tone
+2254,🤸🏾,person cartwheeling: medium-dark skin tone
+2255,🤸🏿,person cartwheeling: dark skin tone
+2256,🤸♂️,man cartwheeling
+2257,🤸♂,man cartwheeling
+2258,🤸🏻♂️,man cartwheeling: light skin tone
+2259,🤸🏻♂,man cartwheeling: light skin tone
+2260,🤸🏼♂️,man cartwheeling: medium-light skin tone
+2261,🤸🏼♂,man cartwheeling: medium-light skin tone
+2262,🤸🏽♂️,man cartwheeling: medium skin tone
+2263,🤸🏽♂,man cartwheeling: medium skin tone
+2264,🤸🏾♂️,man cartwheeling: medium-dark skin tone
+2265,🤸🏾♂,man cartwheeling: medium-dark skin tone
+2266,🤸🏿♂️,man cartwheeling: dark skin tone
+2267,🤸🏿♂,man cartwheeling: dark skin tone
+2268,🤸♀️,woman cartwheeling
+2269,🤸♀,woman cartwheeling
+2270,🤸🏻♀️,woman cartwheeling: light skin tone
+2271,🤸🏻♀,woman cartwheeling: light skin tone
+2272,🤸🏼♀️,woman cartwheeling: medium-light skin tone
+2273,🤸🏼♀,woman cartwheeling: medium-light skin tone
+2274,🤸🏽♀️,woman cartwheeling: medium skin tone
+2275,🤸🏽♀,woman cartwheeling: medium skin tone
+2276,🤸🏾♀️,woman cartwheeling: medium-dark skin tone
+2277,🤸🏾♀,woman cartwheeling: medium-dark skin tone
+2278,🤸🏿♀️,woman cartwheeling: dark skin tone
+2279,🤸🏿♀,woman cartwheeling: dark skin tone
+2280,🤼,people wrestling
+2281,🤼♂️,men wrestling
+2282,🤼♂,men wrestling
+2283,🤼♀️,women wrestling
+2284,🤼♀,women wrestling
+2285,🤽,person playing water polo
+2286,🤽🏻,person playing water polo: light skin tone
+2287,🤽🏼,person playing water polo: medium-light skin tone
+2288,🤽🏽,person playing water polo: medium skin tone
+2289,🤽🏾,person playing water polo: medium-dark skin tone
+2290,🤽🏿,person playing water polo: dark skin tone
+2291,🤽♂️,man playing water polo
+2292,🤽♂,man playing water polo
+2293,🤽🏻♂️,man playing water polo: light skin tone
+2294,🤽🏻♂,man playing water polo: light skin tone
+2295,🤽🏼♂️,man playing water polo: medium-light skin tone
+2296,🤽🏼♂,man playing water polo: medium-light skin tone
+2297,🤽🏽♂️,man playing water polo: medium skin tone
+2298,🤽🏽♂,man playing water polo: medium skin tone
+2299,🤽🏾♂️,man playing water polo: medium-dark skin tone
+2300,🤽🏾♂,man playing water polo: medium-dark skin tone
+2301,🤽🏿♂️,man playing water polo: dark skin tone
+2302,🤽🏿♂,man playing water polo: dark skin tone
+2303,🤽♀️,woman playing water polo
+2304,🤽♀,woman playing water polo
+2305,🤽🏻♀️,woman playing water polo: light skin tone
+2306,🤽🏻♀,woman playing water polo: light skin tone
+2307,🤽🏼♀️,woman playing water polo: medium-light skin tone
+2308,🤽🏼♀,woman playing water polo: medium-light skin tone
+2309,🤽🏽♀️,woman playing water polo: medium skin tone
+2310,🤽🏽♀,woman playing water polo: medium skin tone
+2311,🤽🏾♀️,woman playing water polo: medium-dark skin tone
+2312,🤽🏾♀,woman playing water polo: medium-dark skin tone
+2313,🤽🏿♀️,woman playing water polo: dark skin tone
+2314,🤽🏿♀,woman playing water polo: dark skin tone
+2315,🤾,person playing handball
+2316,🤾🏻,person playing handball: light skin tone
+2317,🤾🏼,person playing handball: medium-light skin tone
+2318,🤾🏽,person playing handball: medium skin tone
+2319,🤾🏾,person playing handball: medium-dark skin tone
+2320,🤾🏿,person playing handball: dark skin tone
+2321,🤾♂️,man playing handball
+2322,🤾♂,man playing handball
+2323,🤾🏻♂️,man playing handball: light skin tone
+2324,🤾🏻♂,man playing handball: light skin tone
+2325,🤾🏼♂️,man playing handball: medium-light skin tone
+2326,🤾🏼♂,man playing handball: medium-light skin tone
+2327,🤾🏽♂️,man playing handball: medium skin tone
+2328,🤾🏽♂,man playing handball: medium skin tone
+2329,🤾🏾♂️,man playing handball: medium-dark skin tone
+2330,🤾🏾♂,man playing handball: medium-dark skin tone
+2331,🤾🏿♂️,man playing handball: dark skin tone
+2332,🤾🏿♂,man playing handball: dark skin tone
+2333,🤾♀️,woman playing handball
+2334,🤾♀,woman playing handball
+2335,🤾🏻♀️,woman playing handball: light skin tone
+2336,🤾🏻♀,woman playing handball: light skin tone
+2337,🤾🏼♀️,woman playing handball: medium-light skin tone
+2338,🤾🏼♀,woman playing handball: medium-light skin tone
+2339,🤾🏽♀️,woman playing handball: medium skin tone
+2340,🤾🏽♀,woman playing handball: medium skin tone
+2341,🤾🏾♀️,woman playing handball: medium-dark skin tone
+2342,🤾🏾♀,woman playing handball: medium-dark skin tone
+2343,🤾🏿♀️,woman playing handball: dark skin tone
+2344,🤾🏿♀,woman playing handball: dark skin tone
+2345,🤹,person juggling
+2346,🤹🏻,person juggling: light skin tone
+2347,🤹🏼,person juggling: medium-light skin tone
+2348,🤹🏽,person juggling: medium skin tone
+2349,🤹🏾,person juggling: medium-dark skin tone
+2350,🤹🏿,person juggling: dark skin tone
+2351,🤹♂️,man juggling
+2352,🤹♂,man juggling
+2353,🤹🏻♂️,man juggling: light skin tone
+2354,🤹🏻♂,man juggling: light skin tone
+2355,🤹🏼♂️,man juggling: medium-light skin tone
+2356,🤹🏼♂,man juggling: medium-light skin tone
+2357,🤹🏽♂️,man juggling: medium skin tone
+2358,🤹🏽♂,man juggling: medium skin tone
+2359,🤹🏾♂️,man juggling: medium-dark skin tone
+2360,🤹🏾♂,man juggling: medium-dark skin tone
+2361,🤹🏿♂️,man juggling: dark skin tone
+2362,🤹🏿♂,man juggling: dark skin tone
+2363,🤹♀️,woman juggling
+2364,🤹♀,woman juggling
+2365,🤹🏻♀️,woman juggling: light skin tone
+2366,🤹🏻♀,woman juggling: light skin tone
+2367,🤹🏼♀️,woman juggling: medium-light skin tone
+2368,🤹🏼♀,woman juggling: medium-light skin tone
+2369,🤹🏽♀️,woman juggling: medium skin tone
+2370,🤹🏽♀,woman juggling: medium skin tone
+2371,🤹🏾♀️,woman juggling: medium-dark skin tone
+2372,🤹🏾♀,woman juggling: medium-dark skin tone
+2373,🤹🏿♀️,woman juggling: dark skin tone
+2374,🤹🏿♀,woman juggling: dark skin tone
+2375,🧘,person in lotus position
+2376,🧘🏻,person in lotus position: light skin tone
+2377,🧘🏼,person in lotus position: medium-light skin tone
+2378,🧘🏽,person in lotus position: medium skin tone
+2379,🧘🏾,person in lotus position: medium-dark skin tone
+2380,🧘🏿,person in lotus position: dark skin tone
+2381,🧘♂️,man in lotus position
+2382,🧘♂,man in lotus position
+2383,🧘🏻♂️,man in lotus position: light skin tone
+2384,🧘🏻♂,man in lotus position: light skin tone
+2385,🧘🏼♂️,man in lotus position: medium-light skin tone
+2386,🧘🏼♂,man in lotus position: medium-light skin tone
+2387,🧘🏽♂️,man in lotus position: medium skin tone
+2388,🧘🏽♂,man in lotus position: medium skin tone
+2389,🧘🏾♂️,man in lotus position: medium-dark skin tone
+2390,🧘🏾♂,man in lotus position: medium-dark skin tone
+2391,🧘🏿♂️,man in lotus position: dark skin tone
+2392,🧘🏿♂,man in lotus position: dark skin tone
+2393,🧘♀️,woman in lotus position
+2394,🧘♀,woman in lotus position
+2395,🧘🏻♀️,woman in lotus position: light skin tone
+2396,🧘🏻♀,woman in lotus position: light skin tone
+2397,🧘🏼♀️,woman in lotus position: medium-light skin tone
+2398,🧘🏼♀,woman in lotus position: medium-light skin tone
+2399,🧘🏽♀️,woman in lotus position: medium skin tone
+2400,🧘🏽♀,woman in lotus position: medium skin tone
+2401,🧘🏾♀️,woman in lotus position: medium-dark skin tone
+2402,🧘🏾♀,woman in lotus position: medium-dark skin tone
+2403,🧘🏿♀️,woman in lotus position: dark skin tone
+2404,🧘🏿♀,woman in lotus position: dark skin tone
+2405,🛀,person taking bath
+2406,🛀🏻,person taking bath: light skin tone
+2407,🛀🏼,person taking bath: medium-light skin tone
+2408,🛀🏽,person taking bath: medium skin tone
+2409,🛀🏾,person taking bath: medium-dark skin tone
+2410,🛀🏿,person taking bath: dark skin tone
+2411,🛌,person in bed
+2412,🛌🏻,person in bed: light skin tone
+2413,🛌🏼,person in bed: medium-light skin tone
+2414,🛌🏽,person in bed: medium skin tone
+2415,🛌🏾,person in bed: medium-dark skin tone
+2416,🛌🏿,person in bed: dark skin tone
+2417,🧑🤝🧑,people holding hands
+2418,🧑🏻🤝🧑🏻,people holding hands: light skin tone
+2419,🧑🏻🤝🧑🏼,"people holding hands: light skin tone, medium-light skin tone"
+2420,🧑🏻🤝🧑🏽,"people holding hands: light skin tone, medium skin tone"
+2421,🧑🏻🤝🧑🏾,"people holding hands: light skin tone, medium-dark skin tone"
+2422,🧑🏻🤝🧑🏿,"people holding hands: light skin tone, dark skin tone"
+2423,🧑🏼🤝🧑🏻,"people holding hands: medium-light skin tone, light skin tone"
+2424,🧑🏼🤝🧑🏼,people holding hands: medium-light skin tone
+2425,🧑🏼🤝🧑🏽,"people holding hands: medium-light skin tone, medium skin tone"
+2426,🧑🏼🤝🧑🏾,"people holding hands: medium-light skin tone, medium-dark skin tone"
+2427,🧑🏼🤝🧑🏿,"people holding hands: medium-light skin tone, dark skin tone"
+2428,🧑🏽🤝🧑🏻,"people holding hands: medium skin tone, light skin tone"
+2429,🧑🏽🤝🧑🏼,"people holding hands: medium skin tone, medium-light skin tone"
+2430,🧑🏽🤝🧑🏽,people holding hands: medium skin tone
+2431,🧑🏽🤝🧑🏾,"people holding hands: medium skin tone, medium-dark skin tone"
+2432,🧑🏽🤝🧑🏿,"people holding hands: medium skin tone, dark skin tone"
+2433,🧑🏾🤝🧑🏻,"people holding hands: medium-dark skin tone, light skin tone"
+2434,🧑🏾🤝🧑🏼,"people holding hands: medium-dark skin tone, medium-light skin tone"
+2435,🧑🏾🤝🧑🏽,"people holding hands: medium-dark skin tone, medium skin tone"
+2436,🧑🏾🤝🧑🏾,people holding hands: medium-dark skin tone
+2437,🧑🏾🤝🧑🏿,"people holding hands: medium-dark skin tone, dark skin tone"
+2438,🧑🏿🤝🧑🏻,"people holding hands: dark skin tone, light skin tone"
+2439,🧑🏿🤝🧑🏼,"people holding hands: dark skin tone, medium-light skin tone"
+2440,🧑🏿🤝🧑🏽,"people holding hands: dark skin tone, medium skin tone"
+2441,🧑🏿🤝🧑🏾,"people holding hands: dark skin tone, medium-dark skin tone"
+2442,🧑🏿🤝🧑🏿,people holding hands: dark skin tone
+2443,👭,women holding hands
+2444,👭🏻,women holding hands: light skin tone
+2445,👩🏻🤝👩🏼,"women holding hands: light skin tone, medium-light skin tone"
+2446,👩🏻🤝👩🏽,"women holding hands: light skin tone, medium skin tone"
+2447,👩🏻🤝👩🏾,"women holding hands: light skin tone, medium-dark skin tone"
+2448,👩🏻🤝👩🏿,"women holding hands: light skin tone, dark skin tone"
+2449,👩🏼🤝👩🏻,"women holding hands: medium-light skin tone, light skin tone"
+2450,👭🏼,women holding hands: medium-light skin tone
+2451,👩🏼🤝👩🏽,"women holding hands: medium-light skin tone, medium skin tone"
+2452,👩🏼🤝👩🏾,"women holding hands: medium-light skin tone, medium-dark skin tone"
+2453,👩🏼🤝👩🏿,"women holding hands: medium-light skin tone, dark skin tone"
+2454,👩🏽🤝👩🏻,"women holding hands: medium skin tone, light skin tone"
+2455,👩🏽🤝👩🏼,"women holding hands: medium skin tone, medium-light skin tone"
+2456,👭🏽,women holding hands: medium skin tone
+2457,👩🏽🤝👩🏾,"women holding hands: medium skin tone, medium-dark skin tone"
+2458,👩🏽🤝👩🏿,"women holding hands: medium skin tone, dark skin tone"
+2459,👩🏾🤝👩🏻,"women holding hands: medium-dark skin tone, light skin tone"
+2460,👩🏾🤝👩🏼,"women holding hands: medium-dark skin tone, medium-light skin tone"
+2461,👩🏾🤝👩🏽,"women holding hands: medium-dark skin tone, medium skin tone"
+2462,👭🏾,women holding hands: medium-dark skin tone
+2463,👩🏾🤝👩🏿,"women holding hands: medium-dark skin tone, dark skin tone"
+2464,👩🏿🤝👩🏻,"women holding hands: dark skin tone, light skin tone"
+2465,👩🏿🤝👩🏼,"women holding hands: dark skin tone, medium-light skin tone"
+2466,👩🏿🤝👩🏽,"women holding hands: dark skin tone, medium skin tone"
+2467,👩🏿🤝👩🏾,"women holding hands: dark skin tone, medium-dark skin tone"
+2468,👭🏿,women holding hands: dark skin tone
+2469,👫,woman and man holding hands
+2470,👫🏻,woman and man holding hands: light skin tone
+2471,👩🏻🤝👨🏼,"woman and man holding hands: light skin tone, medium-light skin tone"
+2472,👩🏻🤝👨🏽,"woman and man holding hands: light skin tone, medium skin tone"
+2473,👩🏻🤝👨🏾,"woman and man holding hands: light skin tone, medium-dark skin tone"
+2474,👩🏻🤝👨🏿,"woman and man holding hands: light skin tone, dark skin tone"
+2475,👩🏼🤝👨🏻,"woman and man holding hands: medium-light skin tone, light skin tone"
+2476,👫🏼,woman and man holding hands: medium-light skin tone
+2477,👩🏼🤝👨🏽,"woman and man holding hands: medium-light skin tone, medium skin tone"
+2478,👩🏼🤝👨🏾,"woman and man holding hands: medium-light skin tone, medium-dark skin tone"
+2479,👩🏼🤝👨🏿,"woman and man holding hands: medium-light skin tone, dark skin tone"
+2480,👩🏽🤝👨🏻,"woman and man holding hands: medium skin tone, light skin tone"
+2481,👩🏽🤝👨🏼,"woman and man holding hands: medium skin tone, medium-light skin tone"
+2482,👫🏽,woman and man holding hands: medium skin tone
+2483,👩🏽🤝👨🏾,"woman and man holding hands: medium skin tone, medium-dark skin tone"
+2484,👩🏽🤝👨🏿,"woman and man holding hands: medium skin tone, dark skin tone"
+2485,👩🏾🤝👨🏻,"woman and man holding hands: medium-dark skin tone, light skin tone"
+2486,👩🏾🤝👨🏼,"woman and man holding hands: medium-dark skin tone, medium-light skin tone"
+2487,👩🏾🤝👨🏽,"woman and man holding hands: medium-dark skin tone, medium skin tone"
+2488,👫🏾,woman and man holding hands: medium-dark skin tone
+2489,👩🏾🤝👨🏿,"woman and man holding hands: medium-dark skin tone, dark skin tone"
+2490,👩🏿🤝👨🏻,"woman and man holding hands: dark skin tone, light skin tone"
+2491,👩🏿🤝👨🏼,"woman and man holding hands: dark skin tone, medium-light skin tone"
+2492,👩🏿🤝👨🏽,"woman and man holding hands: dark skin tone, medium skin tone"
+2493,👩🏿🤝👨🏾,"woman and man holding hands: dark skin tone, medium-dark skin tone"
+2494,👫🏿,woman and man holding hands: dark skin tone
+2495,👬,men holding hands
+2496,👬🏻,men holding hands: light skin tone
+2497,👨🏻🤝👨🏼,"men holding hands: light skin tone, medium-light skin tone"
+2498,👨🏻🤝👨🏽,"men holding hands: light skin tone, medium skin tone"
+2499,👨🏻🤝👨🏾,"men holding hands: light skin tone, medium-dark skin tone"
+2500,👨🏻🤝👨🏿,"men holding hands: light skin tone, dark skin tone"
+2501,👨🏼🤝👨🏻,"men holding hands: medium-light skin tone, light skin tone"
+2502,👬🏼,men holding hands: medium-light skin tone
+2503,👨🏼🤝👨🏽,"men holding hands: medium-light skin tone, medium skin tone"
+2504,👨🏼🤝👨🏾,"men holding hands: medium-light skin tone, medium-dark skin tone"
+2505,👨🏼🤝👨🏿,"men holding hands: medium-light skin tone, dark skin tone"
+2506,👨🏽🤝👨🏻,"men holding hands: medium skin tone, light skin tone"
+2507,👨🏽🤝👨🏼,"men holding hands: medium skin tone, medium-light skin tone"
+2508,👬🏽,men holding hands: medium skin tone
+2509,👨🏽🤝👨🏾,"men holding hands: medium skin tone, medium-dark skin tone"
+2510,👨🏽🤝👨🏿,"men holding hands: medium skin tone, dark skin tone"
+2511,👨🏾🤝👨🏻,"men holding hands: medium-dark skin tone, light skin tone"
+2512,👨🏾🤝👨🏼,"men holding hands: medium-dark skin tone, medium-light skin tone"
+2513,👨🏾🤝👨🏽,"men holding hands: medium-dark skin tone, medium skin tone"
+2514,👬🏾,men holding hands: medium-dark skin tone
+2515,👨🏾🤝👨🏿,"men holding hands: medium-dark skin tone, dark skin tone"
+2516,👨🏿🤝👨🏻,"men holding hands: dark skin tone, light skin tone"
+2517,👨🏿🤝👨🏼,"men holding hands: dark skin tone, medium-light skin tone"
+2518,👨🏿🤝👨🏽,"men holding hands: dark skin tone, medium skin tone"
+2519,👨🏿🤝👨🏾,"men holding hands: dark skin tone, medium-dark skin tone"
+2520,👬🏿,men holding hands: dark skin tone
+2521,💏,kiss
+2522,👩❤️💋👨,"kiss: woman, man"
+2523,👩❤💋👨,"kiss: woman, man"
+2524,👨❤️💋👨,"kiss: man, man"
+2525,👨❤💋👨,"kiss: man, man"
+2526,👩❤️💋👩,"kiss: woman, woman"
+2527,👩❤💋👩,"kiss: woman, woman"
+2528,💑,couple with heart
+2529,👩❤️👨,"couple with heart: woman, man"
+2530,👩❤👨,"couple with heart: woman, man"
+2531,👨❤️👨,"couple with heart: man, man"
+2532,👨❤👨,"couple with heart: man, man"
+2533,👩❤️👩,"couple with heart: woman, woman"
+2534,👩❤👩,"couple with heart: woman, woman"
+2535,👪,family
+2536,👨👩👦,"family: man, woman, boy"
+2537,👨👩👧,"family: man, woman, girl"
+2538,👨👩👧👦,"family: man, woman, girl, boy"
+2539,👨👩👦👦,"family: man, woman, boy, boy"
+2540,👨👩👧👧,"family: man, woman, girl, girl"
+2541,👨👨👦,"family: man, man, boy"
+2542,👨👨👧,"family: man, man, girl"
+2543,👨👨👧👦,"family: man, man, girl, boy"
+2544,👨👨👦👦,"family: man, man, boy, boy"
+2545,👨👨👧👧,"family: man, man, girl, girl"
+2546,👩👩👦,"family: woman, woman, boy"
+2547,👩👩👧,"family: woman, woman, girl"
+2548,👩👩👧👦,"family: woman, woman, girl, boy"
+2549,👩👩👦👦,"family: woman, woman, boy, boy"
+2550,👩👩👧👧,"family: woman, woman, girl, girl"
+2551,👨👦,"family: man, boy"
+2552,👨👦👦,"family: man, boy, boy"
+2553,👨👧,"family: man, girl"
+2554,👨👧👦,"family: man, girl, boy"
+2555,👨👧👧,"family: man, girl, girl"
+2556,👩👦,"family: woman, boy"
+2557,👩👦👦,"family: woman, boy, boy"
+2558,👩👧,"family: woman, girl"
+2559,👩👧👦,"family: woman, girl, boy"
+2560,👩👧👧,"family: woman, girl, girl"
+2561,🗣️,speaking head
+2562,🗣,speaking head
+2563,👤,bust in silhouette
+2564,👥,busts in silhouette
+2565,🫂,people hugging
+2566,👣,footprints
+2567,🏻,light skin tone
+2568,🏼,medium-light skin tone
+2569,🏽,medium skin tone
+2570,🏾,medium-dark skin tone
+2571,🏿,dark skin tone
+2572,🦰,red hair
+2573,🦱,curly hair
+2574,🦳,white hair
+2575,🦲,bald
+2576,🐵,monkey face
+2577,🐒,monkey
+2578,🦍,gorilla
+2579,🦧,orangutan
+2580,🐶,dog face
+2581,🐕,dog
+2582,🦮,guide dog
+2583,🐕🦺,service dog
+2584,🐩,poodle
+2585,🐺,wolf
+2586,🦊,fox
+2587,🦝,raccoon
+2588,🐱,cat face
+2589,🐈,cat
+2590,🐈⬛,black cat
+2591,🦁,lion
+2592,🐯,tiger face
+2593,🐅,tiger
+2594,🐆,leopard
+2595,🐴,horse face
+2596,🐎,horse
+2597,🦄,unicorn
+2598,🦓,zebra
+2599,🦌,deer
+2600,🦬,bison
+2601,🐮,cow face
+2602,🐂,ox
+2603,🐃,water buffalo
+2604,🐄,cow
+2605,🐷,pig face
+2606,🐖,pig
+2607,🐗,boar
+2608,🐽,pig nose
+2609,🐏,ram
+2610,🐑,ewe
+2611,🐐,goat
+2612,🐪,camel
+2613,🐫,two-hump camel
+2614,🦙,llama
+2615,🦒,giraffe
+2616,🐘,elephant
+2617,🦣,mammoth
+2618,🦏,rhinoceros
+2619,🦛,hippopotamus
+2620,🐭,mouse face
+2621,🐁,mouse
+2622,🐀,rat
+2623,🐹,hamster
+2624,🐰,rabbit face
+2625,🐇,rabbit
+2626,🐿️,chipmunk
+2627,🐿,chipmunk
+2628,🦫,beaver
+2629,🦔,hedgehog
+2630,🦇,bat
+2631,🐻,bear
+2632,🐻❄️,polar bear
+2633,🐻❄,polar bear
+2634,🐨,koala
+2635,🐼,panda
+2636,🦥,sloth
+2637,🦦,otter
+2638,🦨,skunk
+2639,🦘,kangaroo
+2640,🦡,badger
+2641,🐾,paw prints
+2642,🦃,turkey
+2643,🐔,chicken
+2644,🐓,rooster
+2645,🐣,hatching chick
+2646,🐤,baby chick
+2647,🐥,front-facing baby chick
+2648,🐦,bird
+2649,🐧,penguin
+2650,🕊️,dove
+2651,🕊,dove
+2652,🦅,eagle
+2653,🦆,duck
+2654,🦢,swan
+2655,🦉,owl
+2656,🦤,dodo
+2657,🪶,feather
+2658,🦩,flamingo
+2659,🦚,peacock
+2660,🦜,parrot
+2661,🐸,frog
+2662,🐊,crocodile
+2663,🐢,turtle
+2664,🦎,lizard
+2665,🐍,snake
+2666,🐲,dragon face
+2667,🐉,dragon
+2668,🦕,sauropod
+2669,🦖,T-Rex
+2670,🐳,spouting whale
+2671,🐋,whale
+2672,🐬,dolphin
+2673,🦭,seal
+2674,🐟,fish
+2675,🐠,tropical fish
+2676,🐡,blowfish
+2677,🦈,shark
+2678,🐙,octopus
+2679,🐚,spiral shell
+2680,🐌,snail
+2681,🦋,butterfly
+2682,🐛,bug
+2683,🐜,ant
+2684,🐝,honeybee
+2685,🪲,beetle
+2686,🐞,lady beetle
+2687,🦗,cricket
+2688,🪳,cockroach
+2689,🕷️,spider
+2690,🕷,spider
+2691,🕸️,spider web
+2692,🕸,spider web
+2693,🦂,scorpion
+2694,🦟,mosquito
+2695,🪰,fly
+2696,🪱,worm
+2697,🦠,microbe
+2698,💐,bouquet
+2699,🌸,cherry blossom
+2700,💮,white flower
+2701,🏵️,rosette
+2702,🏵,rosette
+2703,🌹,rose
+2704,🥀,wilted flower
+2705,🌺,hibiscus
+2706,🌻,sunflower
+2707,🌼,blossom
+2708,🌷,tulip
+2709,🌱,seedling
+2710,🪴,potted plant
+2711,🌲,evergreen tree
+2712,🌳,deciduous tree
+2713,🌴,palm tree
+2714,🌵,cactus
+2715,🌾,sheaf of rice
+2716,🌿,herb
+2717,☘️,shamrock
+2718,☘,shamrock
+2719,🍀,four leaf clover
+2720,🍁,maple leaf
+2721,🍂,fallen leaf
+2722,🍃,leaf fluttering in wind
+2723,🍇,grapes
+2724,🍈,melon
+2725,🍉,watermelon
+2726,🍊,tangerine
+2727,🍋,lemon
+2728,🍌,banana
+2729,🍍,pineapple
+2730,🥭,mango
+2731,🍎,red apple
+2732,🍏,green apple
+2733,🍐,pear
+2734,🍑,peach
+2735,🍒,cherries
+2736,🍓,strawberry
+2737,🫐,blueberries
+2738,🥝,kiwi fruit
+2739,🍅,tomato
+2740,🫒,olive
+2741,🥥,coconut
+2742,🥑,avocado
+2743,🍆,eggplant
+2744,🥔,potato
+2745,🥕,carrot
+2746,🌽,ear of corn
+2747,🌶️,hot pepper
+2748,🌶,hot pepper
+2749,🫑,bell pepper
+2750,🥒,cucumber
+2751,🥬,leafy green
+2752,🥦,broccoli
+2753,🧄,garlic
+2754,🧅,onion
+2755,🍄,mushroom
+2756,🥜,peanuts
+2757,🌰,chestnut
+2758,🍞,bread
+2759,🥐,croissant
+2760,🥖,baguette bread
+2761,🫓,flatbread
+2762,🥨,pretzel
+2763,🥯,bagel
+2764,🥞,pancakes
+2765,🧇,waffle
+2766,🧀,cheese wedge
+2767,🍖,meat on bone
+2768,🍗,poultry leg
+2769,🥩,cut of meat
+2770,🥓,bacon
+2771,🍔,hamburger
+2772,🍟,french fries
+2773,🍕,pizza
+2774,🌭,hot dog
+2775,🥪,sandwich
+2776,🌮,taco
+2777,🌯,burrito
+2778,🫔,tamale
+2779,🥙,stuffed flatbread
+2780,🧆,falafel
+2781,🥚,egg
+2782,🍳,cooking
+2783,🥘,shallow pan of food
+2784,🍲,pot of food
+2785,🫕,fondue
+2786,🥣,bowl with spoon
+2787,🥗,green salad
+2788,🍿,popcorn
+2789,🧈,butter
+2790,🧂,salt
+2791,🥫,canned food
+2792,🍱,bento box
+2793,🍘,rice cracker
+2794,🍙,rice ball
+2795,🍚,cooked rice
+2796,🍛,curry rice
+2797,🍜,steaming bowl
+2798,🍝,spaghetti
+2799,🍠,roasted sweet potato
+2800,🍢,oden
+2801,🍣,sushi
+2802,🍤,fried shrimp
+2803,🍥,fish cake with swirl
+2804,🥮,moon cake
+2805,🍡,dango
+2806,🥟,dumpling
+2807,🥠,fortune cookie
+2808,🥡,takeout box
+2809,🦀,crab
+2810,🦞,lobster
+2811,🦐,shrimp
+2812,🦑,squid
+2813,🦪,oyster
+2814,🍦,soft ice cream
+2815,🍧,shaved ice
+2816,🍨,ice cream
+2817,🍩,doughnut
+2818,🍪,cookie
+2819,🎂,birthday cake
+2820,🍰,shortcake
+2821,🧁,cupcake
+2822,🥧,pie
+2823,🍫,chocolate bar
+2824,🍬,candy
+2825,🍭,lollipop
+2826,🍮,custard
+2827,🍯,honey pot
+2828,🍼,baby bottle
+2829,🥛,glass of milk
+2830,☕,hot beverage
+2831,🫖,teapot
+2832,🍵,teacup without handle
+2833,🍶,sake
+2834,🍾,bottle with popping cork
+2835,🍷,wine glass
+2836,🍸,cocktail glass
+2837,🍹,tropical drink
+2838,🍺,beer mug
+2839,🍻,clinking beer mugs
+2840,🥂,clinking glasses
+2841,🥃,tumbler glass
+2842,🥤,cup with straw
+2843,🧋,bubble tea
+2844,🧃,beverage box
+2845,🧉,mate
+2846,🧊,ice
+2847,🥢,chopsticks
+2848,🍽️,fork and knife with plate
+2849,🍽,fork and knife with plate
+2850,🍴,fork and knife
+2851,🥄,spoon
+2852,🔪,kitchen knife
+2853,🏺,amphora
+2855,🌎,globe showing Americas
+2856,🌏,globe showing Asia-Australia
+2857,🌐,globe with meridians
+2858,🗺️,world map
+2859,🗺,world map
+2860,🗾,map of Japan
+2861,🧭,compass
+2862,🏔️,snow-capped mountain
+2863,🏔,snow-capped mountain
+2864,⛰️,mountain
+2865,⛰,mountain
+2866,🌋,volcano
+2867,🗻,mount fuji
+2868,🏕️,camping
+2869,🏕,camping
+2870,🏖️,beach with umbrella
+2871,🏖,beach with umbrella
+2872,🏜️,desert
+2873,🏜,desert
+2874,🏝️,desert island
+2875,🏝,desert island
+2876,🏞️,national park
+2877,🏞,national park
+2878,🏟️,stadium
+2879,🏟,stadium
+2880,🏛️,classical building
+2881,🏛,classical building
+2882,🏗️,building construction
+2883,🏗,building construction
+2884,🧱,brick
+2885,🪨,rock
+2886,🪵,wood
+2887,🛖,hut
+2888,🏘️,houses
+2889,🏘,houses
+2890,🏚️,derelict house
+2891,🏚,derelict house
+2892,🏠,house
+2893,🏡,house with garden
+2894,🏢,office building
+2895,🏣,Japanese post office
+2896,🏤,post office
+2897,🏥,hospital
+2898,🏦,bank
+2899,🏨,hotel
+2900,🏩,love hotel
+2901,🏪,convenience store
+2902,🏫,school
+2903,🏬,department store
+2904,🏭,factory
+2905,🏯,Japanese castle
+2906,🏰,castle
+2907,💒,wedding
+2908,🗼,Tokyo tower
+2909,🗽,Statue of Liberty
+2910,⛪,church
+2911,🕌,mosque
+2912,🛕,hindu temple
+2913,🕍,synagogue
+2914,⛩️,shinto shrine
+2915,⛩,shinto shrine
+2916,🕋,kaaba
+2917,⛲,fountain
+2918,⛺,tent
+2919,🌁,foggy
+2920,🌃,night with stars
+2921,🏙️,cityscape
+2922,🏙,cityscape
+2923,🌄,sunrise over mountains
+2924,🌅,sunrise
+2925,🌆,cityscape at dusk
+2926,🌇,sunset
+2927,🌉,bridge at night
+2928,♨️,hot springs
+2929,♨,hot springs
+2930,🎠,carousel horse
+2931,🎡,ferris wheel
+2932,🎢,roller coaster
+2933,💈,barber pole
+2934,🎪,circus tent
+2935,🚂,locomotive
+2936,🚃,railway car
+2937,🚄,high-speed train
+2938,🚅,bullet train
+2939,🚆,train
+2940,🚇,metro
+2941,🚈,light rail
+2942,🚉,station
+2943,🚊,tram
+2944,🚝,monorail
+2945,🚞,mountain railway
+2946,🚋,tram car
+2947,🚌,bus
+2948,🚍,oncoming bus
+2949,🚎,trolleybus
+2950,🚐,minibus
+2951,🚑,ambulance
+2952,🚒,fire engine
+2953,🚓,police car
+2954,🚔,oncoming police car
+2955,🚕,taxi
+2956,🚖,oncoming taxi
+2957,🚗,automobile
+2958,🚘,oncoming automobile
+2959,🚙,sport utility vehicle
+2960,🛻,pickup truck
+2961,🚚,delivery truck
+2962,🚛,articulated lorry
+2963,🚜,tractor
+2964,🏎️,racing car
+2965,🏎,racing car
+2966,🏍️,motorcycle
+2967,🏍,motorcycle
+2968,🛵,motor scooter
+2969,🦽,manual wheelchair
+2970,🦼,motorized wheelchair
+2971,🛺,auto rickshaw
+2972,🚲,bicycle
+2973,🛴,kick scooter
+2974,🛹,skateboard
+2975,🛼,roller skate
+2976,🚏,bus stop
+2977,🛣️,motorway
+2978,🛣,motorway
+2979,🛤️,railway track
+2980,🛤,railway track
+2981,🛢️,oil drum
+2982,🛢,oil drum
+2983,⛽,fuel pump
+2984,🚨,police car light
+2985,🚥,horizontal traffic light
+2986,🚦,vertical traffic light
+2987,🛑,stop sign
+2988,🚧,construction
+2989,⚓,anchor
+2990,⛵,sailboat
+2991,🛶,canoe
+2992,🚤,speedboat
+2993,🛳️,passenger ship
+2994,🛳,passenger ship
+2995,⛴️,ferry
+2996,⛴,ferry
+2997,🛥️,motor boat
+2998,🛥,motor boat
+2999,🚢,ship
+3000,✈️,airplane
+3001,✈,airplane
+3002,🛩️,small airplane
+3003,🛩,small airplane
+3004,🛫,airplane departure
+3005,🛬,airplane arrival
+3006,🪂,parachute
+3007,💺,seat
+3008,🚁,helicopter
+3009,🚟,suspension railway
+3010,🚠,mountain cableway
+3011,🚡,aerial tramway
+3012,🛰️,satellite
+3013,🛰,satellite
+3014,🚀,rocket
+3015,🛸,flying saucer
+3016,🛎️,bellhop bell
+3017,🛎,bellhop bell
+3018,🧳,luggage
+3019,⌛,hourglass done
+3020,⏳,hourglass not done
+3021,⌚,watch
+3022,⏰,alarm clock
+3023,⏱️,stopwatch
+3024,⏱,stopwatch
+3025,⏲️,timer clock
+3026,⏲,timer clock
+3027,🕰️,mantelpiece clock
+3028,🕰,mantelpiece clock
+3029,🕛,twelve o’clock
+3030,🕧,twelve-thirty
+3031,🕐,one o’clock
+3032,🕜,one-thirty
+3033,🕑,two o’clock
+3034,🕝,two-thirty
+3035,🕒,three o’clock
+3036,🕞,three-thirty
+3037,🕓,four o’clock
+3038,🕟,four-thirty
+3039,🕔,five o’clock
+3040,🕠,five-thirty
+3041,🕕,six o’clock
+3042,🕡,six-thirty
+3043,🕖,seven o’clock
+3044,🕢,seven-thirty
+3045,🕗,eight o’clock
+3046,🕣,eight-thirty
+3047,🕘,nine o’clock
+3048,🕤,nine-thirty
+3049,🕙,ten o’clock
+3050,🕥,ten-thirty
+3051,🕚,eleven o’clock
+3052,🕦,eleven-thirty
+3053,🌑,new moon
+3054,🌒,waxing crescent moon
+3055,🌓,first quarter moon
+3056,🌔,waxing gibbous moon
+3057,🌕,full moon
+3058,🌖,waning gibbous moon
+3059,🌗,last quarter moon
+3060,🌘,waning crescent moon
+3061,🌙,crescent moon
+3062,🌚,new moon face
+3063,🌛,first quarter moon face
+3064,🌜,last quarter moon face
+3065,🌡️,thermometer
+3066,🌡,thermometer
+3067,☀️,sun
+3068,☀,sun
+3069,🌝,full moon face
+3070,🌞,sun with face
+3071,🪐,ringed planet
+3072,⭐,star
+3073,🌟,glowing star
+3074,🌠,shooting star
+3075,🌌,milky way
+3076,☁️,cloud
+3077,☁,cloud
+3078,⛅,sun behind cloud
+3079,⛈️,cloud with lightning and rain
+3080,⛈,cloud with lightning and rain
+3081,🌤️,sun behind small cloud
+3082,🌤,sun behind small cloud
+3083,🌥️,sun behind large cloud
+3084,🌥,sun behind large cloud
+3085,🌦️,sun behind rain cloud
+3086,🌦,sun behind rain cloud
+3087,🌧️,cloud with rain
+3088,🌧,cloud with rain
+3089,🌨️,cloud with snow
+3090,🌨,cloud with snow
+3091,🌩️,cloud with lightning
+3092,🌩,cloud with lightning
+3093,🌪️,tornado
+3094,🌪,tornado
+3095,🌫️,fog
+3096,🌫,fog
+3097,🌬️,wind face
+3098,🌬,wind face
+3099,🌀,cyclone
+3100,🌈,rainbow
+3101,🌂,closed umbrella
+3102,☂️,umbrella
+3103,☂,umbrella
+3104,☔,umbrella with rain drops
+3105,⛱️,umbrella on ground
+3106,⛱,umbrella on ground
+3107,⚡,high voltage
+3108,❄️,snowflake
+3109,❄,snowflake
+3110,☃️,snowman
+3111,☃,snowman
+3112,⛄,snowman without snow
+3113,☄️,comet
+3114,☄,comet
+3115,🔥,fire
+3116,💧,droplet
+3117,🌊,water wave
+3118,🎃,jack-o-lantern
+3119,🎄,Christmas tree
+3120,🎆,fireworks
+3121,🎇,sparkler
+3122,🧨,firecracker
+3123,✨,sparkles
+3124,🎈,balloon
+3125,🎉,party popper
+3126,🎊,confetti ball
+3127,🎋,tanabata tree
+3128,🎍,pine decoration
+3129,🎎,Japanese dolls
+3130,🎏,carp streamer
+3131,🎐,wind chime
+3132,🎑,moon viewing ceremony
+3133,🧧,red envelope
+3134,🎀,ribbon
+3135,🎁,wrapped gift
+3136,🎗️,reminder ribbon
+3137,🎗,reminder ribbon
+3138,🎟️,admission tickets
+3139,🎟,admission tickets
+3140,🎫,ticket
+3141,🎖️,military medal
+3142,🎖,military medal
+3143,🏆,trophy
+3144,🏅,sports medal
+3145,🥇,1st place medal
+3146,🥈,2nd place medal
+3147,🥉,3rd place medal
+3148,⚽,soccer ball
+3149,⚾,baseball
+3150,🥎,softball
+3151,🏀,basketball
+3152,🏐,volleyball
+3153,🏈,american football
+3154,🏉,rugby football
+3155,🎾,tennis
+3156,🥏,flying disc
+3157,🎳,bowling
+3158,🏏,cricket game
+3159,🏑,field hockey
+3160,🏒,ice hockey
+3161,🥍,lacrosse
+3162,🏓,ping pong
+3163,🏸,badminton
+3164,🥊,boxing glove
+3165,🥋,martial arts uniform
+3166,🥅,goal net
+3167,⛳,flag in hole
+3168,⛸️,ice skate
+3169,⛸,ice skate
+3170,🎣,fishing pole
+3171,🤿,diving mask
+3172,🎽,running shirt
+3173,🎿,skis
+3174,🛷,sled
+3175,🥌,curling stone
+3176,🎯,direct hit
+3177,🪀,yo-yo
+3178,🪁,kite
+3179,🎱,pool 8 ball
+3180,🔮,crystal ball
+3181,🪄,magic wand
+3182,🧿,nazar amulet
+3183,🎮,video game
+3184,🕹️,joystick
+3185,🕹,joystick
+3186,🎰,slot machine
+3187,🎲,game die
+3188,🧩,puzzle piece
+3189,🧸,teddy bear
+3190,🪅,piñata
+3191,🪆,nesting dolls
+3192,♠️,spade suit
+3193,♠,spade suit
+3194,♥️,heart suit
+3195,♥,heart suit
+3196,♦️,diamond suit
+3197,♦,diamond suit
+3198,♣️,club suit
+3199,♣,club suit
+3200,♟️,chess pawn
+3201,♟,chess pawn
+3202,🃏,joker
+3203,🀄,mahjong red dragon
+3204,🎴,flower playing cards
+3205,🎭,performing arts
+3206,🖼️,framed picture
+3207,🖼,framed picture
+3208,🎨,artist palette
+3209,🧵,thread
+3210,🪡,sewing needle
+3211,🧶,yarn
+3212,🪢,knot
+3213,👓,glasses
+3214,🕶️,sunglasses
+3215,🕶,sunglasses
+3216,🥽,goggles
+3217,🥼,lab coat
+3218,🦺,safety vest
+3219,👔,necktie
+3220,👕,t-shirt
+3221,👖,jeans
+3222,🧣,scarf
+3223,🧤,gloves
+3224,🧥,coat
+3225,🧦,socks
+3226,👗,dress
+3227,👘,kimono
+3228,🥻,sari
+3229,🩱,one-piece swimsuit
+3230,🩲,briefs
+3231,🩳,shorts
+3232,👙,bikini
+3233,👚,woman’s clothes
+3234,👛,purse
+3235,👜,handbag
+3236,👝,clutch bag
+3237,🛍️,shopping bags
+3238,🛍,shopping bags
+3239,🎒,backpack
+3240,🩴,thong sandal
+3241,👞,man’s shoe
+3242,👟,running shoe
+3243,🥾,hiking boot
+3244,🥿,flat shoe
+3245,👠,high-heeled shoe
+3246,👡,woman’s sandal
+3247,🩰,ballet shoes
+3248,👢,woman’s boot
+3249,👑,crown
+3250,👒,woman’s hat
+3251,🎩,top hat
+3252,🎓,graduation cap
+3253,🧢,billed cap
+3254,🪖,military helmet
+3255,⛑️,rescue worker’s helmet
+3256,⛑,rescue worker’s helmet
+3257,📿,prayer beads
+3258,💄,lipstick
+3259,💍,ring
+3260,💎,gem stone
+3261,🔇,muted speaker
+3262,🔈,speaker low volume
+3263,🔉,speaker medium volume
+3264,🔊,speaker high volume
+3265,📢,loudspeaker
+3266,📣,megaphone
+3267,📯,postal horn
+3268,🔔,bell
+3269,🔕,bell with slash
+3270,🎼,musical score
+3271,🎵,musical note
+3272,🎶,musical notes
+3273,🎙️,studio microphone
+3274,🎙,studio microphone
+3275,🎚️,level slider
+3276,🎚,level slider
+3277,🎛️,control knobs
+3278,🎛,control knobs
+3279,🎤,microphone
+3280,🎧,headphone
+3281,📻,radio
+3282,🎷,saxophone
+3283,🪗,accordion
+3284,🎸,guitar
+3285,🎹,musical keyboard
+3286,🎺,trumpet
+3287,🎻,violin
+3288,🪕,banjo
+3289,🥁,drum
+3290,🪘,long drum
+3291,📱,mobile phone
+3292,📲,mobile phone with arrow
+3293,☎️,telephone
+3294,☎,telephone
+3295,📞,telephone receiver
+3296,📟,pager
+3297,📠,fax machine
+3298,🔋,battery
+3299,🔌,electric plug
+3300,💻,laptop
+3301,🖥️,desktop computer
+3302,🖥,desktop computer
+3303,🖨️,printer
+3304,🖨,printer
+3305,⌨️,keyboard
+3306,⌨,keyboard
+3307,🖱️,computer mouse
+3308,🖱,computer mouse
+3309,🖲️,trackball
+3310,🖲,trackball
+3311,💽,computer disk
+3312,💾,floppy disk
+3313,💿,optical disk
+3314,📀,dvd
+3315,🧮,abacus
+3316,🎥,movie camera
+3317,🎞️,film frames
+3318,🎞,film frames
+3319,📽️,film projector
+3320,📽,film projector
+3321,🎬,clapper board
+3322,📺,television
+3323,📷,camera
+3324,📸,camera with flash
+3325,📹,video camera
+3326,📼,videocassette
+3327,🔍,magnifying glass tilted left
+3328,🔎,magnifying glass tilted right
+3329,🕯️,candle
+3330,🕯,candle
+3331,💡,light bulb
+3332,🔦,flashlight
+3333,🏮,red paper lantern
+3334,🪔,diya lamp
+3335,📔,notebook with decorative cover
+3336,📕,closed book
+3337,📖,open book
+3338,📗,green book
+3339,📘,blue book
+3340,📙,orange book
+3341,📚,books
+3342,📓,notebook
+3343,📒,ledger
+3344,📃,page with curl
+3345,📜,scroll
+3346,📄,page facing up
+3347,📰,newspaper
+3348,🗞️,rolled-up newspaper
+3349,🗞,rolled-up newspaper
+3350,📑,bookmark tabs
+3351,🔖,bookmark
+3352,🏷️,label
+3353,🏷,label
+3354,💰,money bag
+3355,🪙,coin
+3356,💴,yen banknote
+3357,💵,dollar banknote
+3358,💶,euro banknote
+3359,💷,pound banknote
+3360,💸,money with wings
+3361,💳,credit card
+3362,🧾,receipt
+3363,💹,chart increasing with yen
+3364,✉️,envelope
+3365,✉,envelope
+3366,📧,e-mail
+3367,📨,incoming envelope
+3368,📩,envelope with arrow
+3369,📤,outbox tray
+3370,📥,inbox tray
+3371,📦,package
+3372,📫,closed mailbox with raised flag
+3373,📪,closed mailbox with lowered flag
+3374,📬,open mailbox with raised flag
+3375,📭,open mailbox with lowered flag
+3376,📮,postbox
+3377,🗳️,ballot box with ballot
+3378,🗳,ballot box with ballot
+3379,✏️,pencil
+3380,✏,pencil
+3381,✒️,black nib
+3382,✒,black nib
+3383,🖋️,fountain pen
+3384,🖋,fountain pen
+3385,🖊️,pen
+3386,🖊,pen
+3387,🖌️,paintbrush
+3388,🖌,paintbrush
+3389,🖍️,crayon
+3390,🖍,crayon
+3391,📝,memo
+3392,💼,briefcase
+3393,📁,file folder
+3394,📂,open file folder
+3395,🗂️,card index dividers
+3396,🗂,card index dividers
+3397,📅,calendar
+3398,📆,tear-off calendar
+3399,🗒️,spiral notepad
+3400,🗒,spiral notepad
+3401,🗓️,spiral calendar
+3402,🗓,spiral calendar
+3403,📇,card index
+3404,📈,chart increasing
+3405,📉,chart decreasing
+3406,📊,bar chart
+3407,📋,clipboard
+3408,📌,pushpin
+3409,📍,round pushpin
+3410,📎,paperclip
+3411,🖇️,linked paperclips
+3412,🖇,linked paperclips
+3413,📏,straight ruler
+3414,📐,triangular ruler
+3415,✂️,scissors
+3416,✂,scissors
+3417,🗃️,card file box
+3418,🗃,card file box
+3419,🗄️,file cabinet
+3420,🗄,file cabinet
+3421,🗑️,wastebasket
+3422,🗑,wastebasket
+3423,🔒,locked
+3424,🔓,unlocked
+3425,🔏,locked with pen
+3426,🔐,locked with key
+3427,🔑,key
+3428,🗝️,old key
+3429,🗝,old key
+3430,🔨,hammer
+3431,🪓,axe
+3432,⛏️,pick
+3433,⛏,pick
+3434,⚒️,hammer and pick
+3435,⚒,hammer and pick
+3436,🛠️,hammer and wrench
+3437,🛠,hammer and wrench
+3438,🗡️,dagger
+3439,🗡,dagger
+3440,⚔️,crossed swords
+3441,⚔,crossed swords
+3442,🔫,pistol
+3443,🪃,boomerang
+3444,🏹,bow and arrow
+3445,🛡️,shield
+3446,🛡,shield
+3447,🪚,carpentry saw
+3448,🔧,wrench
+3449,🪛,screwdriver
+3450,🔩,nut and bolt
+3451,⚙️,gear
+3452,⚙,gear
+3453,🗜️,clamp
+3454,🗜,clamp
+3455,⚖️,balance scale
+3456,⚖,balance scale
+3457,🦯,white cane
+3458,🔗,link
+3459,⛓️,chains
+3460,⛓,chains
+3461,🪝,hook
+3462,🧰,toolbox
+3463,🧲,magnet
+3464,🪜,ladder
+3465,⚗️,alembic
+3466,⚗,alembic
+3467,🧪,test tube
+3468,🧫,petri dish
+3469,🧬,dna
+3470,🔬,microscope
+3471,🔭,telescope
+3472,📡,satellite antenna
+3473,💉,syringe
+3474,🩸,drop of blood
+3475,💊,pill
+3476,🩹,adhesive bandage
+3477,🩺,stethoscope
+3478,🚪,door
+3479,🛗,elevator
+3480,🪞,mirror
+3481,🪟,window
+3482,🛏️,bed
+3483,🛏,bed
+3484,🛋️,couch and lamp
+3485,🛋,couch and lamp
+3486,🪑,chair
+3487,🚽,toilet
+3488,🪠,plunger
+3489,🚿,shower
+3490,🛁,bathtub
+3491,🪤,mouse trap
+3492,🪒,razor
+3493,🧴,lotion bottle
+3494,🧷,safety pin
+3495,🧹,broom
+3496,🧺,basket
+3497,🧻,roll of paper
+3498,🪣,bucket
+3499,🧼,soap
+3500,🪥,toothbrush
+3501,🧽,sponge
+3502,🧯,fire extinguisher
+3503,🛒,shopping cart
+3504,🚬,cigarette
+3505,⚰️,coffin
+3506,⚰,coffin
+3507,🪦,headstone
+3508,⚱️,funeral urn
+3509,⚱,funeral urn
+3510,🗿,moai
+3511,🪧,placard
+3512,🏧,ATM sign
+3513,🚮,litter in bin sign
+3514,🚰,potable water
+3515,♿,wheelchair symbol
+3516,🚹,men’s room
+3517,🚺,women’s room
+3518,🚻,restroom
+3519,🚼,baby symbol
+3520,🚾,water closet
+3521,🛂,passport control
+3522,🛃,customs
+3523,🛄,baggage claim
+3524,🛅,left luggage
+3525,⚠️,warning
+3526,⚠,warning
+3527,🚸,children crossing
+3528,⛔,no entry
+3529,🚫,prohibited
+3530,🚳,no bicycles
+3531,🚭,no smoking
+3532,🚯,no littering
+3533,🚱,non-potable water
+3534,🚷,no pedestrians
+3535,📵,no mobile phones
+3536,🔞,no one under eighteen
+3537,☢️,radioactive
+3538,☢,radioactive
+3539,☣️,biohazard
+3540,☣,biohazard
+3541,⬆️,up arrow
+3542,⬆,up arrow
+3543,↗️,up-right arrow
+3544,↗,up-right arrow
+3545,➡️,right arrow
+3546,➡,right arrow
+3547,↘️,down-right arrow
+3548,↘,down-right arrow
+3549,⬇️,down arrow
+3550,⬇,down arrow
+3551,↙️,down-left arrow
+3552,↙,down-left arrow
+3553,⬅️,left arrow
+3554,⬅,left arrow
+3555,↖️,up-left arrow
+3556,↖,up-left arrow
+3557,↕️,up-down arrow
+3558,↕,up-down arrow
+3559,↔️,left-right arrow
+3560,↔,left-right arrow
+3561,↩️,right arrow curving left
+3562,↩,right arrow curving left
+3563,↪️,left arrow curving right
+3564,↪,left arrow curving right
+3565,⤴️,right arrow curving up
+3566,⤴,right arrow curving up
+3567,⤵️,right arrow curving down
+3568,⤵,right arrow curving down
+3569,🔃,clockwise vertical arrows
+3570,🔄,counterclockwise arrows button
+3571,🔙,BACK arrow
+3572,🔚,arrow
+3573,🔛,ON! arrow
+3574,🔜,SOON arrow
+3575,🔝,TOP arrow
+3576,🛐,place of worship
+3577,⚛️,atom symbol
+3578,⚛,atom symbol
+3579,🕉️,om
+3580,🕉,om
+3581,✡️,star of David
+3582,✡,star of David
+3583,☸️,wheel of dharma
+3584,☸,wheel of dharma
+3585,☯️,yin yang
+3586,☯,yin yang
+3587,✝️,latin cross
+3588,✝,latin cross
+3589,☦️,orthodox cross
+3590,☦,orthodox cross
+3591,☪️,star and crescent
+3592,☪,star and crescent
+3593,☮️,peace symbol
+3594,☮,peace symbol
+3595,🕎,menorah
+3596,🔯,dotted six-pointed star
+3597,♈,Aries
+3598,♉,Taurus
+3599,♊,Gemini
+3600,♋,Cancer
+3601,♌,Leo
+3602,♍,Virgo
+3603,♎,Libra
+3604,♏,Scorpio
+3605,♐,Sagittarius
+3606,♑,Capricorn
+3607,♒,Aquarius
+3608,♓,Pisces
+3609,⛎,Ophiuchus
+3610,🔀,shuffle tracks button
+3611,🔁,repeat button
+3612,🔂,repeat single button
+3613,▶️,play button
+3614,▶,play button
+3615,⏩,fast-forward button
+3616,⏭️,next track button
+3617,⏭,next track button
+3618,⏯️,play or pause button
+3619,⏯,play or pause button
+3620,◀️,reverse button
+3621,◀,reverse button
+3622,⏪,fast reverse button
+3623,⏮️,last track button
+3624,⏮,last track button
+3625,🔼,upwards button
+3626,⏫,fast up button
+3627,🔽,downwards button
+3628,⏬,fast down button
+3629,⏸️,pause button
+3630,⏸,pause button
+3631,⏹️,stop button
+3632,⏹,stop button
+3633,⏺️,record button
+3634,⏺,record button
+3635,⏏️,eject button
+3636,⏏,eject button
+3637,🎦,cinema
+3638,🔅,dim button
+3639,🔆,bright button
+3640,📶,antenna bars
+3641,📳,vibration mode
+3642,📴,mobile phone off
+3643,♀️,female sign
+3644,♀,female sign
+3645,♂️,male sign
+3646,♂,male sign
+3647,⚧️,transgender symbol
+3648,⚧,transgender symbol
+3649,✖️,multiply
+3650,✖,multiply
+3651,➕,plus
+3652,➖,minus
+3653,➗,divide
+3654,♾️,infinity
+3655,♾,infinity
+3656,‼️,double exclamation mark
+3657,‼,double exclamation mark
+3658,⁉️,exclamation question mark
+3659,⁉,exclamation question mark
+3660,❓,question mark
+3661,❔,white question mark
+3662,❕,white exclamation mark
+3663,❗,exclamation mark
+3664,〰️,wavy dash
+3665,〰,wavy dash
+3666,💱,currency exchange
+3667,💲,heavy dollar sign
+3668,⚕️,medical symbol
+3669,⚕,medical symbol
+3670,♻️,recycling symbol
+3671,♻,recycling symbol
+3672,⚜️,fleur-de-lis
+3673,⚜,fleur-de-lis
+3674,🔱,trident emblem
+3675,📛,name badge
+3676,🔰,Japanese symbol for beginner
+3677,⭕,hollow red circle
+3678,✅,check mark button
+3679,☑️,check box with check
+3680,☑,check box with check
+3681,✔️,check mark
+3682,✔,check mark
+3683,❌,cross mark
+3684,❎,cross mark button
+3685,➰,curly loop
+3686,➿,double curly loop
+3687,〽️,part alternation mark
+3688,〽,part alternation mark
+3689,✳️,eight-spoked asterisk
+3690,✳,eight-spoked asterisk
+3691,✴️,eight-pointed star
+3692,✴,eight-pointed star
+3693,❇️,sparkle
+3694,❇,sparkle
+3695,©️,copyright
+3696,©,copyright
+3697,®️,registered
+3698,®,registered
+3699,™️,trade mark
+3700,™,trade mark
+3701,🔠,input latin uppercase
+3702,🔡,input latin lowercase
+3703,🔢,input numbers
+3704,🔣,input symbols
+3705,🔤,input latin letters
+3706,🅰️,A button (blood type)
+3707,🅰,A button (blood type)
+3708,🆎,AB button (blood type)
+3709,🅱️,B button (blood type)
+3710,🅱,B button (blood type)
+3711,🆑,CL button
+3712,🆒,COOL button
+3713,🆓,button
+3714,ℹ️,information
+3715,ℹ,information
+3716,🆔,ID button
+3717,Ⓜ️,circled M
+3718,Ⓜ,circled M
+3719,🆕,button
+3720,🆖,NG button
+3721,🅾️,O button (blood type)
+3722,🅾,O button (blood type)
+3723,🆗,OK button
+3724,🅿️,P button
+3725,🅿,P button
+3726,🆘,SOS button
+3727,🆙,UP! button
+3728,🆚,VS button
+3729,🈁,Japanese “here” button
+3730,🈂️,Japanese “service charge” button
+3731,🈂,Japanese “service charge” button
+3732,🈷️,Japanese “monthly amount” button
+3733,🈷,Japanese “monthly amount” button
+3734,🈶,Japanese “not free of charge” button
+3735,🈯,Japanese “reserved” button
+3736,🉐,Japanese “bargain” button
+3737,🈹,Japanese “discount” button
+3738,🈚,Japanese “free of charge” button
+3739,🈲,Japanese “prohibited” button
+3740,🉑,Japanese “acceptable” button
+3741,🈸,Japanese “application” button
+3742,🈴,Japanese “passing grade” button
+3743,🈳,Japanese “vacancy” button
+3744,㊗️,Japanese “congratulations” button
+3745,㊗,Japanese “congratulations” button
+3746,㊙️,Japanese “secret” button
+3747,㊙,Japanese “secret” button
+3748,🈺,Japanese “open for business” button
+3749,🈵,Japanese “no vacancy” button
+3750,🔴,red circle
+3751,🟠,orange circle
+3752,🟡,yellow circle
+3753,🟢,green circle
+3754,🔵,blue circle
+3755,🟣,purple circle
+3756,🟤,brown circle
+3757,⚫,black circle
+3758,⚪,white circle
+3759,🟥,red square
+3760,🟧,orange square
+3761,🟨,yellow square
+3762,🟩,green square
+3763,🟦,blue square
+3764,🟪,purple square
+3765,🟫,brown square
+3766,⬛,black large square
+3767,⬜,white large square
+3768,◼️,black medium square
+3769,◼,black medium square
+3770,◻️,white medium square
+3771,◻,white medium square
+3772,◾,black medium-small square
+3773,◽,white medium-small square
+3774,▪️,black small square
+3775,▪,black small square
+3776,▫️,white small square
+3777,▫,white small square
+3778,🔶,large orange diamond
+3779,🔷,large blue diamond
+3780,🔸,small orange diamond
+3781,🔹,small blue diamond
+3782,🔺,red triangle pointed up
+3783,🔻,red triangle pointed down
+3784,💠,diamond with a dot
+3785,🔘,radio button
+3786,🔳,white square button
+3787,🔲,black square button
+3788,🏁,chequered flag
+3789,🚩,triangular flag
+3790,🎌,crossed flags
+3791,🏴,black flag
+3792,🏳️,white flag
+3793,🏳,white flag
+3794,🏳️🌈,rainbow flag
+3795,🏳🌈,rainbow flag
+3796,🏳️⚧️,transgender flag
+3797,🏳⚧️,transgender flag
+3798,🏳️⚧,transgender flag
+3799,🏳⚧,transgender flag
+3800,🏴☠️,pirate flag
+3801,🇦🇨,flag: Ascension Island
+3802,🇦🇩,flag: Andorra
+3804,🇦🇫,flag: Afghanistan
+3805,🇦🇬,flag: Antigua & Barbuda
+3806,🇦🇮,flag: Anguilla
+3807,🇦🇱,flag: Albania
+3808,🇦🇲,flag: Armenia
+3809,🇦🇴,flag: Angola
+3810,🇦🇶,flag: Antarctica
+3811,🇦🇷,flag: Argentina
+3812,🇦🇸,flag: American Samoa
+3813,🇦🇹,flag: Austria
+3814,🇦🇺,flag: Australia
+3815,🇦🇼,flag: Aruba
+3816,🇦🇽,flag: Åland Islands
+3817,🇦🇿,flag: Azerbaijan
+3818,🇧🇦,flag: Bosnia & Herzegovina
+3819,🇧🇧,flag: Barbados
+3820,🇧🇩,flag: Bangladesh
+3821,🇧🇪,flag: Belgium
+3822,🇧🇫,flag: Burkina Faso
+3823,🇧🇬,flag: Bulgaria
+3824,🇧🇭,flag: Bahrain
+3825,🇧🇮,flag: Burundi
+3826,🇧🇯,flag: Benin
+3827,🇧🇱,flag: St. Barthélemy
+3828,🇧🇲,flag: Bermuda
+3829,🇧🇳,flag: Brunei
+3830,🇧🇴,flag: Bolivia
+3831,🇧🇶,flag: Caribbean Netherlands
+3832,🇧🇷,flag: Brazil
+3833,🇧🇸,flag: Bahamas
+3834,🇧🇹,flag: Bhutan
+3835,🇧🇻,flag: Bouvet Island
+3836,🇧🇼,flag: Botswana
+3837,🇧🇾,flag: Belarus
+3838,🇧🇿,flag: Belize
+3839,🇨🇦,flag: Canada
+3840,🇨🇨,flag: Cocos (Keeling) Islands
+3841,🇨🇩,flag: Congo - Kinshasa
+3842,🇨🇫,flag: Central African Republic
+3843,🇨🇬,flag: Congo - Brazzaville
+3844,🇨🇭,flag: Switzerland
+3845,🇨🇮,flag: Côte d’Ivoire
+3846,🇨🇰,flag: Cook Islands
+3847,🇨🇱,flag: Chile
+3848,🇨🇲,flag: Cameroon
+3849,🇨🇳,flag: China
+3850,🇨🇴,flag: Colombia
+3851,🇨🇵,flag: Clipperton Island
+3852,🇨🇷,flag: Costa Rica
+3853,🇨🇺,flag: Cuba
+3854,🇨🇻,flag: Cape Verde
+3855,🇨🇼,flag: Curaçao
+3856,🇨🇽,flag: Christmas Island
+3857,🇨🇾,flag: Cyprus
+3858,🇨🇿,flag: Czechia
+3859,🇩🇪,flag: Germany
+3860,🇩🇬,flag: Diego Garcia
+3861,🇩🇯,flag: Djibouti
+3862,🇩🇰,flag: Denmark
+3863,🇩🇲,flag: Dominica
+3864,🇩🇴,flag: Dominican Republic
+3865,🇩🇿,flag: Algeria
+3866,🇪🇦,flag: Ceuta & Melilla
+3870,🇪🇭,flag: Western Sahara
+3872,🇪🇸,flag: Spain
+3874,🇪🇺,Union
+3875,🇫🇮,flag: Finland
+3876,🇫🇯,flag: Fiji
+3877,🇫🇰,flag: Falkland Islands
+3878,🇫🇲,flag: Micronesia
+3879,🇫🇴,flag: Faroe Islands
+3880,🇫🇷,flag: France
+3881,🇬🇦,flag: Gabon
+3882,🇬🇧,flag: United Kingdom
+3883,🇬🇩,flag: Grenada
+3884,🇬🇪,flag: Georgia
+3885,🇬🇫,flag: French Guiana
+3886,🇬🇬,flag: Guernsey
+3887,🇬🇭,flag: Ghana
+3888,🇬🇮,flag: Gibraltar
+3889,🇬🇱,flag: Greenland
+3890,🇬🇲,flag: Gambia
+3891,🇬🇳,flag: Guinea
+3892,🇬🇵,flag: Guadeloupe
+3893,🇬🇶,Guinea
+3894,🇬🇷,flag: Greece
+3895,🇬🇸,flag: South Georgia & South Sandwich Islands
+3896,🇬🇹,flag: Guatemala
+3897,🇬🇺,flag: Guam
+3898,🇬🇼,flag: Guinea-Bissau
+3899,🇬🇾,flag: Guyana
+3900,🇭🇰,flag: Hong Kong SAR China
+3901,🇭🇲,flag: Heard & McDonald Islands
+3902,🇭🇳,flag: Honduras
+3903,🇭🇷,flag: Croatia
+3904,🇭🇹,flag: Haiti
+3905,🇭🇺,flag: Hungary
+3906,🇮🇨,flag: Canary Islands
+3907,🇮🇩,flag: Indonesia
+3908,🇮🇪,flag: Ireland
+3909,🇮🇱,flag: Israel
+3910,🇮🇲,flag: Isle of Man
+3911,🇮🇳,flag: India
+3912,🇮🇴,flag: British Indian Ocean Territory
+3913,🇮🇶,flag: Iraq
+3914,🇮🇷,flag: Iran
+3915,🇮🇸,flag: Iceland
+3916,🇮🇹,flag: Italy
+3917,🇯🇪,flag: Jersey
+3918,🇯🇲,flag: Jamaica
+3919,🇯🇴,flag: Jordan
+3920,🇯🇵,flag: Japan
+3921,🇰🇪,flag: Kenya
+3922,🇰🇬,flag: Kyrgyzstan
+3923,🇰🇭,flag: Cambodia
+3924,🇰🇮,flag: Kiribati
+3925,🇰🇲,flag: Comoros
+3926,🇰🇳,flag: St. Kitts & Nevis
+3927,🇰🇵,flag: North Korea
+3928,🇰🇷,flag: South Korea
+3929,🇰🇼,flag: Kuwait
+3930,🇰🇾,flag: Cayman Islands
+3931,🇰🇿,flag: Kazakhstan
+3932,🇱🇦,flag: Laos
+3933,🇱🇧,flag: Lebanon
+3934,🇱🇨,flag: St. Lucia
+3935,🇱🇮,flag: Liechtenstein
+3936,🇱🇰,flag: Sri Lanka
+3937,🇱🇷,flag: Liberia
+3938,🇱🇸,flag: Lesotho
+3939,🇱🇹,flag: Lithuania
+3940,🇱🇺,flag: Luxembourg
+3941,🇱🇻,flag: Latvia
+3942,🇱🇾,flag: Libya
+3943,🇲🇦,flag: Morocco
+3944,🇲🇨,flag: Monaco
+3945,🇲🇩,flag: Moldova
+3946,🇲🇪,flag: Montenegro
+3947,🇲🇫,flag: St. Martin
+3948,🇲🇬,flag: Madagascar
+3949,🇲🇭,flag: Marshall Islands
+3950,🇲🇰,flag: North Macedonia
+3951,🇲🇱,flag: Mali
+3952,🇲🇲,flag: Myanmar (Burma)
+3953,🇲🇳,flag: Mongolia
+3954,🇲🇴,flag: Macao SAR China
+3955,🇲🇵,flag: Northern Mariana Islands
+3956,🇲🇶,flag: Martinique
+3957,🇲🇷,flag: Mauritania
+3958,🇲🇸,flag: Montserrat
+3959,🇲🇹,flag: Malta
+3960,🇲🇺,flag: Mauritius
+3961,🇲🇻,flag: Maldives
+3962,🇲🇼,flag: Malawi
+3963,🇲🇽,flag: Mexico
+3964,🇲🇾,flag: Malaysia
+3965,🇲🇿,flag: Mozambique
+3966,🇳🇦,flag: Namibia
+3967,🇳🇨,flag: New Caledonia
+3968,🇳🇪,flag: Niger
+3969,🇳🇫,flag: Norfolk Island
+3970,🇳🇬,flag: Nigeria
+3971,🇳🇮,flag: Nicaragua
+3972,🇳🇱,flag: Netherlands
+3973,🇳🇴,flag: Norway
+3974,🇳🇵,flag: Nepal
+3975,🇳🇷,flag: Nauru
+3976,🇳🇺,flag: Niue
+3977,🇳🇿,flag: New Zealand
+3978,🇴🇲,flag: Oman
+3979,🇵🇦,flag: Panama
+3980,🇵🇪,flag: Peru
+3981,🇵🇫,flag: French Polynesia
+3982,🇵🇬,flag: Papua New Guinea
+3983,🇵🇭,flag: Philippines
+3984,🇵🇰,flag: Pakistan
+3985,🇵🇱,flag: Poland
+3986,🇵🇲,flag: St. Pierre & Miquelon
+3987,🇵🇳,flag: Pitcairn Islands
+3988,🇵🇷,flag: Puerto Rico
+3989,🇵🇸,flag: Palestinian Territories
+3990,🇵🇹,flag: Portugal
+3991,🇵🇼,flag: Palau
+3992,🇵🇾,flag: Paraguay
+3993,🇶🇦,flag: Qatar
+3994,🇷🇪,flag: Réunion
+3995,🇷🇴,flag: Romania
+3996,🇷🇸,flag: Serbia
+3997,🇷🇺,flag: Russia
+3998,🇷🇼,flag: Rwanda
+3999,🇸🇦,flag: Saudi Arabia
+4000,🇸🇧,flag: Solomon Islands
+4001,🇸🇨,flag: Seychelles
+4002,🇸🇩,flag: Sudan
+4003,🇸🇪,flag: Sweden
+4004,🇸🇬,flag: Singapore
+4005,🇸🇭,flag: St. Helena
+4006,🇸🇮,flag: Slovenia
+4007,🇸🇯,flag: Svalbard & Jan Mayen
+4008,🇸🇰,flag: Slovakia
+4009,🇸🇱,flag: Sierra Leone
+4010,🇸🇲,flag: San Marino
+4011,🇸🇳,flag: Senegal
+4012,🇸🇴,flag: Somalia
+4013,🇸🇷,flag: Suriname
+4014,🇸🇸,flag: South Sudan
+4015,🇸🇹,flag: São Tomé & Príncipe
+4016,🇸🇻,Salvador
+4017,🇸🇽,flag: Sint Maarten
+4018,🇸🇾,flag: Syria
+4020,🇹🇦,flag: Tristan da Cunha
+4021,🇹🇨,flag: Turks & Caicos Islands
+4022,🇹🇩,flag: Chad
+4023,🇹🇫,flag: French Southern Territories
+4024,🇹🇬,flag: Togo
+4025,🇹🇭,flag: Thailand
+4026,🇹🇯,flag: Tajikistan
+4027,🇹🇰,flag: Tokelau
+4028,🇹🇱,flag: Timor-Leste
+4029,🇹🇲,flag: Turkmenistan
+4030,🇹🇳,flag: Tunisia
+4031,🇹🇴,flag: Tonga
+4032,🇹🇷,flag: Turkey
+4033,🇹🇹,flag: Trinidad & Tobago
+4034,🇹🇻,flag: Tuvalu
+4035,🇹🇼,flag: Taiwan
+4036,🇹🇿,flag: Tanzania
+4037,🇺🇦,flag: Ukraine
+4038,🇺🇬,flag: Uganda
+4039,🇺🇲,flag: U.S. Outlying Islands
+4040,🇺🇳,flag: United Nations
+4041,🇺🇸,flag: United States
+4042,🇺🇾,flag: Uruguay
+4043,🇺🇿,flag: Uzbekistan
+4044,🇻🇦,flag: Vatican City
+4045,🇻🇨,flag: St. Vincent & Grenadines
+4046,🇻🇪,flag: Venezuela
+4047,🇻🇬,flag: British Virgin Islands
+4048,🇻🇮,flag: U.S. Virgin Islands
+4049,🇻🇳,flag: Vietnam
+4050,🇻🇺,flag: Vanuatu
+4051,🇼🇫,flag: Wallis & Futuna
+4052,🇼🇸,flag: Samoa
+4053,🇽🇰,flag: Kosovo
+4054,🇾🇪,flag: Yemen
+4055,🇾🇹,flag: Mayotte
+4056,🇿🇦,flag: South Africa
+4057,🇿🇲,flag: Zambia
+4058,🇿🇼,flag: Zimbabwe
+4060,🏴󠁧󠁢󠁳󠁣󠁴󠁿,flag: Scotland
+4061,🏴󠁧󠁢󠁷󠁬󠁳󠁿,flag: Wales
+4062,⊂二二二(＾ω＾)二⊃,"Being carefree and above, with arms stretched out while running/soaring"
+4063,(☞ﾟヮﾟ)☞,Do it
+4064,(ﾟ⊿ﾟ),I don't need it
+4065,(・Ａ・),That's bad
+4066,(V)o￥o(V),Alien Baltan
+4067,( ﾟдﾟ),Amazed
+4068,O:‑),"Angel, saint, innocent"
+4069,O:),"Angel, saint, innocent"
+4070,0:‑3,"Angel, saint, innocent"
+4071,0:‑),"Angel, saint, innocent"
+4072,0:),"Angel, saint, innocent"
+4073,0;^),"Angel, saint, innocent"
+4074,(＃ﾟДﾟ),Angry
+4075,(';'),Baby
+4076,～°·_·°～,Bat
+4077,ヽ(`Д´)ﾉ,Be irritable
+4078,:‑###..,Being sick
+4079,:###..,Being sick
+4080,=:o],Bill Clinton
+4081,(*^3^)/~☆,Blowing a kiss
+4082,●～*,Bomb
+4083,</3,Broken-heart
+4084,<,Broken-heart
+4085,.o○○o.,Bubbles
+4086,(´∀｀),Carefree
+4087,(･∀･)つ⑩,Carrying money
+4088,(=^・^=),Cat
+4089,(=^・・^=),Cat
+4090,=^_^=,Cat
+4091,\o/,Cheer
+4092,* /*,Cheerleader
+4093,щ(ﾟДﾟщ)(屮ﾟДﾟ)屮,Come on
+4094,((+_+)),Confused
+4095,(+o+),Confused
+4096,(°°),Confused
+4097,(°-°),Confused
+4098,(°.°),Confused
+4099,(°_°),Confused
+4100,(°_°>),Confused
+4101,(°レ°),Confused
+4102,(・・?(?_?),Confusion
+4103,|;‑),"Cool, bored/yawning"
+4104,|‑O,"Cool, bored/yawning"
+4105,:'‑(,Crying
+4106,:'(,Crying
+4107,( ^^)_U~~( ^^)_旦~~,Cup of tea
+4108,[ﾟдﾟ],Deflagged
+4109,"( ´,_ゝ`)","Depressed, unsatisfied (based on indifferent)"
+4110,(ﾟ∀ﾟ),"Discharged drug-in-brain, goofing around"
+4111,"┌(；`～,)┐",Discombobulated
+4112,(*￣m￣),Dissatisfied
+4113,┐('～`；)┌,Don't know the answer
+4114,%‑),"Drunk, confused"
+4115,%),"Drunk, confused"
+4116,<:‑|,"Dumb, dunce-like"
+4117,5:‑),Elvis Presley
+4118,~:‑\,Elvis Presley
+4119,:$,"Embarrassed, blushing"
+4120,://),"Embarrassed, blushing"
+4121,://3,"Embarrassed, blushing"
+4122,>:‑),"Evil, devilish"
+4123,>:),"Evil, devilish"
+4124,}:‑),"Evil, devilish"
+4125,}:),"Evil, devilish"
+4126,3:‑),"Evil, devilish"
+4127,3:),"Evil, devilish"
+4128,>;),"Evil, devilish"
+4129,>:3,"Evil, devilish"
+4130,>;3,"Evil, devilish"
+4131,＼(~o~)／,Excited
+4132,＼(^o^)／,Excited
+4133,＼(-o-)／,Excited
+4134,ヽ(^。^)ノ,Excited
+4135,ヽ(^o^)丿,Excited
+4136,(*^0^*),Excited
+4137,(^0_0^),Eyeglasses
+4138,(－‸ლ),Facepalm
+4139,(`･ω･´),Feel perky
+4140,><>,"Fish, something's fishy, Christian fish"
+4141,<*)))‑{,"Fish, something's fishy, Christian fish"
+4142,><(((*>,"Fish, something's fishy, Christian fish"
+4143,m9(・∀・),Flash of intuition
+4144,ヽ(´ー`)人(´∇｀)人(`Д´)ノ,Friendly
+4145,:‑(,"Frown, sad, angry, pouting"
+4146,:(,"Frown, sad, angry, pouting"
+4147,:‑c,"Frown, sad, angry, pouting"
+4148,:c,"Frown, sad, angry, pouting"
+4149,:‑<,"Frown, sad, angry, pouting"
+4150,:<,"Frown, sad, angry, pouting"
+4151,:‑[,"Frown, sad, angry, pouting"
+4152,:[,"Frown, sad, angry, pouting"
+4153,:-||,"Frown, sad, angry, pouting"
+4154,>:[,"Frown, sad, angry, pouting"
+4155,:{,"Frown, sad, angry, pouting"
+4156,:@,"Frown, sad, angry, pouting"
+4157,>:(,"Frown, sad, angry, pouting"
+4158,;(,"Frown, sad, angry, pouting"
+4159,^m^,Giggling with hand covering mouth
+4160,(￣ー￣),"Simper, Snorlax"
+4161,^ㅂ^,Happy
+4162,d(*⌒▽⌒*)b,Happy expression
+4163,♪┏(・o･)┛♪┗ ( ･o･) ┓,"Happy expressions, dancing to the music"
+4164,( ﾟヮﾟ),"Happy, upbeat"
+4165,((d[-_-]b)),"Headphones, listening to music"
+4166,~(_8^(I),Homer Simpson
+4167,v.v,"Horror, disgust, sadness, great dismay"
+4168,D‑':,"Horror, disgust, sadness, great dismay (right to left)"
+4169,D:<,"Horror, disgust, sadness, great dismay (right to left)"
+4170,D:,"Horror, disgust, sadness, great dismay (right to left)"
+4171,D8,"Horror, disgust, sadness, great dismay (right to left)"
+4172,D;,"Horror, disgust, sadness, great dismay (right to left)"
+4173,D=,"Horror, disgust, sadness, great dismay (right to left)"
+4175,Σ(ﾟДﾟ),Huge surprise
+4176,(ﾟДﾟ;≡;ﾟДﾟ),Impatience
+4177,( ´_ゝ`),Indifferent
+4178,(*´▽｀*),Infatuation
+4179,(*°∀°)=3,Infatuation
+4180,( ´∀｀)σ)∀`),Jog someone's cheek
+4181,//0‑0\,John Lennon
+4182,( ..)φφ(..),Jotting note
+4183,uwu,Joy
+4184,UwU,Joy
+4185,^_^,Normal laugh
+4186,(°o°),Joyful
+4187,(^_^)/,Joyful
+4188,(^O^)／,Joyful
+4189,(^o^)／,Joyful
+4190,(^^)/,Joyful
+4191,(≧∇≦)/,Joyful
+4192,(/◕ヮ◕)/,Joyful
+4193,(^o^)丿,Joyful
+4194,∩(·ω·)∩,Joyful
+4195,(·ω·),Joyful
+4196,^ω^,Joyful
+4197,＼| ￣ヘ￣|／＿＿＿＿＿＿＿θ☆( *o*)/,Kick
+4198,:-*,Kiss
+4199,:*,Kiss
+4200,:×,Kiss
+4201,m(_ _)m,"Kowtow as a sign of respect, or dogeza for apology"
+4202,:‑D,"Laughing, big grin, laugh with glasses, or wide-eyed surprise"
+4203,:D,"Laughing, big grin, laugh with glasses, or wide-eyed surprise"
+4204,8‑D,"Laughing, big grin, laugh with glasses, or wide-eyed surprise"
+4205,8D,"Laughing, big grin, laugh with glasses, or wide-eyed surprise"
+4206,x‑D,"Laughing, big grin, laugh with glasses, or wide-eyed surprise"
+4207,xD,"Laughing, big grin, laugh with glasses, or wide-eyed surprise"
+4208,X‑D,"Laughing, big grin, laugh with glasses, or wide-eyed surprise"
+4209,XD,"Laughing, big grin, laugh with glasses, or wide-eyed surprise"
+4212,B^D,"Laughing, big grin, laugh with glasses, or wide-eyed surprise"
+4213,(*^^)v,"Laughing, cheerful"
+4214,(^^)v,"Laughing, cheerful"
+4215,(^_^)v,"Laughing, cheerful"
+4216,(’-’*)(＾ｖ＾),"Laughing, cheerful"
+4217,(＾▽＾),"Laughing, cheerful"
+4218,(・∀・),"Mocking, ""good"
+4219,(´∀`),"Laughing, cheerful"
+4220,(⌒▽⌒),"Laughing, cheerful"
+4221,('A`),Lonely
+4222,(..)(._.),Looking down
+4223,(p_-),N/A
+4224,(^^ゞ,"Nervous, embarrassed, troubled, shy, sweat drop"
+4225,(^_^;),"Nervous, embarrassed, troubled, shy, sweat drop"
+4226,(-_-;),"Nervous, embarrassed, troubled, shy, sweat drop"
+4227,(~_~;)(・.・;),"Nervous, embarrassed, troubled, shy, sweat drop"
+4228,(・_・;),"Nervous, embarrassed, troubled, shy, sweat drop"
+4229,(・・;),"Nervous, embarrassed, troubled, shy, sweat drop"
+4230,^^;,"Nervous, embarrassed, troubled, shy, sweat drop"
+4231,^_^;,"Nervous, embarrassed, troubled, shy, sweat drop"
+4232,(#^.^#),Normal laugh
+4233,(^,"Nervous, embarrassed, troubled, shy, sweat drop"
+4234,^;),"Nervous, embarrassed, troubled, shy, sweat drop"
+4235,>^_^<,Normal laugh
+4236,<^!^>,Normal laugh
+4237,^/^,Normal laugh
+4238,(*^_^*),Normal laugh
+4239,§^.^§,Normal laugh
+4240,(^<^),Normal laugh
+4241,(^.^),Normal laugh
+4242,(^ム^),Normal laugh
+4243,(^·^),Normal laugh
+4244,(^_^.),Normal laugh
+4245,(^_^),Normal laugh
+4246,(^^),Normal laugh
+4247,(^J^),Normal laugh
+4248,(*^.^*),Normal laugh
+4249,(^—^),Normal laugh
+4250,エェェ(´д｀)ェェエ,Not convincing
+4251,<コ:彡 C:.ミ,"Octopus, squid"
+4252,#‑),Partied all night
+4253,ヽ(´ー｀)ﾉ,Peace of mind
+4254,(ΘεΘ;),"Pretending not to notice, asleep because of boredom"
+4255,＼(°ロ＼),Questioning
+4256,(／ロ°)／,Questioning
+4257,ヽ(ｏ`皿′ｏ)ﾉ,Really angry
+4258,7:^],Ronald Reagan
+4259,",:‑)",Ronald Reagan
+4260,@};-,Rose
+4261,@}->--,Rose
+4262,@}‑;‑'‑‑‑,Rose
+4263,@>‑‑>‑‑,Rose
+4264,ε=ε=ε=┌(;*´Д`)ﾉ,Running
+4265,( つ Д ｀),Sad
+4266,('_'),"Sad, crying"
+4267,(/_;),"Sad, crying"
+4268,(T_T),"Sad, crying"
+4269,(;_;),"Sad, crying"
+4270,(;_;,"Sad, crying"
+4271,(;_:),"Sad, crying"
+4272,(;O;),"Sad, crying"
+4273,(:_;),"Sad, crying"
+4274,(ToT),"Sad, crying"
+4275,(Ｔ▽Ｔ),"Sad, crying"
+4276,;_;,"Sad, crying"
+4277,;-;,"Sad, crying"
+4278,;n;,"Sad, crying"
+4279,;;,"Sad, crying"
+4280,Q.Q,"Sad, crying"
+4281,T.T,"Sad, crying"
+4282,TnT,"Sad, crying"
+4283,QQ,"Sad, crying"
+4284,Q_Q,"Sad, crying"
+4285,(｀-´)>,Salute
+4286,*<|:‑),Santa Claus
+4287,:‑X,"Sealed lips or wearing braces, tongue-tied"
+4288,:X,"Sealed lips or wearing braces, tongue-tied"
+4289,:‑#,"Sealed lips or wearing braces, tongue-tied"
+4290,:#,"Sealed lips or wearing braces, tongue-tied"
+4291,:‑&,"Sealed lips or wearing braces, tongue-tied"
+4293,(ー_ー)!!,Shame
+4294,(-.-),Shame
+4295,(-_-),Shame
+4296,(一一),Shame
+4297,(；一_一),Shame
+4298,(l'o'l),Shocked
+4299,( ﾟ Дﾟ),"Shocked, surprised"
+4300,(°◇°),"Shocked, surprised"
+4301,☆彡☆ミ,Shooting star
+4302,(≧ロ≦),Shouting
+4303,>.<,"Skeptical, annoyed, undecided, uneasy, hesitant"
+4304,(-_-)zzz,Sleeping
+4305,⊂(ﾟДﾟ⊂⌒｀つ,Sliding on belly
+4306,≡≡≡(´⌒;;;≡≡≡,Sliding on belly
+4307,:‑),Smiley or happy face.
+4308,:),Smiley or happy face.
+4309,:-],Smiley or happy face.
+4310,:],Smiley or happy face.
+4311,:-3,Smiley or happy face.
+4312,:->,Smiley or happy face.
+4313,:>,Smiley or happy face.
+4314,8-),Smiley or happy face.
+4316,:-},Smiley or happy face.
+4317,:},Smiley or happy face.
+4318,:o),Smiley or happy face.
+4319,:c),Smiley or happy face.
+4320,:^),Smiley or happy face.
+4321,=],Smiley or happy face.
+4322,=),Smiley or happy face.
+4323,(´ー`)y-~~,Smoking
+4324,~>°)～～～,Snake
+4325,(´･ω･`),Snubbed or deflated
+4326,(((( ；ﾟДﾟ))),Spook
+4327,:‑|,"Straight face no expression, indecision"
+4328,:|,"Straight face no expression, indecision"
+4329,.....φ(・∀・＊),Studying is good
+4330,O_O,"Surprise, shock, yawn"
+4331,o‑o,"Surprise, shock, yawn"
+4332,O_o,"Surprise, shock, yawn"
+4333,o_O,"Surprise, shock, yawn"
+4335,(￣□￣;),Surprised
+4336,°o°,Surprised
+4337,°O°,Surprised
+4338,:O o_O,Surprised
+4339,o_0,Surprised
+4340,o.O,Surprised
+4341,(o.o),Surprised
+4342,oO,Surprised
+4343,( ﾟДﾟ),"Surprised, or loudmouthed"
+4344,(╯°□°)╯︵ ┻━┻,Table flip
+4345,┬──┬ ¯\_(ツ),Table flip
+4346,┻━┻︵ヽ(`Д´)ﾉ︵ ┻━┻,Table flip
+4347,┬─┬ノ( º _ ºノ),Table flip
+4348,(°°)～,Tadpole
+4349,:'‑),Tears of happiness
+4350,:'),Tears of happiness
+4351,(´；ω；`),Terribly sad
+4352,(´-`).｡oO( ... ),Thinking
+4353,(=_=),Tired
+4354,:‑P,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4355,:P,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4356,X‑P,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4357,x‑p,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4358,:‑p,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4359,:p,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4360,:‑Þ,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4361,:Þ,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4362,:‑þ,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4363,:þ,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4364,:‑b,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4365,:b,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4367,>:P,"Tongue sticking out, cheeky/playful, blowing a raspberry"
+4368,:‑J,Tongue-in-cheek
+4369,(>_<),Troubled
+4370,(>_<)>,Troubled
+4371,(o|o),Ultraman
+4372,(ﾟдﾟ),Unforeseen
+4373,:-)),Very happy or double chin
+4374,(^^)/~~~,Waving
+4375,(^_^)/~,Waving
+4376,(;_;)/~~~,Waving
+4377,(^.^)/~~~,Waving
+4378,(-_-)/~~~,Waving
+4379,($··)/~~~,Waving
+4380,(@^^)/~~~,Waving
+4381,(T_T)/~~~,Waving
+4382,(ToT)/~~~,Waving
+4383,(´д)ﾋｿ(´Д｀)ﾋｿ(Д｀),Whispers
+4384,(^_-),Wink
+4385,(^_-)-☆,Wink
+4386,;‑),"Wink, smirk"
+4387,;),"Wink, smirk"
+4388,*-),"Wink, smirk"
+4389,*),"Wink, smirk"
+4390,;‑],"Wink, smirk"
+4391,;],"Wink, smirk"
+4392,;^),"Wink, smirk"
+4393,":‑,","Wink, smirk"
+4394,;D,"Wink, smirk"
+4395,"(-""-)",Worried
+4396,(ーー゛),Worried
+4397,(^_^メ),Worried
+4398,(-_-メ),Worried
+4399,(~_~メ),Worried
+4400,(－－〆),Worried
+4401,(・へ・),Worried
+4402,(｀´),Worried
+4403,<`～´>,Worried
+4404,<`ヘ´>,Worried
+4405,(ーー;),Worried
+4406,( ´Д｀),"Yelling, or panting"
